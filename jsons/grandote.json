@@ -1,0 +1,12015 @@
+{
+  "baseTemperature": 8.66,
+  "rusia": [
+    {
+      "year": 1753,
+      "metroy": 1,
+      "peligro": -1.366
+    },
+    {
+      "year": 1753,
+      "metroy": 2,
+      "peligro": -2.223
+    },
+    {
+      "year": 1753,
+      "metroy": 3,
+      "peligro": 0.211
+    },
+    {
+      "year": 1753,
+      "metroy": 4,
+      "peligro": -0.958
+    },
+    {
+      "year": 1753,
+      "metroy": 6,
+      "peligro": 1.049
+    },
+    {
+      "year": 1753,
+      "metroy": 7,
+      "peligro": 0.464
+    },
+    {
+      "year": 1753,
+      "metroy": 8,
+      "peligro": -0.526
+    },
+    {
+      "year": 1753,
+      "metroy": 9,
+      "peligro": 0.470
+    },
+    {
+      "year": 1753,
+      "metroy": 10,
+      "peligro": -0.610
+    },
+    {
+      "year": 1753,
+      "metroy": 11,
+      "peligro": -1.452
+    },
+    {
+      "year": 1753,
+      "metroy": 12,
+      "peligro": -4.256
+    },
+    {
+      "year": 1754,
+      "metroy": 1,
+      "peligro": -1.748
+    },
+    {
+      "year": 1754,
+      "metroy": 2,
+      "peligro": -4.175
+    },
+    {
+      "year": 1754,
+      "metroy": 3,
+      "peligro": -1.448
+    },
+    {
+      "year": 1754,
+      "metroy": 4,
+      "peligro": 2.672
+    },
+    {
+      "year": 1754,
+      "metroy": 5,
+      "peligro": -0.031
+    },
+    {
+      "year": 1754,
+      "metroy": 6,
+      "peligro": 0.826
+    },
+    {
+      "year": 1754,
+      "metroy": 7,
+      "peligro": 0.082
+    },
+    {
+      "year": 1754,
+      "metroy": 8,
+      "peligro": -1.308
+    },
+    {
+      "year": 1754,
+      "metroy": 9,
+      "peligro": -1.773
+    },
+    {
+      "year": 1754,
+      "metroy": 10,
+      "peligro": 0.134
+    },
+    {
+      "year": 1754,
+      "metroy": 11,
+      "peligro": -0.629
+    },
+    {
+      "year": 1754,
+      "metroy": 12,
+      "peligro": -0.362
+    },
+    {
+      "year": 1755,
+      "metroy": 1,
+      "peligro": -2.384
+    },
+    {
+      "year": 1755,
+      "metroy": 2,
+      "peligro": -2.962
+    },
+    {
+      "year": 1755,
+      "metroy": 3,
+      "peligro": -1.498
+    },
+    {
+      "year": 1755,
+      "metroy": 4,
+      "peligro": 0.084
+    },
+    {
+      "year": 1755,
+      "metroy": 5,
+      "peligro": 0.784
+    },
+    {
+      "year": 1755,
+      "metroy": 6,
+      "peligro": 1.872
+    },
+    {
+      "year": 1755,
+      "metroy": 7,
+      "peligro": -0.270
+    },
+    {
+      "year": 1755,
+      "metroy": 8,
+      "peligro": -1.369
+    },
+    {
+      "year": 1755,
+      "metroy": 9,
+      "peligro": -1.096
+    },
+    {
+      "year": 1755,
+      "metroy": 10,
+      "peligro": 0.610
+    },
+    {
+      "year": 1755,
+      "metroy": 11,
+      "peligro": -0.772
+    },
+    {
+      "year": 1755,
+      "metroy": 12,
+      "peligro": -2.551
+    },
+    {
+      "year": 1756,
+      "metroy": 1,
+      "peligro": 0.554
+    },
+    {
+      "year": 1756,
+      "metroy": 2,
+      "peligro": 2.772
+    },
+    {
+      "year": 1756,
+      "metroy": 3,
+      "peligro": -0.995
+    },
+    {
+      "year": 1756,
+      "metroy": 4,
+      "peligro": 0.940
+    },
+    {
+      "year": 1756,
+      "metroy": 5,
+      "peligro": 2.365
+    },
+    {
+      "year": 1756,
+      "metroy": 6,
+      "peligro": 1.066
+    },
+    {
+      "year": 1756,
+      "metroy": 7,
+      "peligro": -0.741
+    },
+    {
+      "year": 1756,
+      "metroy": 8,
+      "peligro": -1.481
+    },
+    {
+      "year": 1756,
+      "metroy": 9,
+      "peligro": -0.221
+    },
+    {
+      "year": 1756,
+      "metroy": 10,
+      "peligro": -2.177
+    },
+    {
+      "year": 1756,
+      "metroy": 11,
+      "peligro": -2.535
+    },
+    {
+      "year": 1756,
+      "metroy": 12,
+      "peligro": -3.079
+    },
+    {
+      "year": 1757,
+      "metroy": 1,
+      "peligro": -3.552
+    },
+    {
+      "year": 1757,
+      "metroy": 2,
+      "peligro": 0.885
+    },
+    {
+      "year": 1757,
+      "metroy": 3,
+      "peligro": -0.588
+    },
+    {
+      "year": 1757,
+      "metroy": 4,
+      "peligro": -0.904
+    },
+    {
+      "year": 1757,
+      "metroy": 5,
+      "peligro": 0.943
+    },
+    {
+      "year": 1757,
+      "metroy": 6,
+      "peligro": 3.635
+    },
+    {
+      "year": 1757,
+      "metroy": 7,
+      "peligro": 3.031
+    },
+    {
+      "year": 1757,
+      "metroy": 8,
+      "peligro": 2.942
+    },
+    {
+      "year": 1757,
+      "metroy": 9,
+      "peligro": 1.807
+    },
+    {
+      "year": 1757,
+      "metroy": 10,
+      "peligro": -3.128
+    },
+    {
+      "year": 1757,
+      "metroy": 11,
+      "peligro": -2.799
+    },
+    {
+      "year": 1757,
+      "metroy": 12,
+      "peligro": -4.085
+    },
+    {
+      "year": 1758,
+      "metroy": 1,
+      "peligro": -5.045
+    },
+    {
+      "year": 1758,
+      "metroy": 2,
+      "peligro": -2.020
+    },
+    {
+      "year": 1758,
+      "metroy": 3,
+      "peligro": -1.596
+    },
+    {
+      "year": 1758,
+      "metroy": 4,
+      "peligro": -2.015
+    },
+    {
+      "year": 1758,
+      "metroy": 5,
+      "peligro": -2.437
+    },
+    {
+      "year": 1758,
+      "metroy": 6,
+      "peligro": -0.572
+    },
+    {
+      "year": 1758,
+      "metroy": 7,
+      "peligro": -0.952
+    },
+    {
+      "year": 1758,
+      "metroy": 8,
+      "peligro": -2.996
+    },
+    {
+      "year": 1758,
+      "metroy": 9,
+      "peligro": -2.763
+    },
+    {
+      "year": 1758,
+      "metroy": 10,
+      "peligro": -6.976
+    },
+    {
+      "year": 1758,
+      "metroy": 11,
+      "peligro": 0.036
+    },
+    {
+      "year": 1758,
+      "metroy": 12,
+      "peligro": -1.591
+    },
+    {
+      "year": 1759,
+      "metroy": 1,
+      "peligro": 1.665
+    },
+    {
+      "year": 1759,
+      "metroy": 2,
+      "peligro": 0.791
+    },
+    {
+      "year": 1759,
+      "metroy": 3,
+      "peligro": -0.933
+    },
+    {
+      "year": 1759,
+      "metroy": 4,
+      "peligro": -3.226
+    },
+    {
+      "year": 1759,
+      "metroy": 5,
+      "peligro": -1.923
+    },
+    {
+      "year": 1759,
+      "metroy": 6,
+      "peligro": -0.250
+    },
+    {
+      "year": 1759,
+      "metroy": 7,
+      "peligro": -2.330
+    },
+    {
+      "year": 1759,
+      "metroy": 8,
+      "peligro": -0.139
+    },
+    {
+      "year": 1759,
+      "metroy": 9,
+      "peligro": -0.204
+    },
+    {
+      "year": 1759,
+      "metroy": 10,
+      "peligro": -1.408
+    },
+    {
+      "year": 1759,
+      "metroy": 11,
+      "peligro": -2.637
+    },
+    {
+      "year": 1759,
+      "metroy": 12,
+      "peligro": -4.660
+    },
+    {
+      "year": 1760,
+      "metroy": 1,
+      "peligro": -4.089
+    },
+    {
+      "year": 1760,
+      "metroy": 2,
+      "peligro": -0.400
+    },
+    {
+      "year": 1760,
+      "metroy": 3,
+      "peligro": -3.389
+    },
+    {
+      "year": 1760,
+      "metroy": 4,
+      "peligro": -1.827
+    },
+    {
+      "year": 1760,
+      "metroy": 5,
+      "peligro": -1.498
+    },
+    {
+      "year": 1760,
+      "metroy": 6,
+      "peligro": -1.651
+    },
+    {
+      "year": 1760,
+      "metroy": 7,
+      "peligro": -2.058
+    },
+    {
+      "year": 1760,
+      "metroy": 8,
+      "peligro": -0.970
+    },
+    {
+      "year": 1760,
+      "metroy": 9,
+      "peligro": -1.695
+    },
+    {
+      "year": 1760,
+      "metroy": 10,
+      "peligro": -2.816
+    },
+    {
+      "year": 1760,
+      "metroy": 11,
+      "peligro": -1.405
+    },
+    {
+      "year": 1760,
+      "metroy": 12,
+      "peligro": -2.479
+    },
+    {
+      "year": 1761,
+      "metroy": 1,
+      "peligro": -2.906
+    },
+    {
+      "year": 1761,
+      "metroy": 2,
+      "peligro": -0.101
+    },
+    {
+      "year": 1761,
+      "metroy": 3,
+      "peligro": 0.726
+    },
+    {
+      "year": 1761,
+      "metroy": 4,
+      "peligro": -1.955
+    },
+    {
+      "year": 1761,
+      "metroy": 5,
+      "peligro": 1.372
+    },
+    {
+      "year": 1761,
+      "metroy": 6,
+      "peligro": 3.331
+    },
+    {
+      "year": 1761,
+      "metroy": 7,
+      "peligro": 4.471
+    },
+    {
+      "year": 1761,
+      "metroy": 8,
+      "peligro": 0.355
+    },
+    {
+      "year": 1761,
+      "metroy": 9,
+      "peligro": -0.387
+    },
+    {
+      "year": 1761,
+      "metroy": 10,
+      "peligro": -2.267
+    },
+    {
+      "year": 1761,
+      "metroy": 11,
+      "peligro": -1.781
+    },
+    {
+      "year": 1761,
+      "metroy": 12,
+      "peligro": -6.084
+    },
+    {
+      "year": 1762,
+      "metroy": 1,
+      "peligro": 3.413
+    },
+    {
+      "year": 1762,
+      "metroy": 2,
+      "peligro": 1.968
+    },
+    {
+      "year": 1762,
+      "metroy": 3,
+      "peligro": -1.680
+    },
+    {
+      "year": 1762,
+      "metroy": 4,
+      "peligro": -0.229
+    },
+    {
+      "year": 1762,
+      "metroy": 5,
+      "peligro": -1.263
+    },
+    {
+      "year": 1762,
+      "metroy": 6,
+      "peligro": -0.021
+    },
+    {
+      "year": 1762,
+      "metroy": 7,
+      "peligro": 0.084
+    },
+    {
+      "year": 1762,
+      "metroy": 8,
+      "peligro": -1.092
+    },
+    {
+      "year": 1762,
+      "metroy": 9,
+      "peligro": -2.625
+    },
+    {
+      "year": 1762,
+      "metroy": 10,
+      "peligro": -3.415
+    },
+    {
+      "year": 1762,
+      "metroy": 11,
+      "peligro": -0.523
+    },
+    {
+      "year": 1762,
+      "metroy": 12,
+      "peligro": -2.116
+    },
+    {
+      "year": 1763,
+      "metroy": 1,
+      "peligro": -2.222
+    },
+    {
+      "year": 1763,
+      "metroy": 2,
+      "peligro": -2.097
+    },
+    {
+      "year": 1763,
+      "metroy": 3,
+      "peligro": -3.653
+    },
+    {
+      "year": 1763,
+      "metroy": 4,
+      "peligro": -1.317
+    },
+    {
+      "year": 1763,
+      "metroy": 5,
+      "peligro": -1.383
+    },
+    {
+      "year": 1763,
+      "metroy": 6,
+      "peligro": -1.285
+    },
+    {
+      "year": 1763,
+      "metroy": 7,
+      "peligro": 1.797
+    },
+    {
+      "year": 1763,
+      "metroy": 8,
+      "peligro": -0.766
+    },
+    {
+      "year": 1763,
+      "metroy": 9,
+      "peligro": -1.564
+    },
+    {
+      "year": 1763,
+      "metroy": 10,
+      "peligro": -3.969
+    },
+    {
+      "year": 1763,
+      "metroy": 11,
+      "peligro": -2.062
+    },
+    {
+      "year": 1763,
+      "metroy": 12,
+      "peligro": -0.186
+    },
+    {
+      "year": 1764,
+      "metroy": 1,
+      "peligro": -0.763
+    },
+    {
+      "year": 1764,
+      "metroy": 2,
+      "peligro": 2.684
+    },
+    {
+      "year": 1764,
+      "metroy": 3,
+      "peligro": -0.214
+    },
+    {
+      "year": 1764,
+      "metroy": 4,
+      "peligro": -1.417
+    },
+    {
+      "year": 1764,
+      "metroy": 5,
+      "peligro": -1.021
+    },
+    {
+      "year": 1764,
+      "metroy": 6,
+      "peligro": -1.810
+    },
+    {
+      "year": 1764,
+      "metroy": 7,
+      "peligro": -1.903
+    },
+    {
+      "year": 1764,
+      "metroy": 8,
+      "peligro": -1.394
+    },
+    {
+      "year": 1764,
+      "metroy": 9,
+      "peligro": -1.100
+    },
+    {
+      "year": 1764,
+      "metroy": 10,
+      "peligro": 0.852
+    },
+    {
+      "year": 1764,
+      "metroy": 11,
+      "peligro": -0.102
+    },
+    {
+      "year": 1764,
+      "metroy": 12,
+      "peligro": 2.059
+    },
+    {
+      "year": 1765,
+      "metroy": 1,
+      "peligro": 1.161
+    },
+    {
+      "year": 1765,
+      "metroy": 2,
+      "peligro": -0.100
+    },
+    {
+      "year": 1765,
+      "metroy": 3,
+      "peligro": 0.893
+    },
+    {
+      "year": 1765,
+      "metroy": 4,
+      "peligro": 0.594
+    },
+    {
+      "year": 1765,
+      "metroy": 5,
+      "peligro": -0.445
+    },
+    {
+      "year": 1765,
+      "metroy": 6,
+      "peligro": -2.720
+    },
+    {
+      "year": 1765,
+      "metroy": 7,
+      "peligro": -0.539
+    },
+    {
+      "year": 1765,
+      "metroy": 8,
+      "peligro": -0.503
+    },
+    {
+      "year": 1765,
+      "metroy": 9,
+      "peligro": -0.826
+    },
+    {
+      "year": 1765,
+      "metroy": 10,
+      "peligro": -1.188
+    },
+    {
+      "year": 1765,
+      "metroy": 11,
+      "peligro": -0.321
+    },
+    {
+      "year": 1765,
+      "metroy": 12,
+      "peligro": -0.843
+    },
+    {
+      "year": 1766,
+      "metroy": 1,
+      "peligro": -3.393
+    },
+    {
+      "year": 1766,
+      "metroy": 2,
+      "peligro": 0.935
+    },
+    {
+      "year": 1766,
+      "metroy": 3,
+      "peligro": 0.025
+    },
+    {
+      "year": 1766,
+      "metroy": 4,
+      "peligro": -0.430
+    },
+    {
+      "year": 1766,
+      "metroy": 5,
+      "peligro": 0.013
+    },
+    {
+      "year": 1766,
+      "metroy": 6,
+      "peligro": -0.022
+    },
+    {
+      "year": 1766,
+      "metroy": 7,
+      "peligro": -0.918
+    },
+    {
+      "year": 1766,
+      "metroy": 8,
+      "peligro": 0.104
+    },
+    {
+      "year": 1766,
+      "metroy": 9,
+      "peligro": 0.532
+    },
+    {
+      "year": 1766,
+      "metroy": 10,
+      "peligro": -0.656
+    },
+    {
+      "year": 1766,
+      "metroy": 11,
+      "peligro": 1.438
+    },
+    {
+      "year": 1766,
+      "metroy": 12,
+      "peligro": -0.959
+    },
+    {
+      "year": 1767,
+      "metroy": 1,
+      "peligro": -3.186
+    },
+    {
+      "year": 1767,
+      "metroy": 2,
+      "peligro": 0.099
+    },
+    {
+      "year": 1767,
+      "metroy": 3,
+      "peligro": 1.227
+    },
+    {
+      "year": 1767,
+      "metroy": 4,
+      "peligro": -1.926
+    },
+    {
+      "year": 1767,
+      "metroy": 5,
+      "peligro": -0.744
+    },
+    {
+      "year": 1767,
+      "metroy": 6,
+      "peligro": 1.423
+    },
+    {
+      "year": 1767,
+      "metroy": 7,
+      "peligro": -0.840
+    },
+    {
+      "year": 1767,
+      "metroy": 8,
+      "peligro": 1.303
+    },
+    {
+      "year": 1767,
+      "metroy": 9,
+      "peligro": 0.076
+    },
+    {
+      "year": 1767,
+      "metroy": 10,
+      "peligro": -0.090
+    },
+    {
+      "year": 1767,
+      "metroy": 11,
+      "peligro": 1.920
+    },
+    {
+      "year": 1767,
+      "metroy": 12,
+      "peligro": -2.231
+    },
+    {
+      "year": 1768,
+      "metroy": 1,
+      "peligro": -4.652
+    },
+    {
+      "year": 1768,
+      "metroy": 2,
+      "peligro": -3.224
+    },
+    {
+      "year": 1768,
+      "metroy": 3,
+      "peligro": -3.548
+    },
+    {
+      "year": 1768,
+      "metroy": 4,
+      "peligro": -1.183
+    },
+    {
+      "year": 1768,
+      "metroy": 5,
+      "peligro": -1.942
+    },
+    {
+      "year": 1768,
+      "metroy": 6,
+      "peligro": -0.788
+    },
+    {
+      "year": 1768,
+      "metroy": 7,
+      "peligro": -0.107
+    },
+    {
+      "year": 1768,
+      "metroy": 8,
+      "peligro": -0.885
+    },
+    {
+      "year": 1768,
+      "metroy": 9,
+      "peligro": -0.925
+    },
+    {
+      "year": 1768,
+      "metroy": 10,
+      "peligro": -1.299
+    },
+    {
+      "year": 1768,
+      "metroy": 11,
+      "peligro": -1.154
+    },
+    {
+      "year": 1768,
+      "metroy": 12,
+      "peligro": -0.579
+    },
+    {
+      "year": 1769,
+      "metroy": 1,
+      "peligro": -0.242
+    },
+    {
+      "year": 1769,
+      "metroy": 2,
+      "peligro": -1.149
+    },
+    {
+      "year": 1769,
+      "metroy": 3,
+      "peligro": -0.835
+    },
+    {
+      "year": 1769,
+      "metroy": 4,
+      "peligro": 0.746
+    },
+    {
+      "year": 1769,
+      "metroy": 5,
+      "peligro": 1.868
+    },
+    {
+      "year": 1769,
+      "metroy": 6,
+      "peligro": 1.891
+    },
+    {
+      "year": 1769,
+      "metroy": 7,
+      "peligro": 0.124
+    },
+    {
+      "year": 1769,
+      "metroy": 8,
+      "peligro": 0.017
+    },
+    {
+      "year": 1769,
+      "metroy": 9,
+      "peligro": -0.333
+    },
+    {
+      "year": 1769,
+      "metroy": 10,
+      "peligro": -3.788
+    },
+    {
+      "year": 1769,
+      "metroy": 11,
+      "peligro": -3.204
+    },
+    {
+      "year": 1769,
+      "metroy": 12,
+      "peligro": -4.437
+    },
+    {
+      "year": 1770,
+      "metroy": 1,
+      "peligro": -0.730
+    },
+    {
+      "year": 1770,
+      "metroy": 2,
+      "peligro": 0.362
+    },
+    {
+      "year": 1770,
+      "metroy": 3,
+      "peligro": -3.908
+    },
+    {
+      "year": 1770,
+      "metroy": 4,
+      "peligro": 1.752
+    },
+    {
+      "year": 1770,
+      "metroy": 5,
+      "peligro": -0.977
+    },
+    {
+      "year": 1770,
+      "metroy": 6,
+      "peligro": -1.677
+    },
+    {
+      "year": 1770,
+      "metroy": 7,
+      "peligro": -2.671
+    },
+    {
+      "year": 1770,
+      "metroy": 8,
+      "peligro": -1.889
+    },
+    {
+      "year": 1770,
+      "metroy": 9,
+      "peligro": -0.778
+    },
+    {
+      "year": 1770,
+      "metroy": 10,
+      "peligro": -0.422
+    },
+    {
+      "year": 1770,
+      "metroy": 11,
+      "peligro": -0.101
+    },
+    {
+      "year": 1770,
+      "metroy": 12,
+      "peligro": 1.019
+    },
+    {
+      "year": 1771,
+      "metroy": 1,
+      "peligro": 2.507
+    },
+    {
+      "year": 1771,
+      "metroy": 2,
+      "peligro": -3.972
+    },
+    {
+      "year": 1771,
+      "metroy": 3,
+      "peligro": -2.900
+    },
+    {
+      "year": 1771,
+      "metroy": 4,
+      "peligro": -2.397
+    },
+    {
+      "year": 1771,
+      "metroy": 5,
+      "peligro": -1.648
+    },
+    {
+      "year": 1771,
+      "metroy": 6,
+      "peligro": 0.902
+    },
+    {
+      "year": 1771,
+      "metroy": 7,
+      "peligro": -0.280
+    },
+    {
+      "year": 1771,
+      "metroy": 8,
+      "peligro": 0.807
+    },
+    {
+      "year": 1771,
+      "metroy": 9,
+      "peligro": -0.297
+    },
+    {
+      "year": 1771,
+      "metroy": 10,
+      "peligro": 1.193
+    },
+    {
+      "year": 1771,
+      "metroy": 11,
+      "peligro": -1.046
+    },
+    {
+      "year": 1771,
+      "metroy": 12,
+      "peligro": -0.759
+    },
+    {
+      "year": 1772,
+      "metroy": 1,
+      "peligro": -1.426
+    },
+    {
+      "year": 1772,
+      "metroy": 2,
+      "peligro": -2.229
+    },
+    {
+      "year": 1772,
+      "metroy": 3,
+      "peligro": -2.906
+    },
+    {
+      "year": 1772,
+      "metroy": 4,
+      "peligro": 0.401
+    },
+    {
+      "year": 1772,
+      "metroy": 5,
+      "peligro": -1.738
+    },
+    {
+      "year": 1772,
+      "metroy": 6,
+      "peligro": -0.998
+    },
+    {
+      "year": 1772,
+      "metroy": 7,
+      "peligro": -0.057
+    },
+    {
+      "year": 1772,
+      "metroy": 8,
+      "peligro": 0.408
+    },
+    {
+      "year": 1772,
+      "metroy": 9,
+      "peligro": -1.479
+    },
+    {
+      "year": 1772,
+      "metroy": 10,
+      "peligro": 0.165
+    },
+    {
+      "year": 1772,
+      "metroy": 11,
+      "peligro": 1.865
+    },
+    {
+      "year": 1772,
+      "metroy": 12,
+      "peligro": 2.282
+    },
+    {
+      "year": 1773,
+      "metroy": 1,
+      "peligro": -3.205
+    },
+    {
+      "year": 1773,
+      "metroy": 2,
+      "peligro": -2.370
+    },
+    {
+      "year": 1773,
+      "metroy": 3,
+      "peligro": -1.442
+    },
+    {
+      "year": 1773,
+      "metroy": 4,
+      "peligro": 0.933
+    },
+    {
+      "year": 1773,
+      "metroy": 5,
+      "peligro": 1.432
+    },
+    {
+      "year": 1773,
+      "metroy": 6,
+      "peligro": -0.760
+    },
+    {
+      "year": 1773,
+      "metroy": 7,
+      "peligro": 0.061
+    },
+    {
+      "year": 1773,
+      "metroy": 8,
+      "peligro": -0.140
+    },
+    {
+      "year": 1773,
+      "metroy": 9,
+      "peligro": 0.622
+    },
+    {
+      "year": 1773,
+      "metroy": 10,
+      "peligro": 0.004
+    },
+    {
+      "year": 1773,
+      "metroy": 11,
+      "peligro": -2.526
+    },
+    {
+      "year": 1773,
+      "metroy": 12,
+      "peligro": 1.947
+    },
+    {
+      "year": 1774,
+      "metroy": 1,
+      "peligro": -2.839
+    },
+    {
+      "year": 1774,
+      "metroy": 2,
+      "peligro": 1.019
+    },
+    {
+      "year": 1774,
+      "metroy": 3,
+      "peligro": -0.332
+    },
+    {
+      "year": 1774,
+      "metroy": 4,
+      "peligro": 1.849
+    },
+    {
+      "year": 1774,
+      "metroy": 5,
+      "peligro": 4.937
+    },
+    {
+      "year": 1774,
+      "metroy": 6,
+      "peligro": 1.797
+    },
+    {
+      "year": 1774,
+      "metroy": 7,
+      "peligro": 2.136
+    },
+    {
+      "year": 1774,
+      "metroy": 8,
+      "peligro": 0.539
+    },
+    {
+      "year": 1774,
+      "metroy": 9,
+      "peligro": -0.865
+    },
+    {
+      "year": 1774,
+      "metroy": 10,
+      "peligro": -0.773
+    },
+    {
+      "year": 1774,
+      "metroy": 11,
+      "peligro": -3.202
+    },
+    {
+      "year": 1774,
+      "metroy": 12,
+      "peligro": -2.984
+    },
+    {
+      "year": 1775,
+      "metroy": 1,
+      "peligro": 1.531
+    },
+    {
+      "year": 1775,
+      "metroy": 2,
+      "peligro": 2.493
+    },
+    {
+      "year": 1775,
+      "metroy": 3,
+      "peligro": 1.732
+    },
+    {
+      "year": 1775,
+      "metroy": 4,
+      "peligro": -0.608
+    },
+    {
+      "year": 1775,
+      "metroy": 5,
+      "peligro": -0.110
+    },
+    {
+      "year": 1775,
+      "metroy": 6,
+      "peligro": -1.559
+    },
+    {
+      "year": 1775,
+      "metroy": 7,
+      "peligro": 0.011
+    },
+    {
+      "year": 1775,
+      "metroy": 8,
+      "peligro": 0.696
+    },
+    {
+      "year": 1775,
+      "metroy": 9,
+      "peligro": -0.917
+    },
+    {
+      "year": 1775,
+      "metroy": 10,
+      "peligro": 0.974
+    },
+    {
+      "year": 1775,
+      "metroy": 11,
+      "peligro": 2.114
+    },
+    {
+      "year": 1775,
+      "metroy": 12,
+      "peligro": -2.103
+    },
+    {
+      "year": 1776,
+      "metroy": 1,
+      "peligro": -3.611
+    },
+    {
+      "year": 1776,
+      "metroy": 2,
+      "peligro": 0.986
+    },
+    {
+      "year": 1776,
+      "metroy": 3,
+      "peligro": -1.390
+    },
+    {
+      "year": 1776,
+      "metroy": 4,
+      "peligro": -1.074
+    },
+    {
+      "year": 1776,
+      "metroy": 5,
+      "peligro": -0.981
+    },
+    {
+      "year": 1776,
+      "metroy": 6,
+      "peligro": 0.674
+    },
+    {
+      "year": 1776,
+      "metroy": 7,
+      "peligro": -0.565
+    },
+    {
+      "year": 1776,
+      "metroy": 8,
+      "peligro": 1.080
+    },
+    {
+      "year": 1776,
+      "metroy": 9,
+      "peligro": -1.447
+    },
+    {
+      "year": 1776,
+      "metroy": 10,
+      "peligro": -1.284
+    },
+    {
+      "year": 1776,
+      "metroy": 11,
+      "peligro": -0.671
+    },
+    {
+      "year": 1776,
+      "metroy": 12,
+      "peligro": 1.177
+    },
+    {
+      "year": 1777,
+      "metroy": 1,
+      "peligro": 3.156
+    },
+    {
+      "year": 1777,
+      "metroy": 2,
+      "peligro": 0.914
+    },
+    {
+      "year": 1777,
+      "metroy": 3,
+      "peligro": -0.800
+    },
+    {
+      "year": 1777,
+      "metroy": 4,
+      "peligro": -2.536
+    },
+    {
+      "year": 1777,
+      "metroy": 5,
+      "peligro": -0.254
+    },
+    {
+      "year": 1777,
+      "metroy": 6,
+      "peligro": -1.601
+    },
+    {
+      "year": 1777,
+      "metroy": 7,
+      "peligro": -2.050
+    },
+    {
+      "year": 1777,
+      "metroy": 8,
+      "peligro": -1.330
+    },
+    {
+      "year": 1777,
+      "metroy": 9,
+      "peligro": -0.935
+    },
+    {
+      "year": 1777,
+      "metroy": 10,
+      "peligro": -2.691
+    },
+    {
+      "year": 1777,
+      "metroy": 11,
+      "peligro": -0.974
+    },
+    {
+      "year": 1777,
+      "metroy": 12,
+      "peligro": -0.746
+    },
+    {
+      "year": 1778,
+      "metroy": 1,
+      "peligro": -0.376
+    },
+    {
+      "year": 1778,
+      "metroy": 2,
+      "peligro": 1.866
+    },
+    {
+      "year": 1778,
+      "metroy": 3,
+      "peligro": -1.760
+    },
+    {
+      "year": 1778,
+      "metroy": 4,
+      "peligro": 2.026
+    },
+    {
+      "year": 1778,
+      "metroy": 5,
+      "peligro": -0.276
+    },
+    {
+      "year": 1778,
+      "metroy": 6,
+      "peligro": -0.125
+    },
+    {
+      "year": 1778,
+      "metroy": 7,
+      "peligro": 0.378
+    },
+    {
+      "year": 1778,
+      "metroy": 8,
+      "peligro": -1.472
+    },
+    {
+      "year": 1778,
+      "metroy": 9,
+      "peligro": 1.002
+    },
+    {
+      "year": 1778,
+      "metroy": 10,
+      "peligro": -1.790
+    },
+    {
+      "year": 1778,
+      "metroy": 11,
+      "peligro": -2.597
+    },
+    {
+      "year": 1778,
+      "metroy": 12,
+      "peligro": -1.612
+    },
+    {
+      "year": 1779,
+      "metroy": 1,
+      "peligro": -1.457
+    },
+    {
+      "year": 1779,
+      "metroy": 2,
+      "peligro": 1.086
+    },
+    {
+      "year": 1779,
+      "metroy": 3,
+      "peligro": 0.678
+    },
+    {
+      "year": 1779,
+      "metroy": 4,
+      "peligro": 1.014
+    },
+    {
+      "year": 1779,
+      "metroy": 5,
+      "peligro": 2.468
+    },
+    {
+      "year": 1779,
+      "metroy": 6,
+      "peligro": -1.502
+    },
+    {
+      "year": 1779,
+      "metroy": 7,
+      "peligro": -1.236
+    },
+    {
+      "year": 1779,
+      "metroy": 8,
+      "peligro": -0.315
+    },
+    {
+      "year": 1779,
+      "metroy": 9,
+      "peligro": 0.324
+    },
+    {
+      "year": 1779,
+      "metroy": 10,
+      "peligro": -0.383
+    },
+    {
+      "year": 1779,
+      "metroy": 11,
+      "peligro": -0.380
+    },
+    {
+      "year": 1779,
+      "metroy": 12,
+      "peligro": -1.195
+    },
+    {
+      "year": 1780,
+      "metroy": 1,
+      "peligro": -0.198
+    },
+    {
+      "year": 1780,
+      "metroy": 2,
+      "peligro": 0.528
+    },
+    {
+      "year": 1780,
+      "metroy": 3,
+      "peligro": 0.002
+    },
+    {
+      "year": 1780,
+      "metroy": 4,
+      "peligro": 5.228
+    },
+    {
+      "year": 1780,
+      "metroy": 5,
+      "peligro": 4.325
+    },
+    {
+      "year": 1780,
+      "metroy": 6,
+      "peligro": 0.853
+    },
+    {
+      "year": 1780,
+      "metroy": 7,
+      "peligro": 1.515
+    },
+    {
+      "year": 1780,
+      "metroy": 8,
+      "peligro": -0.953
+    },
+    {
+      "year": 1780,
+      "metroy": 9,
+      "peligro": -3.162
+    },
+    {
+      "year": 1780,
+      "metroy": 10,
+      "peligro": 0.134
+    },
+    {
+      "year": 1780,
+      "metroy": 11,
+      "peligro": 0.794
+    },
+    {
+      "year": 1780,
+      "metroy": 12,
+      "peligro": -0.805
+    },
+    {
+      "year": 1781,
+      "metroy": 1,
+      "peligro": 0.001
+    },
+    {
+      "year": 1781,
+      "metroy": 2,
+      "peligro": -1.052
+    },
+    {
+      "year": 1781,
+      "metroy": 3,
+      "peligro": -0.524
+    },
+    {
+      "year": 1781,
+      "metroy": 4,
+      "peligro": -1.471
+    },
+    {
+      "year": 1781,
+      "metroy": 5,
+      "peligro": -0.154
+    },
+    {
+      "year": 1781,
+      "metroy": 6,
+      "peligro": -1.738
+    },
+    {
+      "year": 1781,
+      "metroy": 7,
+      "peligro": -0.116
+    },
+    {
+      "year": 1781,
+      "metroy": 8,
+      "peligro": 0.221
+    },
+    {
+      "year": 1781,
+      "metroy": 9,
+      "peligro": -1.752
+    },
+    {
+      "year": 1781,
+      "metroy": 10,
+      "peligro": -0.627
+    },
+    {
+      "year": 1781,
+      "metroy": 11,
+      "peligro": 1.683
+    },
+    {
+      "year": 1781,
+      "metroy": 12,
+      "peligro": -0.116
+    },
+    {
+      "year": 1782,
+      "metroy": 1,
+      "peligro": -2.017
+    },
+    {
+      "year": 1782,
+      "metroy": 2,
+      "peligro": -2.608
+    },
+    {
+      "year": 1782,
+      "metroy": 3,
+      "peligro": -2.482
+    },
+    {
+      "year": 1782,
+      "metroy": 4,
+      "peligro": 0.317
+    },
+    {
+      "year": 1782,
+      "metroy": 5,
+      "peligro": -0.381
+    },
+    {
+      "year": 1782,
+      "metroy": 6,
+      "peligro": 0.312
+    },
+    {
+      "year": 1782,
+      "metroy": 7,
+      "peligro": -0.431
+    },
+    {
+      "year": 1782,
+      "metroy": 8,
+      "peligro": 1.712
+    },
+    {
+      "year": 1782,
+      "metroy": 9,
+      "peligro": 0.225
+    },
+    {
+      "year": 1782,
+      "metroy": 10,
+      "peligro": -0.158
+    },
+    {
+      "year": 1782,
+      "metroy": 11,
+      "peligro": -0.773
+    },
+    {
+      "year": 1782,
+      "metroy": 12,
+      "peligro": -2.092
+    },
+    {
+      "year": 1783,
+      "metroy": 1,
+      "peligro": -3.931
+    },
+    {
+      "year": 1783,
+      "metroy": 2,
+      "peligro": 2.175
+    },
+    {
+      "year": 1783,
+      "metroy": 3,
+      "peligro": -0.518
+    },
+    {
+      "year": 1783,
+      "metroy": 4,
+      "peligro": 0.248
+    },
+    {
+      "year": 1783,
+      "metroy": 5,
+      "peligro": 0.933
+    },
+    {
+      "year": 1783,
+      "metroy": 6,
+      "peligro": 1.079
+    },
+    {
+      "year": 1783,
+      "metroy": 7,
+      "peligro": -1.293
+    },
+    {
+      "year": 1783,
+      "metroy": 8,
+      "peligro": 0.096
+    },
+    {
+      "year": 1783,
+      "metroy": 9,
+      "peligro": -2.013
+    },
+    {
+      "year": 1783,
+      "metroy": 10,
+      "peligro": -1.768
+    },
+    {
+      "year": 1783,
+      "metroy": 11,
+      "peligro": -3.749
+    },
+    {
+      "year": 1783,
+      "metroy": 12,
+      "peligro": -1.309
+    },
+    {
+      "year": 1784,
+      "metroy": 1,
+      "peligro": 0.346
+    },
+    {
+      "year": 1784,
+      "metroy": 2,
+      "peligro": -2.024
+    },
+    {
+      "year": 1784,
+      "metroy": 3,
+      "peligro": -1.245
+    },
+    {
+      "year": 1784,
+      "metroy": 4,
+      "peligro": -0.212
+    },
+    {
+      "year": 1784,
+      "metroy": 5,
+      "peligro": -1.418
+    },
+    {
+      "year": 1784,
+      "metroy": 6,
+      "peligro": -0.758
+    },
+    {
+      "year": 1784,
+      "metroy": 7,
+      "peligro": 0.581
+    },
+    {
+      "year": 1784,
+      "metroy": 8,
+      "peligro": 1.399
+    },
+    {
+      "year": 1784,
+      "metroy": 9,
+      "peligro": -1.832
+    },
+    {
+      "year": 1784,
+      "metroy": 10,
+      "peligro": -2.333
+    },
+    {
+      "year": 1784,
+      "metroy": 11,
+      "peligro": -1.457
+    },
+    {
+      "year": 1784,
+      "metroy": 12,
+      "peligro": -0.007
+    },
+    {
+      "year": 1785,
+      "metroy": 1,
+      "peligro": -1.618
+    },
+    {
+      "year": 1785,
+      "metroy": 2,
+      "peligro": -2.031
+    },
+    {
+      "year": 1785,
+      "metroy": 3,
+      "peligro": -3.298
+    },
+    {
+      "year": 1785,
+      "metroy": 4,
+      "peligro": -2.012
+    },
+    {
+      "year": 1785,
+      "metroy": 5,
+      "peligro": -1.466
+    },
+    {
+      "year": 1785,
+      "metroy": 6,
+      "peligro": 0.261
+    },
+    {
+      "year": 1785,
+      "metroy": 7,
+      "peligro": 0.143
+    },
+    {
+      "year": 1785,
+      "metroy": 8,
+      "peligro": 0.630
+    },
+    {
+      "year": 1785,
+      "metroy": 9,
+      "peligro": -1.579
+    },
+    {
+      "year": 1785,
+      "metroy": 10,
+      "peligro": -1.851
+    },
+    {
+      "year": 1785,
+      "metroy": 11,
+      "peligro": -0.413
+    },
+    {
+      "year": 1785,
+      "metroy": 12,
+      "peligro": -1.639
+    },
+    {
+      "year": 1786,
+      "metroy": 1,
+      "peligro": -1.701
+    },
+    {
+      "year": 1786,
+      "metroy": 2,
+      "peligro": -0.425
+    },
+    {
+      "year": 1786,
+      "metroy": 3,
+      "peligro": 0.104
+    },
+    {
+      "year": 1786,
+      "metroy": 4,
+      "peligro": 0.993
+    },
+    {
+      "year": 1786,
+      "metroy": 5,
+      "peligro": 0.210
+    },
+    {
+      "year": 1786,
+      "metroy": 6,
+      "peligro": -0.406
+    },
+    {
+      "year": 1786,
+      "metroy": 7,
+      "peligro": 0.979
+    },
+    {
+      "year": 1786,
+      "metroy": 8,
+      "peligro": 0.674
+    },
+    {
+      "year": 1786,
+      "metroy": 9,
+      "peligro": 0.359
+    },
+    {
+      "year": 1786,
+      "metroy": 10,
+      "peligro": -1.409
+    },
+    {
+      "year": 1786,
+      "metroy": 11,
+      "peligro": -0.223
+    },
+    {
+      "year": 1786,
+      "metroy": 12,
+      "peligro": -2.728
+    },
+    {
+      "year": 1787,
+      "metroy": 1,
+      "peligro": 0.369
+    },
+    {
+      "year": 1787,
+      "metroy": 2,
+      "peligro": -0.510
+    },
+    {
+      "year": 1787,
+      "metroy": 3,
+      "peligro": -0.518
+    },
+    {
+      "year": 1787,
+      "metroy": 4,
+      "peligro": -0.553
+    },
+    {
+      "year": 1787,
+      "metroy": 5,
+      "peligro": 0.030
+    },
+    {
+      "year": 1787,
+      "metroy": 6,
+      "peligro": 0.827
+    },
+    {
+      "year": 1787,
+      "metroy": 7,
+      "peligro": -0.996
+    },
+    {
+      "year": 1787,
+      "metroy": 8,
+      "peligro": -0.358
+    },
+    {
+      "year": 1787,
+      "metroy": 9,
+      "peligro": -1.690
+    },
+    {
+      "year": 1787,
+      "metroy": 10,
+      "peligro": -1.400
+    },
+    {
+      "year": 1787,
+      "metroy": 11,
+      "peligro": -0.173
+    },
+    {
+      "year": 1787,
+      "metroy": 12,
+      "peligro": -1.684
+    },
+    {
+      "year": 1788,
+      "metroy": 1,
+      "peligro": -1.777
+    },
+    {
+      "year": 1788,
+      "metroy": 2,
+      "peligro": 0.557
+    },
+    {
+      "year": 1788,
+      "metroy": 3,
+      "peligro": 0.013
+    },
+    {
+      "year": 1788,
+      "metroy": 4,
+      "peligro": 0.271
+    },
+    {
+      "year": 1788,
+      "metroy": 5,
+      "peligro": -1.011
+    },
+    {
+      "year": 1788,
+      "metroy": 6,
+      "peligro": 0.289
+    },
+    {
+      "year": 1788,
+      "metroy": 7,
+      "peligro": 2.156
+    },
+    {
+      "year": 1788,
+      "metroy": 8,
+      "peligro": 0.016
+    },
+    {
+      "year": 1788,
+      "metroy": 9,
+      "peligro": -0.343
+    },
+    {
+      "year": 1788,
+      "metroy": 10,
+      "peligro": 0.168
+    },
+    {
+      "year": 1788,
+      "metroy": 11,
+      "peligro": 0.070
+    },
+    {
+      "year": 1788,
+      "metroy": 12,
+      "peligro": -2.040
+    },
+    {
+      "year": 1789,
+      "metroy": 1,
+      "peligro": 1.328
+    },
+    {
+      "year": 1789,
+      "metroy": 2,
+      "peligro": -1.413
+    },
+    {
+      "year": 1789,
+      "metroy": 3,
+      "peligro": -1.405
+    },
+    {
+      "year": 1789,
+      "metroy": 4,
+      "peligro": -0.636
+    },
+    {
+      "year": 1789,
+      "metroy": 5,
+      "peligro": 0.289
+    },
+    {
+      "year": 1789,
+      "metroy": 6,
+      "peligro": -0.005
+    },
+    {
+      "year": 1789,
+      "metroy": 7,
+      "peligro": 1.127
+    },
+    {
+      "year": 1789,
+      "metroy": 8,
+      "peligro": -0.040
+    },
+    {
+      "year": 1789,
+      "metroy": 9,
+      "peligro": -0.034
+    },
+    {
+      "year": 1789,
+      "metroy": 10,
+      "peligro": -1.790
+    },
+    {
+      "year": 1789,
+      "metroy": 11,
+      "peligro": -0.015
+    },
+    {
+      "year": 1789,
+      "metroy": 12,
+      "peligro": -0.358
+    },
+    {
+      "year": 1790,
+      "metroy": 1,
+      "peligro": -0.062
+    },
+    {
+      "year": 1790,
+      "metroy": 2,
+      "peligro": -0.152
+    },
+    {
+      "year": 1790,
+      "metroy": 3,
+      "peligro": -0.734
+    },
+    {
+      "year": 1790,
+      "metroy": 4,
+      "peligro": -2.314
+    },
+    {
+      "year": 1790,
+      "metroy": 5,
+      "peligro": -1.040
+    },
+    {
+      "year": 1790,
+      "metroy": 6,
+      "peligro": 0.269
+    },
+    {
+      "year": 1790,
+      "metroy": 7,
+      "peligro": -0.604
+    },
+    {
+      "year": 1790,
+      "metroy": 8,
+      "peligro": 0.102
+    },
+    {
+      "year": 1790,
+      "metroy": 9,
+      "peligro": -0.814
+    },
+    {
+      "year": 1790,
+      "metroy": 10,
+      "peligro": -0.595
+    },
+    {
+      "year": 1790,
+      "metroy": 11,
+      "peligro": -0.676
+    },
+    {
+      "year": 1790,
+      "metroy": 12,
+      "peligro": -0.756
+    },
+    {
+      "year": 1791,
+      "metroy": 1,
+      "peligro": -1.137
+    },
+    {
+      "year": 1791,
+      "metroy": 2,
+      "peligro": 0.414
+    },
+    {
+      "year": 1791,
+      "metroy": 3,
+      "peligro": -0.532
+    },
+    {
+      "year": 1791,
+      "metroy": 4,
+      "peligro": 0.705
+    },
+    {
+      "year": 1791,
+      "metroy": 5,
+      "peligro": -1.516
+    },
+    {
+      "year": 1791,
+      "metroy": 6,
+      "peligro": -0.236
+    },
+    {
+      "year": 1791,
+      "metroy": 7,
+      "peligro": -0.743
+    },
+    {
+      "year": 1791,
+      "metroy": 8,
+      "peligro": -0.099
+    },
+    {
+      "year": 1791,
+      "metroy": 9,
+      "peligro": -0.368
+    },
+    {
+      "year": 1791,
+      "metroy": 10,
+      "peligro": -1.159
+    },
+    {
+      "year": 1791,
+      "metroy": 11,
+      "peligro": 0.092
+    },
+    {
+      "year": 1791,
+      "metroy": 12,
+      "peligro": 0.050
+    },
+    {
+      "year": 1792,
+      "metroy": 1,
+      "peligro": -2.252
+    },
+    {
+      "year": 1792,
+      "metroy": 2,
+      "peligro": 0.502
+    },
+    {
+      "year": 1792,
+      "metroy": 3,
+      "peligro": -0.941
+    },
+    {
+      "year": 1792,
+      "metroy": 4,
+      "peligro": -0.447
+    },
+    {
+      "year": 1792,
+      "metroy": 5,
+      "peligro": -0.045
+    },
+    {
+      "year": 1792,
+      "metroy": 6,
+      "peligro": 0.103
+    },
+    {
+      "year": 1792,
+      "metroy": 7,
+      "peligro": -0.193
+    },
+    {
+      "year": 1792,
+      "metroy": 8,
+      "peligro": -1.615
+    },
+    {
+      "year": 1792,
+      "metroy": 9,
+      "peligro": 0.759
+    },
+    {
+      "year": 1792,
+      "metroy": 10,
+      "peligro": -1.168
+    },
+    {
+      "year": 1792,
+      "metroy": 11,
+      "peligro": -0.852
+    },
+    {
+      "year": 1792,
+      "metroy": 12,
+      "peligro": -0.274
+    },
+    {
+      "year": 1793,
+      "metroy": 1,
+      "peligro": -1.909
+    },
+    {
+      "year": 1793,
+      "metroy": 2,
+      "peligro": 1.685
+    },
+    {
+      "year": 1793,
+      "metroy": 3,
+      "peligro": -0.287
+    },
+    {
+      "year": 1793,
+      "metroy": 4,
+      "peligro": 0.259
+    },
+    {
+      "year": 1793,
+      "metroy": 5,
+      "peligro": -0.357
+    },
+    {
+      "year": 1793,
+      "metroy": 6,
+      "peligro": -0.341
+    },
+    {
+      "year": 1793,
+      "metroy": 7,
+      "peligro": -0.050
+    },
+    {
+      "year": 1793,
+      "metroy": 8,
+      "peligro": -0.660
+    },
+    {
+      "year": 1793,
+      "metroy": 9,
+      "peligro": 0.101
+    },
+    {
+      "year": 1793,
+      "metroy": 10,
+      "peligro": -0.849
+    },
+    {
+      "year": 1793,
+      "metroy": 11,
+      "peligro": -0.582
+    },
+    {
+      "year": 1793,
+      "metroy": 12,
+      "peligro": -1.669
+    },
+    {
+      "year": 1794,
+      "metroy": 1,
+      "peligro": 0.986
+    },
+    {
+      "year": 1794,
+      "metroy": 2,
+      "peligro": 0.416
+    },
+    {
+      "year": 1794,
+      "metroy": 3,
+      "peligro": 0.295
+    },
+    {
+      "year": 1794,
+      "metroy": 4,
+      "peligro": 0.932
+    },
+    {
+      "year": 1794,
+      "metroy": 5,
+      "peligro": 1.007
+    },
+    {
+      "year": 1794,
+      "metroy": 6,
+      "peligro": -1.597
+    },
+    {
+      "year": 1794,
+      "metroy": 7,
+      "peligro": -1.539
+    },
+    {
+      "year": 1794,
+      "metroy": 8,
+      "peligro": -0.341
+    },
+    {
+      "year": 1794,
+      "metroy": 9,
+      "peligro": -0.112
+    },
+    {
+      "year": 1794,
+      "metroy": 10,
+      "peligro": -0.169
+    },
+    {
+      "year": 1794,
+      "metroy": 11,
+      "peligro": -0.931
+    },
+    {
+      "year": 1794,
+      "metroy": 12,
+      "peligro": -0.735
+    },
+    {
+      "year": 1795,
+      "metroy": 1,
+      "peligro": 0.342
+    },
+    {
+      "year": 1795,
+      "metroy": 2,
+      "peligro": 1.383
+    },
+    {
+      "year": 1795,
+      "metroy": 3,
+      "peligro": 0.425
+    },
+    {
+      "year": 1795,
+      "metroy": 4,
+      "peligro": 0.472
+    },
+    {
+      "year": 1795,
+      "metroy": 5,
+      "peligro": -0.322
+    },
+    {
+      "year": 1795,
+      "metroy": 6,
+      "peligro": -0.192
+    },
+    {
+      "year": 1795,
+      "metroy": 7,
+      "peligro": -0.044
+    },
+    {
+      "year": 1795,
+      "metroy": 8,
+      "peligro": -0.608
+    },
+    {
+      "year": 1795,
+      "metroy": 9,
+      "peligro": -0.814
+    },
+    {
+      "year": 1795,
+      "metroy": 10,
+      "peligro": -1.412
+    },
+    {
+      "year": 1795,
+      "metroy": 11,
+      "peligro": -0.931
+    },
+    {
+      "year": 1795,
+      "metroy": 12,
+      "peligro": -1.012
+    },
+    {
+      "year": 1796,
+      "metroy": 1,
+      "peligro": 0.396
+    },
+    {
+      "year": 1796,
+      "metroy": 2,
+      "peligro": -0.354
+    },
+    {
+      "year": 1796,
+      "metroy": 3,
+      "peligro": -1.786
+    },
+    {
+      "year": 1796,
+      "metroy": 4,
+      "peligro": -0.572
+    },
+    {
+      "year": 1796,
+      "metroy": 5,
+      "peligro": 0.006
+    },
+    {
+      "year": 1796,
+      "metroy": 6,
+      "peligro": 0.739
+    },
+    {
+      "year": 1796,
+      "metroy": 7,
+      "peligro": -0.012
+    },
+    {
+      "year": 1796,
+      "metroy": 8,
+      "peligro": 0.995
+    },
+    {
+      "year": 1796,
+      "metroy": 9,
+      "peligro": 0.074
+    },
+    {
+      "year": 1796,
+      "metroy": 10,
+      "peligro": -0.309
+    },
+    {
+      "year": 1796,
+      "metroy": 11,
+      "peligro": -0.463
+    },
+    {
+      "year": 1796,
+      "metroy": 12,
+      "peligro": -2.333
+    },
+    {
+      "year": 1797,
+      "metroy": 1,
+      "peligro": 1.873
+    },
+    {
+      "year": 1797,
+      "metroy": 2,
+      "peligro": 1.764
+    },
+    {
+      "year": 1797,
+      "metroy": 3,
+      "peligro": -1.297
+    },
+    {
+      "year": 1797,
+      "metroy": 4,
+      "peligro": -1.767
+    },
+    {
+      "year": 1797,
+      "metroy": 5,
+      "peligro": -0.934
+    },
+    {
+      "year": 1797,
+      "metroy": 6,
+      "peligro": 0.384
+    },
+    {
+      "year": 1797,
+      "metroy": 7,
+      "peligro": -0.189
+    },
+    {
+      "year": 1797,
+      "metroy": 8,
+      "peligro": 0.313
+    },
+    {
+      "year": 1797,
+      "metroy": 9,
+      "peligro": 0.546
+    },
+    {
+      "year": 1797,
+      "metroy": 10,
+      "peligro": 0.033
+    },
+    {
+      "year": 1797,
+      "metroy": 11,
+      "peligro": -1.372
+    },
+    {
+      "year": 1797,
+      "metroy": 12,
+      "peligro": -0.346
+    },
+    {
+      "year": 1798,
+      "metroy": 1,
+      "peligro": 0.152
+    },
+    {
+      "year": 1798,
+      "metroy": 2,
+      "peligro": 0.089
+    },
+    {
+      "year": 1798,
+      "metroy": 3,
+      "peligro": 1.737
+    },
+    {
+      "year": 1798,
+      "metroy": 4,
+      "peligro": -0.256
+    },
+    {
+      "year": 1798,
+      "metroy": 5,
+      "peligro": 0.501
+    },
+    {
+      "year": 1798,
+      "metroy": 6,
+      "peligro": -0.181
+    },
+    {
+      "year": 1798,
+      "metroy": 7,
+      "peligro": 0.713
+    },
+    {
+      "year": 1798,
+      "metroy": 8,
+      "peligro": 1.046
+    },
+    {
+      "year": 1798,
+      "metroy": 9,
+      "peligro": -0.281
+    },
+    {
+      "year": 1798,
+      "metroy": 10,
+      "peligro": -0.526
+    },
+    {
+      "year": 1798,
+      "metroy": 11,
+      "peligro": -0.086
+    },
+    {
+      "year": 1798,
+      "metroy": 12,
+      "peligro": -1.598
+    },
+    {
+      "year": 1799,
+      "metroy": 1,
+      "peligro": -0.458
+    },
+    {
+      "year": 1799,
+      "metroy": 2,
+      "peligro": -0.901
+    },
+    {
+      "year": 1799,
+      "metroy": 3,
+      "peligro": -1.269
+    },
+    {
+      "year": 1799,
+      "metroy": 4,
+      "peligro": 0.408
+    },
+    {
+      "year": 1799,
+      "metroy": 5,
+      "peligro": 0.045
+    },
+    {
+      "year": 1799,
+      "metroy": 6,
+      "peligro": 0.216
+    },
+    {
+      "year": 1799,
+      "metroy": 7,
+      "peligro": 0.555
+    },
+    {
+      "year": 1799,
+      "metroy": 8,
+      "peligro": 0.289
+    },
+    {
+      "year": 1799,
+      "metroy": 9,
+      "peligro": 0.365
+    },
+    {
+      "year": 1799,
+      "metroy": 10,
+      "peligro": 0.358
+    },
+    {
+      "year": 1799,
+      "metroy": 11,
+      "peligro": 0.142
+    },
+    {
+      "year": 1799,
+      "metroy": 12,
+      "peligro": -0.083
+    },
+    {
+      "year": 1800,
+      "metroy": 1,
+      "peligro": 0.407
+    },
+    {
+      "year": 1800,
+      "metroy": 2,
+      "peligro": 0.599
+    },
+    {
+      "year": 1800,
+      "metroy": 3,
+      "peligro": -0.685
+    },
+    {
+      "year": 1800,
+      "metroy": 4,
+      "peligro": 0.629
+    },
+    {
+      "year": 1800,
+      "metroy": 5,
+      "peligro": -0.239
+    },
+    {
+      "year": 1800,
+      "metroy": 6,
+      "peligro": 0.125
+    },
+    {
+      "year": 1800,
+      "metroy": 7,
+      "peligro": -0.575
+    },
+    {
+      "year": 1800,
+      "metroy": 8,
+      "peligro": -0.132
+    },
+    {
+      "year": 1800,
+      "metroy": 9,
+      "peligro": -1.141
+    },
+    {
+      "year": 1800,
+      "metroy": 10,
+      "peligro": 0.264
+    },
+    {
+      "year": 1800,
+      "metroy": 11,
+      "peligro": -0.635
+    },
+    {
+      "year": 1800,
+      "metroy": 12,
+      "peligro": 0.192
+    },
+    {
+      "year": 1801,
+      "metroy": 1,
+      "peligro": 0.179
+    },
+    {
+      "year": 1801,
+      "metroy": 2,
+      "peligro": 0.087
+    },
+    {
+      "year": 1801,
+      "metroy": 3,
+      "peligro": 1.205
+    },
+    {
+      "year": 1801,
+      "metroy": 4,
+      "peligro": -0.898
+    },
+    {
+      "year": 1801,
+      "metroy": 5,
+      "peligro": 0.872
+    },
+    {
+      "year": 1801,
+      "metroy": 6,
+      "peligro": -0.952
+    },
+    {
+      "year": 1801,
+      "metroy": 7,
+      "peligro": 0.345
+    },
+    {
+      "year": 1801,
+      "metroy": 8,
+      "peligro": -0.600
+    },
+    {
+      "year": 1801,
+      "metroy": 9,
+      "peligro": -0.479
+    },
+    {
+      "year": 1801,
+      "metroy": 10,
+      "peligro": -0.144
+    },
+    {
+      "year": 1801,
+      "metroy": 11,
+      "peligro": -0.499
+    },
+    {
+      "year": 1801,
+      "metroy": 12,
+      "peligro": 0.829
+    },
+    {
+      "year": 1802,
+      "metroy": 1,
+      "peligro": 1.149
+    },
+    {
+      "year": 1802,
+      "metroy": 2,
+      "peligro": -0.244
+    },
+    {
+      "year": 1802,
+      "metroy": 3,
+      "peligro": -0.027
+    },
+    {
+      "year": 1802,
+      "metroy": 4,
+      "peligro": -0.696
+    },
+    {
+      "year": 1802,
+      "metroy": 5,
+      "peligro": -0.699
+    },
+    {
+      "year": 1802,
+      "metroy": 6,
+      "peligro": 1.024
+    },
+    {
+      "year": 1802,
+      "metroy": 7,
+      "peligro": 0.284
+    },
+    {
+      "year": 1802,
+      "metroy": 8,
+      "peligro": 0.278
+    },
+    {
+      "year": 1802,
+      "metroy": 9,
+      "peligro": -0.167
+    },
+    {
+      "year": 1802,
+      "metroy": 10,
+      "peligro": 0.448
+    },
+    {
+      "year": 1802,
+      "metroy": 11,
+      "peligro": -0.717
+    },
+    {
+      "year": 1802,
+      "metroy": 12,
+      "peligro": -0.723
+    },
+    {
+      "year": 1803,
+      "metroy": 1,
+      "peligro": -2.024
+    },
+    {
+      "year": 1803,
+      "metroy": 2,
+      "peligro": -1.719
+    },
+    {
+      "year": 1803,
+      "metroy": 3,
+      "peligro": -0.338
+    },
+    {
+      "year": 1803,
+      "metroy": 4,
+      "peligro": 0.874
+    },
+    {
+      "year": 1803,
+      "metroy": 5,
+      "peligro": 0.570
+    },
+    {
+      "year": 1803,
+      "metroy": 6,
+      "peligro": 0.352
+    },
+    {
+      "year": 1803,
+      "metroy": 7,
+      "peligro": 0.807
+    },
+    {
+      "year": 1803,
+      "metroy": 8,
+      "peligro": 1.587
+    },
+    {
+      "year": 1803,
+      "metroy": 9,
+      "peligro": 0.358
+    },
+    {
+      "year": 1803,
+      "metroy": 10,
+      "peligro": -0.351
+    },
+    {
+      "year": 1803,
+      "metroy": 11,
+      "peligro": -0.394
+    },
+    {
+      "year": 1803,
+      "metroy": 12,
+      "peligro": -1.508
+    },
+    {
+      "year": 1804,
+      "metroy": 1,
+      "peligro": -0.118
+    },
+    {
+      "year": 1804,
+      "metroy": 2,
+      "peligro": -1.185
+    },
+    {
+      "year": 1804,
+      "metroy": 3,
+      "peligro": -0.930
+    },
+    {
+      "year": 1804,
+      "metroy": 4,
+      "peligro": 1.639
+    },
+    {
+      "year": 1804,
+      "metroy": 5,
+      "peligro": 0.799
+    },
+    {
+      "year": 1804,
+      "metroy": 6,
+      "peligro": 0.369
+    },
+    {
+      "year": 1804,
+      "metroy": 7,
+      "peligro": 1.471
+    },
+    {
+      "year": 1804,
+      "metroy": 8,
+      "peligro": 0.792
+    },
+    {
+      "year": 1804,
+      "metroy": 9,
+      "peligro": 0.516
+    },
+    {
+      "year": 1804,
+      "metroy": 10,
+      "peligro": -0.018
+    },
+    {
+      "year": 1804,
+      "metroy": 11,
+      "peligro": 0.841
+    },
+    {
+      "year": 1804,
+      "metroy": 12,
+      "peligro": -1.435
+    },
+    {
+      "year": 1805,
+      "metroy": 1,
+      "peligro": 0.208
+    },
+    {
+      "year": 1805,
+      "metroy": 2,
+      "peligro": -0.570
+    },
+    {
+      "year": 1805,
+      "metroy": 3,
+      "peligro": 0.423
+    },
+    {
+      "year": 1805,
+      "metroy": 4,
+      "peligro": -0.255
+    },
+    {
+      "year": 1805,
+      "metroy": 5,
+      "peligro": -0.236
+    },
+    {
+      "year": 1805,
+      "metroy": 6,
+      "peligro": 0.599
+    },
+    {
+      "year": 1805,
+      "metroy": 7,
+      "peligro": 0.394
+    },
+    {
+      "year": 1805,
+      "metroy": 8,
+      "peligro": 1.454
+    },
+    {
+      "year": 1805,
+      "metroy": 9,
+      "peligro": 0.034
+    },
+    {
+      "year": 1805,
+      "metroy": 10,
+      "peligro": -1.537
+    },
+    {
+      "year": 1805,
+      "metroy": 11,
+      "peligro": -1.693
+    },
+    {
+      "year": 1805,
+      "metroy": 12,
+      "peligro": 0.467
+    },
+    {
+      "year": 1806,
+      "metroy": 1,
+      "peligro": 0.247
+    },
+    {
+      "year": 1806,
+      "metroy": 2,
+      "peligro": -0.394
+    },
+    {
+      "year": 1806,
+      "metroy": 3,
+      "peligro": -0.677
+    },
+    {
+      "year": 1806,
+      "metroy": 4,
+      "peligro": -0.446
+    },
+    {
+      "year": 1806,
+      "metroy": 5,
+      "peligro": 0.139
+    },
+    {
+      "year": 1806,
+      "metroy": 6,
+      "peligro": -1.074
+    },
+    {
+      "year": 1806,
+      "metroy": 7,
+      "peligro": -0.410
+    },
+    {
+      "year": 1806,
+      "metroy": 8,
+      "peligro": 0.735
+    },
+    {
+      "year": 1806,
+      "metroy": 9,
+      "peligro": 0.513
+    },
+    {
+      "year": 1806,
+      "metroy": 10,
+      "peligro": -0.878
+    },
+    {
+      "year": 1806,
+      "metroy": 11,
+      "peligro": -1.023
+    },
+    {
+      "year": 1806,
+      "metroy": 12,
+      "peligro": 0.257
+    },
+    {
+      "year": 1807,
+      "metroy": 1,
+      "peligro": -1.510
+    },
+    {
+      "year": 1807,
+      "metroy": 2,
+      "peligro": 0.904
+    },
+    {
+      "year": 1807,
+      "metroy": 3,
+      "peligro": -0.524
+    },
+    {
+      "year": 1807,
+      "metroy": 4,
+      "peligro": -1.444
+    },
+    {
+      "year": 1807,
+      "metroy": 5,
+      "peligro": -1.962
+    },
+    {
+      "year": 1807,
+      "metroy": 6,
+      "peligro": -0.200
+    },
+    {
+      "year": 1807,
+      "metroy": 7,
+      "peligro": -0.193
+    },
+    {
+      "year": 1807,
+      "metroy": 8,
+      "peligro": -0.071
+    },
+    {
+      "year": 1807,
+      "metroy": 9,
+      "peligro": 0.541
+    },
+    {
+      "year": 1807,
+      "metroy": 10,
+      "peligro": -0.431
+    },
+    {
+      "year": 1807,
+      "metroy": 11,
+      "peligro": -0.246
+    },
+    {
+      "year": 1807,
+      "metroy": 12,
+      "peligro": 0.691
+    },
+    {
+      "year": 1808,
+      "metroy": 1,
+      "peligro": -1.430
+    },
+    {
+      "year": 1808,
+      "metroy": 2,
+      "peligro": -1.041
+    },
+    {
+      "year": 1808,
+      "metroy": 3,
+      "peligro": -1.040
+    },
+    {
+      "year": 1808,
+      "metroy": 4,
+      "peligro": -0.978
+    },
+    {
+      "year": 1808,
+      "metroy": 5,
+      "peligro": -2.043
+    },
+    {
+      "year": 1808,
+      "metroy": 6,
+      "peligro": -0.182
+    },
+    {
+      "year": 1808,
+      "metroy": 7,
+      "peligro": 0.097
+    },
+    {
+      "year": 1808,
+      "metroy": 8,
+      "peligro": -0.768
+    },
+    {
+      "year": 1808,
+      "metroy": 9,
+      "peligro": 0.726
+    },
+    {
+      "year": 1808,
+      "metroy": 10,
+      "peligro": -1.402
+    },
+    {
+      "year": 1808,
+      "metroy": 11,
+      "peligro": -1.840
+    },
+    {
+      "year": 1808,
+      "metroy": 12,
+      "peligro": -2.843
+    },
+    {
+      "year": 1809,
+      "metroy": 1,
+      "peligro": -2.324
+    },
+    {
+      "year": 1809,
+      "metroy": 2,
+      "peligro": -2.283
+    },
+    {
+      "year": 1809,
+      "metroy": 3,
+      "peligro": -1.949
+    },
+    {
+      "year": 1809,
+      "metroy": 4,
+      "peligro": -0.519
+    },
+    {
+      "year": 1809,
+      "metroy": 5,
+      "peligro": -2.022
+    },
+    {
+      "year": 1809,
+      "metroy": 6,
+      "peligro": -0.462
+    },
+    {
+      "year": 1809,
+      "metroy": 7,
+      "peligro": -1.685
+    },
+    {
+      "year": 1809,
+      "metroy": 8,
+      "peligro": -0.924
+    },
+    {
+      "year": 1809,
+      "metroy": 9,
+      "peligro": -1.060
+    },
+    {
+      "year": 1809,
+      "metroy": 10,
+      "peligro": -0.599
+    },
+    {
+      "year": 1809,
+      "metroy": 11,
+      "peligro": -3.131
+    },
+    {
+      "year": 1809,
+      "metroy": 12,
+      "peligro": -1.777
+    },
+    {
+      "year": 1810,
+      "metroy": 1,
+      "peligro": -1.550
+    },
+    {
+      "year": 1810,
+      "metroy": 2,
+      "peligro": -0.625
+    },
+    {
+      "year": 1810,
+      "metroy": 3,
+      "peligro": -0.391
+    },
+    {
+      "year": 1810,
+      "metroy": 4,
+      "peligro": -1.818
+    },
+    {
+      "year": 1810,
+      "metroy": 5,
+      "peligro": -2.220
+    },
+    {
+      "year": 1810,
+      "metroy": 6,
+      "peligro": -1.503
+    },
+    {
+      "year": 1810,
+      "metroy": 7,
+      "peligro": -1.768
+    },
+    {
+      "year": 1810,
+      "metroy": 8,
+      "peligro": -1.755
+    },
+    {
+      "year": 1810,
+      "metroy": 9,
+      "peligro": -2.886
+    },
+    {
+      "year": 1810,
+      "metroy": 10,
+      "peligro": -2.618
+    },
+    {
+      "year": 1810,
+      "metroy": 11,
+      "peligro": -2.300
+    },
+    {
+      "year": 1810,
+      "metroy": 12,
+      "peligro": -1.019
+    },
+    {
+      "year": 1811,
+      "metroy": 1,
+      "peligro": -1.305
+    },
+    {
+      "year": 1811,
+      "metroy": 2,
+      "peligro": -2.629
+    },
+    {
+      "year": 1811,
+      "metroy": 3,
+      "peligro": -2.125
+    },
+    {
+      "year": 1811,
+      "metroy": 4,
+      "peligro": -2.036
+    },
+    {
+      "year": 1811,
+      "metroy": 5,
+      "peligro": -1.850
+    },
+    {
+      "year": 1811,
+      "metroy": 6,
+      "peligro": -1.348
+    },
+    {
+      "year": 1811,
+      "metroy": 7,
+      "peligro": -2.407
+    },
+    {
+      "year": 1811,
+      "metroy": 8,
+      "peligro": -0.483
+    },
+    {
+      "year": 1811,
+      "metroy": 9,
+      "peligro": -1.675
+    },
+    {
+      "year": 1811,
+      "metroy": 10,
+      "peligro": -2.723
+    },
+    {
+      "year": 1811,
+      "metroy": 11,
+      "peligro": -2.595
+    },
+    {
+      "year": 1811,
+      "metroy": 12,
+      "peligro": -0.409
+    },
+    {
+      "year": 1812,
+      "metroy": 1,
+      "peligro": -1.513
+    },
+    {
+      "year": 1812,
+      "metroy": 2,
+      "peligro": -3.022
+    },
+    {
+      "year": 1812,
+      "metroy": 3,
+      "peligro": -3.282
+    },
+    {
+      "year": 1812,
+      "metroy": 4,
+      "peligro": -1.432
+    },
+    {
+      "year": 1812,
+      "metroy": 5,
+      "peligro": -1.848
+    },
+    {
+      "year": 1812,
+      "metroy": 6,
+      "peligro": -1.531
+    },
+    {
+      "year": 1812,
+      "metroy": 7,
+      "peligro": -0.033
+    },
+    {
+      "year": 1812,
+      "metroy": 8,
+      "peligro": 1.206
+    },
+    {
+      "year": 1812,
+      "metroy": 9,
+      "peligro": -1.886
+    },
+    {
+      "year": 1812,
+      "metroy": 10,
+      "peligro": -1.631
+    },
+    {
+      "year": 1812,
+      "metroy": 11,
+      "peligro": -1.686
+    },
+    {
+      "year": 1812,
+      "metroy": 12,
+      "peligro": -2.423
+    },
+    {
+      "year": 1813,
+      "metroy": 1,
+      "peligro": -4.085
+    },
+    {
+      "year": 1813,
+      "metroy": 2,
+      "peligro": -0.951
+    },
+    {
+      "year": 1813,
+      "metroy": 3,
+      "peligro": -3.764
+    },
+    {
+      "year": 1813,
+      "metroy": 4,
+      "peligro": -0.232
+    },
+    {
+      "year": 1813,
+      "metroy": 5,
+      "peligro": -0.002
+    },
+    {
+      "year": 1813,
+      "metroy": 6,
+      "peligro": -0.302
+    },
+    {
+      "year": 1813,
+      "metroy": 7,
+      "peligro": 0.060
+    },
+    {
+      "year": 1813,
+      "metroy": 8,
+      "peligro": -0.788
+    },
+    {
+      "year": 1813,
+      "metroy": 9,
+      "peligro": 0.272
+    },
+    {
+      "year": 1813,
+      "metroy": 10,
+      "peligro": -0.570
+    },
+    {
+      "year": 1813,
+      "metroy": 11,
+      "peligro": 0.685
+    },
+    {
+      "year": 1813,
+      "metroy": 12,
+      "peligro": -1.491
+    },
+    {
+      "year": 1814,
+      "metroy": 1,
+      "peligro": -1.059
+    },
+    {
+      "year": 1814,
+      "metroy": 2,
+      "peligro": -1.529
+    },
+    {
+      "year": 1814,
+      "metroy": 3,
+      "peligro": -2.687
+    },
+    {
+      "year": 1814,
+      "metroy": 4,
+      "peligro": -1.215
+    },
+    {
+      "year": 1814,
+      "metroy": 5,
+      "peligro": -1.954
+    },
+    {
+      "year": 1814,
+      "metroy": 6,
+      "peligro": -0.734
+    },
+    {
+      "year": 1814,
+      "metroy": 7,
+      "peligro": -1.878
+    },
+    {
+      "year": 1814,
+      "metroy": 8,
+      "peligro": -1.197
+    },
+    {
+      "year": 1814,
+      "metroy": 9,
+      "peligro": -1.394
+    },
+    {
+      "year": 1814,
+      "metroy": 10,
+      "peligro": -1.913
+    },
+    {
+      "year": 1814,
+      "metroy": 11,
+      "peligro": 0.602
+    },
+    {
+      "year": 1814,
+      "metroy": 12,
+      "peligro": 2.232
+    },
+    {
+      "year": 1815,
+      "metroy": 1,
+      "peligro": -0.515
+    },
+    {
+      "year": 1815,
+      "metroy": 2,
+      "peligro": -0.945
+    },
+    {
+      "year": 1815,
+      "metroy": 3,
+      "peligro": -1.723
+    },
+    {
+      "year": 1815,
+      "metroy": 4,
+      "peligro": -1.814
+    },
+    {
+      "year": 1815,
+      "metroy": 5,
+      "peligro": -1.607
+    },
+    {
+      "year": 1815,
+      "metroy": 6,
+      "peligro": -2.405
+    },
+    {
+      "year": 1815,
+      "metroy": 7,
+      "peligro": -0.006
+    },
+    {
+      "year": 1815,
+      "metroy": 8,
+      "peligro": -0.667
+    },
+    {
+      "year": 1815,
+      "metroy": 9,
+      "peligro": -0.922
+    },
+    {
+      "year": 1815,
+      "metroy": 10,
+      "peligro": -2.059
+    },
+    {
+      "year": 1815,
+      "metroy": 11,
+      "peligro": -1.985
+    },
+    {
+      "year": 1815,
+      "metroy": 12,
+      "peligro": -2.463
+    },
+    {
+      "year": 1816,
+      "metroy": 1,
+      "peligro": 0.197
+    },
+    {
+      "year": 1816,
+      "metroy": 2,
+      "peligro": -2.509
+    },
+    {
+      "year": 1816,
+      "metroy": 3,
+      "peligro": -1.455
+    },
+    {
+      "year": 1816,
+      "metroy": 4,
+      "peligro": -0.820
+    },
+    {
+      "year": 1816,
+      "metroy": 5,
+      "peligro": -0.814
+    },
+    {
+      "year": 1816,
+      "metroy": 6,
+      "peligro": -1.774
+    },
+    {
+      "year": 1816,
+      "metroy": 7,
+      "peligro": -2.154
+    },
+    {
+      "year": 1816,
+      "metroy": 8,
+      "peligro": -1.326
+    },
+    {
+      "year": 1816,
+      "metroy": 9,
+      "peligro": -1.676
+    },
+    {
+      "year": 1816,
+      "metroy": 10,
+      "peligro": -3.418
+    },
+    {
+      "year": 1816,
+      "metroy": 11,
+      "peligro": -2.011
+    },
+    {
+      "year": 1816,
+      "metroy": 12,
+      "peligro": -2.646
+    },
+    {
+      "year": 1817,
+      "metroy": 1,
+      "peligro": -1.015
+    },
+    {
+      "year": 1817,
+      "metroy": 2,
+      "peligro": 0.451
+    },
+    {
+      "year": 1817,
+      "metroy": 3,
+      "peligro": -0.808
+    },
+    {
+      "year": 1817,
+      "metroy": 4,
+      "peligro": -0.566
+    },
+    {
+      "year": 1817,
+      "metroy": 5,
+      "peligro": -1.952
+    },
+    {
+      "year": 1817,
+      "metroy": 6,
+      "peligro": -2.315
+    },
+    {
+      "year": 1817,
+      "metroy": 7,
+      "peligro": -2.352
+    },
+    {
+      "year": 1817,
+      "metroy": 8,
+      "peligro": -0.479
+    },
+    {
+      "year": 1817,
+      "metroy": 9,
+      "peligro": -3.250
+    },
+    {
+      "year": 1817,
+      "metroy": 10,
+      "peligro": -3.031
+    },
+    {
+      "year": 1817,
+      "metroy": 11,
+      "peligro": -1.459
+    },
+    {
+      "year": 1817,
+      "metroy": 12,
+      "peligro": -3.406
+    },
+    {
+      "year": 1818,
+      "metroy": 1,
+      "peligro": -1.408
+    },
+    {
+      "year": 1818,
+      "metroy": 2,
+      "peligro": -2.476
+    },
+    {
+      "year": 1818,
+      "metroy": 3,
+      "peligro": 0.184
+    },
+    {
+      "year": 1818,
+      "metroy": 4,
+      "peligro": 1.431
+    },
+    {
+      "year": 1818,
+      "metroy": 5,
+      "peligro": -0.268
+    },
+    {
+      "year": 1818,
+      "metroy": 6,
+      "peligro": 0.192
+    },
+    {
+      "year": 1818,
+      "metroy": 7,
+      "peligro": -0.975
+    },
+    {
+      "year": 1818,
+      "metroy": 8,
+      "peligro": -0.760
+    },
+    {
+      "year": 1818,
+      "metroy": 9,
+      "peligro": -1.483
+    },
+    {
+      "year": 1818,
+      "metroy": 10,
+      "peligro": -2.552
+    },
+    {
+      "year": 1818,
+      "metroy": 11,
+      "peligro": -1.054
+    },
+    {
+      "year": 1818,
+      "metroy": 12,
+      "peligro": -1.148
+    },
+    {
+      "year": 1819,
+      "metroy": 1,
+      "peligro": -1.610
+    },
+    {
+      "year": 1819,
+      "metroy": 2,
+      "peligro": -1.029
+    },
+    {
+      "year": 1819,
+      "metroy": 3,
+      "peligro": -2.448
+    },
+    {
+      "year": 1819,
+      "metroy": 4,
+      "peligro": -1.375
+    },
+    {
+      "year": 1819,
+      "metroy": 5,
+      "peligro": -1.560
+    },
+    {
+      "year": 1819,
+      "metroy": 6,
+      "peligro": -1.064
+    },
+    {
+      "year": 1819,
+      "metroy": 7,
+      "peligro": -1.467
+    },
+    {
+      "year": 1819,
+      "metroy": 8,
+      "peligro": -1.619
+    },
+    {
+      "year": 1819,
+      "metroy": 9,
+      "peligro": -1.221
+    },
+    {
+      "year": 1819,
+      "metroy": 10,
+      "peligro": 0.069
+    },
+    {
+      "year": 1819,
+      "metroy": 11,
+      "peligro": -0.902
+    },
+    {
+      "year": 1819,
+      "metroy": 12,
+      "peligro": -1.824
+    },
+    {
+      "year": 1820,
+      "metroy": 1,
+      "peligro": -1.401
+    },
+    {
+      "year": 1820,
+      "metroy": 2,
+      "peligro": -1.058
+    },
+    {
+      "year": 1820,
+      "metroy": 3,
+      "peligro": -0.769
+    },
+    {
+      "year": 1820,
+      "metroy": 4,
+      "peligro": 0.306
+    },
+    {
+      "year": 1820,
+      "metroy": 5,
+      "peligro": 0.189
+    },
+    {
+      "year": 1820,
+      "metroy": 6,
+      "peligro": -0.299
+    },
+    {
+      "year": 1820,
+      "metroy": 7,
+      "peligro": -1.171
+    },
+    {
+      "year": 1820,
+      "metroy": 8,
+      "peligro": -2.050
+    },
+    {
+      "year": 1820,
+      "metroy": 9,
+      "peligro": -1.017
+    },
+    {
+      "year": 1820,
+      "metroy": 10,
+      "peligro": -1.284
+    },
+    {
+      "year": 1820,
+      "metroy": 11,
+      "peligro": -1.655
+    },
+    {
+      "year": 1820,
+      "metroy": 12,
+      "peligro": -2.345
+    },
+    {
+      "year": 1821,
+      "metroy": 1,
+      "peligro": 0.396
+    },
+    {
+      "year": 1821,
+      "metroy": 2,
+      "peligro": 0.450
+    },
+    {
+      "year": 1821,
+      "metroy": 3,
+      "peligro": 0.013
+    },
+    {
+      "year": 1821,
+      "metroy": 4,
+      "peligro": -0.740
+    },
+    {
+      "year": 1821,
+      "metroy": 5,
+      "peligro": -0.200
+    },
+    {
+      "year": 1821,
+      "metroy": 6,
+      "peligro": -1.030
+    },
+    {
+      "year": 1821,
+      "metroy": 7,
+      "peligro": -1.521
+    },
+    {
+      "year": 1821,
+      "metroy": 8,
+      "peligro": -0.932
+    },
+    {
+      "year": 1821,
+      "metroy": 9,
+      "peligro": -2.023
+    },
+    {
+      "year": 1821,
+      "metroy": 10,
+      "peligro": -0.765
+    },
+    {
+      "year": 1821,
+      "metroy": 11,
+      "peligro": -0.528
+    },
+    {
+      "year": 1821,
+      "metroy": 12,
+      "peligro": -0.918
+    },
+    {
+      "year": 1822,
+      "metroy": 1,
+      "peligro": 0.186
+    },
+    {
+      "year": 1822,
+      "metroy": 2,
+      "peligro": 1.206
+    },
+    {
+      "year": 1822,
+      "metroy": 3,
+      "peligro": 2.333
+    },
+    {
+      "year": 1822,
+      "metroy": 4,
+      "peligro": -0.236
+    },
+    {
+      "year": 1822,
+      "metroy": 5,
+      "peligro": -0.991
+    },
+    {
+      "year": 1822,
+      "metroy": 6,
+      "peligro": -1.008
+    },
+    {
+      "year": 1822,
+      "metroy": 7,
+      "peligro": -0.354
+    },
+    {
+      "year": 1822,
+      "metroy": 8,
+      "peligro": -0.825
+    },
+    {
+      "year": 1822,
+      "metroy": 9,
+      "peligro": -1.488
+    },
+    {
+      "year": 1822,
+      "metroy": 10,
+      "peligro": -1.539
+    },
+    {
+      "year": 1822,
+      "metroy": 11,
+      "peligro": -1.615
+    },
+    {
+      "year": 1822,
+      "metroy": 12,
+      "peligro": -2.670
+    },
+    {
+      "year": 1823,
+      "metroy": 1,
+      "peligro": -0.809
+    },
+    {
+      "year": 1823,
+      "metroy": 2,
+      "peligro": -1.296
+    },
+    {
+      "year": 1823,
+      "metroy": 3,
+      "peligro": -0.374
+    },
+    {
+      "year": 1823,
+      "metroy": 4,
+      "peligro": -0.801
+    },
+    {
+      "year": 1823,
+      "metroy": 5,
+      "peligro": -0.888
+    },
+    {
+      "year": 1823,
+      "metroy": 6,
+      "peligro": 0.298
+    },
+    {
+      "year": 1823,
+      "metroy": 7,
+      "peligro": -0.331
+    },
+    {
+      "year": 1823,
+      "metroy": 8,
+      "peligro": -0.884
+    },
+    {
+      "year": 1823,
+      "metroy": 9,
+      "peligro": -1.948
+    },
+    {
+      "year": 1823,
+      "metroy": 10,
+      "peligro": -1.647
+    },
+    {
+      "year": 1823,
+      "metroy": 11,
+      "peligro": -1.596
+    },
+    {
+      "year": 1823,
+      "metroy": 12,
+      "peligro": -1.665
+    },
+    {
+      "year": 1824,
+      "metroy": 1,
+      "peligro": 0.068
+    },
+    {
+      "year": 1824,
+      "metroy": 2,
+      "peligro": -0.587
+    },
+    {
+      "year": 1824,
+      "metroy": 3,
+      "peligro": -0.081
+    },
+    {
+      "year": 1824,
+      "metroy": 4,
+      "peligro": -0.079
+    },
+    {
+      "year": 1824,
+      "metroy": 5,
+      "peligro": -0.317
+    },
+    {
+      "year": 1824,
+      "metroy": 6,
+      "peligro": -0.196
+    },
+    {
+      "year": 1824,
+      "metroy": 7,
+      "peligro": 0.294
+    },
+    {
+      "year": 1824,
+      "metroy": 8,
+      "peligro": -0.597
+    },
+    {
+      "year": 1824,
+      "metroy": 9,
+      "peligro": -0.625
+    },
+    {
+      "year": 1824,
+      "metroy": 10,
+      "peligro": -1.097
+    },
+    {
+      "year": 1824,
+      "metroy": 11,
+      "peligro": -0.243
+    },
+    {
+      "year": 1824,
+      "metroy": 12,
+      "peligro": 1.449
+    },
+    {
+      "year": 1825,
+      "metroy": 1,
+      "peligro": 0.618
+    },
+    {
+      "year": 1825,
+      "metroy": 2,
+      "peligro": -0.175
+    },
+    {
+      "year": 1825,
+      "metroy": 3,
+      "peligro": -0.075
+    },
+    {
+      "year": 1825,
+      "metroy": 4,
+      "peligro": 0.525
+    },
+    {
+      "year": 1825,
+      "metroy": 5,
+      "peligro": -0.703
+    },
+    {
+      "year": 1825,
+      "metroy": 6,
+      "peligro": 0.126
+    },
+    {
+      "year": 1825,
+      "metroy": 7,
+      "peligro": -0.522
+    },
+    {
+      "year": 1825,
+      "metroy": 8,
+      "peligro": -0.758
+    },
+    {
+      "year": 1825,
+      "metroy": 9,
+      "peligro": -1.031
+    },
+    {
+      "year": 1825,
+      "metroy": 10,
+      "peligro": -1.267
+    },
+    {
+      "year": 1825,
+      "metroy": 11,
+      "peligro": -0.004
+    },
+    {
+      "year": 1825,
+      "metroy": 12,
+      "peligro": -0.510
+    },
+    {
+      "year": 1826,
+      "metroy": 1,
+      "peligro": -0.581
+    },
+    {
+      "year": 1826,
+      "metroy": 2,
+      "peligro": -1.642
+    },
+    {
+      "year": 1826,
+      "metroy": 3,
+      "peligro": -0.477
+    },
+    {
+      "year": 1826,
+      "metroy": 4,
+      "peligro": 0.005
+    },
+    {
+      "year": 1826,
+      "metroy": 5,
+      "peligro": 0.409
+    },
+    {
+      "year": 1826,
+      "metroy": 6,
+      "peligro": -0.625
+    },
+    {
+      "year": 1826,
+      "metroy": 7,
+      "peligro": -0.106
+    },
+    {
+      "year": 1826,
+      "metroy": 8,
+      "peligro": -0.961
+    },
+    {
+      "year": 1826,
+      "metroy": 9,
+      "peligro": -0.986
+    },
+    {
+      "year": 1826,
+      "metroy": 10,
+      "peligro": -0.783
+    },
+    {
+      "year": 1826,
+      "metroy": 11,
+      "peligro": 0.619
+    },
+    {
+      "year": 1826,
+      "metroy": 12,
+      "peligro": 1.352
+    },
+    {
+      "year": 1827,
+      "metroy": 1,
+      "peligro": 1.104
+    },
+    {
+      "year": 1827,
+      "metroy": 2,
+      "peligro": 1.228
+    },
+    {
+      "year": 1827,
+      "metroy": 3,
+      "peligro": 0.786
+    },
+    {
+      "year": 1827,
+      "metroy": 4,
+      "peligro": 1.039
+    },
+    {
+      "year": 1827,
+      "metroy": 5,
+      "peligro": 0.394
+    },
+    {
+      "year": 1827,
+      "metroy": 6,
+      "peligro": -0.071
+    },
+    {
+      "year": 1827,
+      "metroy": 7,
+      "peligro": 0.121
+    },
+    {
+      "year": 1827,
+      "metroy": 8,
+      "peligro": -0.365
+    },
+    {
+      "year": 1827,
+      "metroy": 9,
+      "peligro": -1.296
+    },
+    {
+      "year": 1827,
+      "metroy": 10,
+      "peligro": -0.731
+    },
+    {
+      "year": 1827,
+      "metroy": 11,
+      "peligro": 0.182
+    },
+    {
+      "year": 1827,
+      "metroy": 12,
+      "peligro": -0.832
+    },
+    {
+      "year": 1828,
+      "metroy": 1,
+      "peligro": -1.923
+    },
+    {
+      "year": 1828,
+      "metroy": 2,
+      "peligro": -1.328
+    },
+    {
+      "year": 1828,
+      "metroy": 3,
+      "peligro": 0.414
+    },
+    {
+      "year": 1828,
+      "metroy": 4,
+      "peligro": 0.336
+    },
+    {
+      "year": 1828,
+      "metroy": 5,
+      "peligro": -0.200
+    },
+    {
+      "year": 1828,
+      "metroy": 6,
+      "peligro": 0.456
+    },
+    {
+      "year": 1828,
+      "metroy": 7,
+      "peligro": -0.177
+    },
+    {
+      "year": 1828,
+      "metroy": 8,
+      "peligro": -0.454
+    },
+    {
+      "year": 1828,
+      "metroy": 9,
+      "peligro": -2.191
+    },
+    {
+      "year": 1828,
+      "metroy": 10,
+      "peligro": -0.703
+    },
+    {
+      "year": 1828,
+      "metroy": 11,
+      "peligro": -0.153
+    },
+    {
+      "year": 1828,
+      "metroy": 12,
+      "peligro": -0.689
+    },
+    {
+      "year": 1829,
+      "metroy": 1,
+      "peligro": -0.588
+    },
+    {
+      "year": 1829,
+      "metroy": 2,
+      "peligro": -1.568
+    },
+    {
+      "year": 1829,
+      "metroy": 3,
+      "peligro": -0.353
+    },
+    {
+      "year": 1829,
+      "metroy": 4,
+      "peligro": -0.647
+    },
+    {
+      "year": 1829,
+      "metroy": 5,
+      "peligro": -0.154
+    },
+    {
+      "year": 1829,
+      "metroy": 6,
+      "peligro": -0.813
+    },
+    {
+      "year": 1829,
+      "metroy": 7,
+      "peligro": -0.355
+    },
+    {
+      "year": 1829,
+      "metroy": 8,
+      "peligro": -0.682
+    },
+    {
+      "year": 1829,
+      "metroy": 9,
+      "peligro": -1.662
+    },
+    {
+      "year": 1829,
+      "metroy": 10,
+      "peligro": -0.564
+    },
+    {
+      "year": 1829,
+      "metroy": 11,
+      "peligro": -1.116
+    },
+    {
+      "year": 1829,
+      "metroy": 12,
+      "peligro": -1.135
+    },
+    {
+      "year": 1830,
+      "metroy": 1,
+      "peligro": 0.337
+    },
+    {
+      "year": 1830,
+      "metroy": 2,
+      "peligro": 0.771
+    },
+    {
+      "year": 1830,
+      "metroy": 3,
+      "peligro": -1.040
+    },
+    {
+      "year": 1830,
+      "metroy": 4,
+      "peligro": 0.320
+    },
+    {
+      "year": 1830,
+      "metroy": 5,
+      "peligro": -1.296
+    },
+    {
+      "year": 1830,
+      "metroy": 6,
+      "peligro": -0.841
+    },
+    {
+      "year": 1830,
+      "metroy": 7,
+      "peligro": 0.399
+    },
+    {
+      "year": 1830,
+      "metroy": 8,
+      "peligro": -0.690
+    },
+    {
+      "year": 1830,
+      "metroy": 9,
+      "peligro": -1.743
+    },
+    {
+      "year": 1830,
+      "metroy": 10,
+      "peligro": -1.358
+    },
+    {
+      "year": 1830,
+      "metroy": 11,
+      "peligro": 1.350
+    },
+    {
+      "year": 1830,
+      "metroy": 12,
+      "peligro": 0.849
+    },
+    {
+      "year": 1831,
+      "metroy": 1,
+      "peligro": -0.453
+    },
+    {
+      "year": 1831,
+      "metroy": 2,
+      "peligro": -0.831
+    },
+    {
+      "year": 1831,
+      "metroy": 3,
+      "peligro": -0.933
+    },
+    {
+      "year": 1831,
+      "metroy": 4,
+      "peligro": -0.789
+    },
+    {
+      "year": 1831,
+      "metroy": 5,
+      "peligro": -0.546
+    },
+    {
+      "year": 1831,
+      "metroy": 6,
+      "peligro": -0.521
+    },
+    {
+      "year": 1831,
+      "metroy": 7,
+      "peligro": -0.978
+    },
+    {
+      "year": 1831,
+      "metroy": 8,
+      "peligro": -1.578
+    },
+    {
+      "year": 1831,
+      "metroy": 9,
+      "peligro": -2.324
+    },
+    {
+      "year": 1831,
+      "metroy": 10,
+      "peligro": -1.575
+    },
+    {
+      "year": 1831,
+      "metroy": 11,
+      "peligro": -1.729
+    },
+    {
+      "year": 1831,
+      "metroy": 12,
+      "peligro": -1.366
+    },
+    {
+      "year": 1832,
+      "metroy": 1,
+      "peligro": -0.962
+    },
+    {
+      "year": 1832,
+      "metroy": 2,
+      "peligro": -1.616
+    },
+    {
+      "year": 1832,
+      "metroy": 3,
+      "peligro": -0.849
+    },
+    {
+      "year": 1832,
+      "metroy": 4,
+      "peligro": -0.527
+    },
+    {
+      "year": 1832,
+      "metroy": 5,
+      "peligro": -1.236
+    },
+    {
+      "year": 1832,
+      "metroy": 6,
+      "peligro": -0.897
+    },
+    {
+      "year": 1832,
+      "metroy": 7,
+      "peligro": -0.834
+    },
+    {
+      "year": 1832,
+      "metroy": 8,
+      "peligro": -2.247
+    },
+    {
+      "year": 1832,
+      "metroy": 9,
+      "peligro": -1.943
+    },
+    {
+      "year": 1832,
+      "metroy": 10,
+      "peligro": -0.890
+    },
+    {
+      "year": 1832,
+      "metroy": 11,
+      "peligro": -1.948
+    },
+    {
+      "year": 1832,
+      "metroy": 12,
+      "peligro": -2.953
+    },
+    {
+      "year": 1833,
+      "metroy": 1,
+      "peligro": -0.710
+    },
+    {
+      "year": 1833,
+      "metroy": 2,
+      "peligro": -0.577
+    },
+    {
+      "year": 1833,
+      "metroy": 3,
+      "peligro": -1.012
+    },
+    {
+      "year": 1833,
+      "metroy": 4,
+      "peligro": -0.636
+    },
+    {
+      "year": 1833,
+      "metroy": 5,
+      "peligro": -0.971
+    },
+    {
+      "year": 1833,
+      "metroy": 6,
+      "peligro": -0.712
+    },
+    {
+      "year": 1833,
+      "metroy": 7,
+      "peligro": -0.864
+    },
+    {
+      "year": 1833,
+      "metroy": 8,
+      "peligro": -0.948
+    },
+    {
+      "year": 1833,
+      "metroy": 9,
+      "peligro": -1.076
+    },
+    {
+      "year": 1833,
+      "metroy": 10,
+      "peligro": -1.554
+    },
+    {
+      "year": 1833,
+      "metroy": 11,
+      "peligro": 0.430
+    },
+    {
+      "year": 1833,
+      "metroy": 12,
+      "peligro": -1.015
+    },
+    {
+      "year": 1834,
+      "metroy": 1,
+      "peligro": -2.335
+    },
+    {
+      "year": 1834,
+      "metroy": 2,
+      "peligro": -1.041
+    },
+    {
+      "year": 1834,
+      "metroy": 3,
+      "peligro": 0.170
+    },
+    {
+      "year": 1834,
+      "metroy": 4,
+      "peligro": -0.496
+    },
+    {
+      "year": 1834,
+      "metroy": 5,
+      "peligro": -0.344
+    },
+    {
+      "year": 1834,
+      "metroy": 6,
+      "peligro": -0.937
+    },
+    {
+      "year": 1834,
+      "metroy": 7,
+      "peligro": -0.413
+    },
+    {
+      "year": 1834,
+      "metroy": 8,
+      "peligro": -0.764
+    },
+    {
+      "year": 1834,
+      "metroy": 9,
+      "peligro": -0.819
+    },
+    {
+      "year": 1834,
+      "metroy": 10,
+      "peligro": -0.765
+    },
+    {
+      "year": 1834,
+      "metroy": 11,
+      "peligro": 0.256
+    },
+    {
+      "year": 1834,
+      "metroy": 12,
+      "peligro": -0.573
+    },
+    {
+      "year": 1835,
+      "metroy": 1,
+      "peligro": -0.165
+    },
+    {
+      "year": 1835,
+      "metroy": 2,
+      "peligro": -0.452
+    },
+    {
+      "year": 1835,
+      "metroy": 3,
+      "peligro": -1.034
+    },
+    {
+      "year": 1835,
+      "metroy": 4,
+      "peligro": -0.772
+    },
+    {
+      "year": 1835,
+      "metroy": 5,
+      "peligro": -1.401
+    },
+    {
+      "year": 1835,
+      "metroy": 6,
+      "peligro": -1.685
+    },
+    {
+      "year": 1835,
+      "metroy": 7,
+      "peligro": -1.570
+    },
+    {
+      "year": 1835,
+      "metroy": 8,
+      "peligro": -1.877
+    },
+    {
+      "year": 1835,
+      "metroy": 9,
+      "peligro": -2.454
+    },
+    {
+      "year": 1835,
+      "metroy": 10,
+      "peligro": -1.596
+    },
+    {
+      "year": 1835,
+      "metroy": 11,
+      "peligro": -1.815
+    },
+    {
+      "year": 1835,
+      "metroy": 12,
+      "peligro": -2.495
+    },
+    {
+      "year": 1836,
+      "metroy": 1,
+      "peligro": -1.044
+    },
+    {
+      "year": 1836,
+      "metroy": 2,
+      "peligro": -1.050
+    },
+    {
+      "year": 1836,
+      "metroy": 3,
+      "peligro": -0.151
+    },
+    {
+      "year": 1836,
+      "metroy": 4,
+      "peligro": -1.240
+    },
+    {
+      "year": 1836,
+      "metroy": 5,
+      "peligro": -1.331
+    },
+    {
+      "year": 1836,
+      "metroy": 6,
+      "peligro": -1.123
+    },
+    {
+      "year": 1836,
+      "metroy": 7,
+      "peligro": -1.002
+    },
+    {
+      "year": 1836,
+      "metroy": 8,
+      "peligro": -1.740
+    },
+    {
+      "year": 1836,
+      "metroy": 9,
+      "peligro": -1.577
+    },
+    {
+      "year": 1836,
+      "metroy": 10,
+      "peligro": -0.652
+    },
+    {
+      "year": 1836,
+      "metroy": 11,
+      "peligro": -2.323
+    },
+    {
+      "year": 1836,
+      "metroy": 12,
+      "peligro": -0.828
+    },
+    {
+      "year": 1837,
+      "metroy": 1,
+      "peligro": -0.784
+    },
+    {
+      "year": 1837,
+      "metroy": 2,
+      "peligro": -0.789
+    },
+    {
+      "year": 1837,
+      "metroy": 3,
+      "peligro": -1.679
+    },
+    {
+      "year": 1837,
+      "metroy": 4,
+      "peligro": -2.330
+    },
+    {
+      "year": 1837,
+      "metroy": 5,
+      "peligro": -1.610
+    },
+    {
+      "year": 1837,
+      "metroy": 6,
+      "peligro": -1.589
+    },
+    {
+      "year": 1837,
+      "metroy": 7,
+      "peligro": -1.064
+    },
+    {
+      "year": 1837,
+      "metroy": 8,
+      "peligro": -1.118
+    },
+    {
+      "year": 1837,
+      "metroy": 9,
+      "peligro": -1.536
+    },
+    {
+      "year": 1837,
+      "metroy": 10,
+      "peligro": -1.767
+    },
+    {
+      "year": 1837,
+      "metroy": 11,
+      "peligro": -1.989
+    },
+    {
+      "year": 1837,
+      "metroy": 12,
+      "peligro": -1.427
+    },
+    {
+      "year": 1838,
+      "metroy": 1,
+      "peligro": -3.280
+    },
+    {
+      "year": 1838,
+      "metroy": 2,
+      "peligro": -1.888
+    },
+    {
+      "year": 1838,
+      "metroy": 3,
+      "peligro": -1.791
+    },
+    {
+      "year": 1838,
+      "metroy": 4,
+      "peligro": -1.193
+    },
+    {
+      "year": 1838,
+      "metroy": 5,
+      "peligro": -1.635
+    },
+    {
+      "year": 1838,
+      "metroy": 6,
+      "peligro": -0.983
+    },
+    {
+      "year": 1838,
+      "metroy": 7,
+      "peligro": -0.287
+    },
+    {
+      "year": 1838,
+      "metroy": 8,
+      "peligro": -0.569
+    },
+    {
+      "year": 1838,
+      "metroy": 9,
+      "peligro": -1.256
+    },
+    {
+      "year": 1838,
+      "metroy": 10,
+      "peligro": -0.871
+    },
+    {
+      "year": 1838,
+      "metroy": 11,
+      "peligro": -0.993
+    },
+    {
+      "year": 1838,
+      "metroy": 12,
+      "peligro": -1.090
+    },
+    {
+      "year": 1839,
+      "metroy": 1,
+      "peligro": -0.579
+    },
+    {
+      "year": 1839,
+      "metroy": 2,
+      "peligro": 0.052
+    },
+    {
+      "year": 1839,
+      "metroy": 3,
+      "peligro": -2.948
+    },
+    {
+      "year": 1839,
+      "metroy": 4,
+      "peligro": -0.739
+    },
+    {
+      "year": 1839,
+      "metroy": 5,
+      "peligro": -1.340
+    },
+    {
+      "year": 1839,
+      "metroy": 6,
+      "peligro": -1.191
+    },
+    {
+      "year": 1839,
+      "metroy": 7,
+      "peligro": -0.253
+    },
+    {
+      "year": 1839,
+      "metroy": 8,
+      "peligro": -0.085
+    },
+    {
+      "year": 1839,
+      "metroy": 9,
+      "peligro": -1.497
+    },
+    {
+      "year": 1839,
+      "metroy": 10,
+      "peligro": -1.213
+    },
+    {
+      "year": 1839,
+      "metroy": 11,
+      "peligro": -2.305
+    },
+    {
+      "year": 1839,
+      "metroy": 12,
+      "peligro": -2.639
+    },
+    {
+      "year": 1840,
+      "metroy": 1,
+      "peligro": -0.154
+    },
+    {
+      "year": 1840,
+      "metroy": 2,
+      "peligro": -1.242
+    },
+    {
+      "year": 1840,
+      "metroy": 3,
+      "peligro": -1.456
+    },
+    {
+      "year": 1840,
+      "metroy": 4,
+      "peligro": -0.600
+    },
+    {
+      "year": 1840,
+      "metroy": 5,
+      "peligro": -0.388
+    },
+    {
+      "year": 1840,
+      "metroy": 6,
+      "peligro": -0.324
+    },
+    {
+      "year": 1840,
+      "metroy": 7,
+      "peligro": 0.078
+    },
+    {
+      "year": 1840,
+      "metroy": 8,
+      "peligro": -1.027
+    },
+    {
+      "year": 1840,
+      "metroy": 9,
+      "peligro": -1.311
+    },
+    {
+      "year": 1840,
+      "metroy": 10,
+      "peligro": -1.911
+    },
+    {
+      "year": 1840,
+      "metroy": 11,
+      "peligro": -2.095
+    },
+    {
+      "year": 1840,
+      "metroy": 12,
+      "peligro": -1.753
+    },
+    {
+      "year": 1841,
+      "metroy": 1,
+      "peligro": -2.020
+    },
+    {
+      "year": 1841,
+      "metroy": 2,
+      "peligro": -0.853
+    },
+    {
+      "year": 1841,
+      "metroy": 3,
+      "peligro": -2.130
+    },
+    {
+      "year": 1841,
+      "metroy": 4,
+      "peligro": -1.762
+    },
+    {
+      "year": 1841,
+      "metroy": 5,
+      "peligro": -0.777
+    },
+    {
+      "year": 1841,
+      "metroy": 6,
+      "peligro": -0.686
+    },
+    {
+      "year": 1841,
+      "metroy": 7,
+      "peligro": -0.086
+    },
+    {
+      "year": 1841,
+      "metroy": 8,
+      "peligro": -0.416
+    },
+    {
+      "year": 1841,
+      "metroy": 9,
+      "peligro": -1.365
+    },
+    {
+      "year": 1841,
+      "metroy": 10,
+      "peligro": -0.619
+    },
+    {
+      "year": 1841,
+      "metroy": 11,
+      "peligro": -1.440
+    },
+    {
+      "year": 1841,
+      "metroy": 12,
+      "peligro": -1.118
+    },
+    {
+      "year": 1842,
+      "metroy": 1,
+      "peligro": -0.992
+    },
+    {
+      "year": 1842,
+      "metroy": 2,
+      "peligro": -0.397
+    },
+    {
+      "year": 1842,
+      "metroy": 3,
+      "peligro": 0.264
+    },
+    {
+      "year": 1842,
+      "metroy": 4,
+      "peligro": -0.211
+    },
+    {
+      "year": 1842,
+      "metroy": 5,
+      "peligro": -1.027
+    },
+    {
+      "year": 1842,
+      "metroy": 6,
+      "peligro": -1.118
+    },
+    {
+      "year": 1842,
+      "metroy": 7,
+      "peligro": -1.000
+    },
+    {
+      "year": 1842,
+      "metroy": 8,
+      "peligro": -0.879
+    },
+    {
+      "year": 1842,
+      "metroy": 9,
+      "peligro": -1.308
+    },
+    {
+      "year": 1842,
+      "metroy": 10,
+      "peligro": -1.061
+    },
+    {
+      "year": 1842,
+      "metroy": 11,
+      "peligro": -1.347
+    },
+    {
+      "year": 1842,
+      "metroy": 12,
+      "peligro": 0.062
+    },
+    {
+      "year": 1843,
+      "metroy": 1,
+      "peligro": 0.370
+    },
+    {
+      "year": 1843,
+      "metroy": 2,
+      "peligro": 0.604
+    },
+    {
+      "year": 1843,
+      "metroy": 3,
+      "peligro": -0.672
+    },
+    {
+      "year": 1843,
+      "metroy": 4,
+      "peligro": -0.637
+    },
+    {
+      "year": 1843,
+      "metroy": 5,
+      "peligro": -1.477
+    },
+    {
+      "year": 1843,
+      "metroy": 6,
+      "peligro": -1.176
+    },
+    {
+      "year": 1843,
+      "metroy": 7,
+      "peligro": -0.581
+    },
+    {
+      "year": 1843,
+      "metroy": 8,
+      "peligro": -0.781
+    },
+    {
+      "year": 1843,
+      "metroy": 9,
+      "peligro": -0.911
+    },
+    {
+      "year": 1843,
+      "metroy": 10,
+      "peligro": -0.646
+    },
+    {
+      "year": 1843,
+      "metroy": 11,
+      "peligro": -1.237
+    },
+    {
+      "year": 1843,
+      "metroy": 12,
+      "peligro": 0.109
+    },
+    {
+      "year": 1844,
+      "metroy": 1,
+      "peligro": -0.721
+    },
+    {
+      "year": 1844,
+      "metroy": 2,
+      "peligro": -1.280
+    },
+    {
+      "year": 1844,
+      "metroy": 3,
+      "peligro": -0.666
+    },
+    {
+      "year": 1844,
+      "metroy": 4,
+      "peligro": -1.079
+    },
+    {
+      "year": 1844,
+      "metroy": 5,
+      "peligro": -1.404
+    },
+    {
+      "year": 1844,
+      "metroy": 6,
+      "peligro": -0.860
+    },
+    {
+      "year": 1844,
+      "metroy": 7,
+      "peligro": -0.686
+    },
+    {
+      "year": 1844,
+      "metroy": 8,
+      "peligro": -1.022
+    },
+    {
+      "year": 1844,
+      "metroy": 9,
+      "peligro": -1.421
+    },
+    {
+      "year": 1844,
+      "metroy": 10,
+      "peligro": -0.659
+    },
+    {
+      "year": 1844,
+      "metroy": 11,
+      "peligro": -1.768
+    },
+    {
+      "year": 1844,
+      "metroy": 12,
+      "peligro": -1.764
+    },
+    {
+      "year": 1845,
+      "metroy": 1,
+      "peligro": 0.065
+    },
+    {
+      "year": 1845,
+      "metroy": 2,
+      "peligro": -1.619
+    },
+    {
+      "year": 1845,
+      "metroy": 3,
+      "peligro": -0.759
+    },
+    {
+      "year": 1845,
+      "metroy": 4,
+      "peligro": -0.297
+    },
+    {
+      "year": 1845,
+      "metroy": 5,
+      "peligro": -1.055
+    },
+    {
+      "year": 1845,
+      "metroy": 6,
+      "peligro": -0.830
+    },
+    {
+      "year": 1845,
+      "metroy": 7,
+      "peligro": -0.269
+    },
+    {
+      "year": 1845,
+      "metroy": 8,
+      "peligro": -0.506
+    },
+    {
+      "year": 1845,
+      "metroy": 9,
+      "peligro": -0.975
+    },
+    {
+      "year": 1845,
+      "metroy": 10,
+      "peligro": -1.564
+    },
+    {
+      "year": 1845,
+      "metroy": 11,
+      "peligro": -0.967
+    },
+    {
+      "year": 1845,
+      "metroy": 12,
+      "peligro": -1.956
+    },
+    {
+      "year": 1846,
+      "metroy": 1,
+      "peligro": 0.573
+    },
+    {
+      "year": 1846,
+      "metroy": 2,
+      "peligro": 0.145
+    },
+    {
+      "year": 1846,
+      "metroy": 3,
+      "peligro": 0.920
+    },
+    {
+      "year": 1846,
+      "metroy": 4,
+      "peligro": -0.989
+    },
+    {
+      "year": 1846,
+      "metroy": 5,
+      "peligro": -0.595
+    },
+    {
+      "year": 1846,
+      "metroy": 6,
+      "peligro": -0.158
+    },
+    {
+      "year": 1846,
+      "metroy": 7,
+      "peligro": 0.357
+    },
+    {
+      "year": 1846,
+      "metroy": 8,
+      "peligro": 0.092
+    },
+    {
+      "year": 1846,
+      "metroy": 9,
+      "peligro": -0.446
+    },
+    {
+      "year": 1846,
+      "metroy": 10,
+      "peligro": -1.115
+    },
+    {
+      "year": 1846,
+      "metroy": 11,
+      "peligro": -1.131
+    },
+    {
+      "year": 1846,
+      "metroy": 12,
+      "peligro": 0.163
+    },
+    {
+      "year": 1847,
+      "metroy": 1,
+      "peligro": 0.119
+    },
+    {
+      "year": 1847,
+      "metroy": 2,
+      "peligro": 0.352
+    },
+    {
+      "year": 1847,
+      "metroy": 3,
+      "peligro": -1.333
+    },
+    {
+      "year": 1847,
+      "metroy": 4,
+      "peligro": -0.450
+    },
+    {
+      "year": 1847,
+      "metroy": 5,
+      "peligro": -0.851
+    },
+    {
+      "year": 1847,
+      "metroy": 6,
+      "peligro": -0.837
+    },
+    {
+      "year": 1847,
+      "metroy": 7,
+      "peligro": -0.288
+    },
+    {
+      "year": 1847,
+      "metroy": 8,
+      "peligro": -0.610
+    },
+    {
+      "year": 1847,
+      "metroy": 9,
+      "peligro": -0.558
+    },
+    {
+      "year": 1847,
+      "metroy": 10,
+      "peligro": -0.709
+    },
+    {
+      "year": 1847,
+      "metroy": 11,
+      "peligro": -0.579
+    },
+    {
+      "year": 1847,
+      "metroy": 12,
+      "peligro": -1.936
+    },
+    {
+      "year": 1848,
+      "metroy": 1,
+      "peligro": -2.126
+    },
+    {
+      "year": 1848,
+      "metroy": 2,
+      "peligro": 0.489
+    },
+    {
+      "year": 1848,
+      "metroy": 3,
+      "peligro": -0.600
+    },
+    {
+      "year": 1848,
+      "metroy": 4,
+      "peligro": -0.332
+    },
+    {
+      "year": 1848,
+      "metroy": 5,
+      "peligro": -0.895
+    },
+    {
+      "year": 1848,
+      "metroy": 6,
+      "peligro": -0.428
+    },
+    {
+      "year": 1848,
+      "metroy": 7,
+      "peligro": -0.074
+    },
+    {
+      "year": 1848,
+      "metroy": 8,
+      "peligro": -0.753
+    },
+    {
+      "year": 1848,
+      "metroy": 9,
+      "peligro": -1.196
+    },
+    {
+      "year": 1848,
+      "metroy": 10,
+      "peligro": -0.672
+    },
+    {
+      "year": 1848,
+      "metroy": 11,
+      "peligro": -0.857
+    },
+    {
+      "year": 1848,
+      "metroy": 12,
+      "peligro": -1.554
+    },
+    {
+      "year": 1849,
+      "metroy": 1,
+      "peligro": -0.635
+    },
+    {
+      "year": 1849,
+      "metroy": 2,
+      "peligro": -0.598
+    },
+    {
+      "year": 1849,
+      "metroy": 3,
+      "peligro": -0.070
+    },
+    {
+      "year": 1849,
+      "metroy": 4,
+      "peligro": -1.404
+    },
+    {
+      "year": 1849,
+      "metroy": 5,
+      "peligro": -1.319
+    },
+    {
+      "year": 1849,
+      "metroy": 6,
+      "peligro": -0.665
+    },
+    {
+      "year": 1849,
+      "metroy": 7,
+      "peligro": -0.080
+    },
+    {
+      "year": 1849,
+      "metroy": 8,
+      "peligro": -0.411
+    },
+    {
+      "year": 1849,
+      "metroy": 9,
+      "peligro": -1.103
+    },
+    {
+      "year": 1849,
+      "metroy": 10,
+      "peligro": -0.434
+    },
+    {
+      "year": 1849,
+      "metroy": 11,
+      "peligro": -0.388
+    },
+    {
+      "year": 1849,
+      "metroy": 12,
+      "peligro": -1.726
+    },
+    {
+      "year": 1850,
+      "metroy": 1,
+      "peligro": -1.886
+    },
+    {
+      "year": 1850,
+      "metroy": 2,
+      "peligro": -0.194
+    },
+    {
+      "year": 1850,
+      "metroy": 3,
+      "peligro": -0.432
+    },
+    {
+      "year": 1850,
+      "metroy": 4,
+      "peligro": -1.219
+    },
+    {
+      "year": 1850,
+      "metroy": 5,
+      "peligro": -1.475
+    },
+    {
+      "year": 1850,
+      "metroy": 6,
+      "peligro": -0.513
+    },
+    {
+      "year": 1850,
+      "metroy": 7,
+      "peligro": -0.040
+    },
+    {
+      "year": 1850,
+      "metroy": 8,
+      "peligro": 0.017
+    },
+    {
+      "year": 1850,
+      "metroy": 9,
+      "peligro": -0.691
+    },
+    {
+      "year": 1850,
+      "metroy": 10,
+      "peligro": -1.240
+    },
+    {
+      "year": 1850,
+      "metroy": 11,
+      "peligro": -1.434
+    },
+    {
+      "year": 1850,
+      "metroy": 12,
+      "peligro": -0.864
+    },
+    {
+      "year": 1851,
+      "metroy": 1,
+      "peligro": -0.220
+    },
+    {
+      "year": 1851,
+      "metroy": 2,
+      "peligro": -0.762
+    },
+    {
+      "year": 1851,
+      "metroy": 3,
+      "peligro": -1.220
+    },
+    {
+      "year": 1851,
+      "metroy": 4,
+      "peligro": -1.165
+    },
+    {
+      "year": 1851,
+      "metroy": 5,
+      "peligro": -0.372
+    },
+    {
+      "year": 1851,
+      "metroy": 6,
+      "peligro": -0.260
+    },
+    {
+      "year": 1851,
+      "metroy": 7,
+      "peligro": -0.027
+    },
+    {
+      "year": 1851,
+      "metroy": 8,
+      "peligro": -0.305
+    },
+    {
+      "year": 1851,
+      "metroy": 9,
+      "peligro": -0.566
+    },
+    {
+      "year": 1851,
+      "metroy": 10,
+      "peligro": -0.229
+    },
+    {
+      "year": 1851,
+      "metroy": 11,
+      "peligro": -1.212
+    },
+    {
+      "year": 1851,
+      "metroy": 12,
+      "peligro": -0.551
+    },
+    {
+      "year": 1852,
+      "metroy": 1,
+      "peligro": -0.289
+    },
+    {
+      "year": 1852,
+      "metroy": 2,
+      "peligro": -0.763
+    },
+    {
+      "year": 1852,
+      "metroy": 3,
+      "peligro": -1.538
+    },
+    {
+      "year": 1852,
+      "metroy": 4,
+      "peligro": -0.956
+    },
+    {
+      "year": 1852,
+      "metroy": 5,
+      "peligro": -0.319
+    },
+    {
+      "year": 1852,
+      "metroy": 6,
+      "peligro": -0.527
+    },
+    {
+      "year": 1852,
+      "metroy": 7,
+      "peligro": -0.060
+    },
+    {
+      "year": 1852,
+      "metroy": 8,
+      "peligro": -0.754
+    },
+    {
+      "year": 1852,
+      "metroy": 9,
+      "peligro": -0.755
+    },
+    {
+      "year": 1852,
+      "metroy": 10,
+      "peligro": -0.429
+    },
+    {
+      "year": 1852,
+      "metroy": 11,
+      "peligro": -1.565
+    },
+    {
+      "year": 1852,
+      "metroy": 12,
+      "peligro": 0.102
+    },
+    {
+      "year": 1853,
+      "metroy": 1,
+      "peligro": -0.856
+    },
+    {
+      "year": 1853,
+      "metroy": 2,
+      "peligro": -1.058
+    },
+    {
+      "year": 1853,
+      "metroy": 3,
+      "peligro": -1.312
+    },
+    {
+      "year": 1853,
+      "metroy": 4,
+      "peligro": -0.913
+    },
+    {
+      "year": 1853,
+      "metroy": 5,
+      "peligro": -0.523
+    },
+    {
+      "year": 1853,
+      "metroy": 6,
+      "peligro": -0.277
+    },
+    {
+      "year": 1853,
+      "metroy": 7,
+      "peligro": 0.084
+    },
+    {
+      "year": 1853,
+      "metroy": 8,
+      "peligro": -0.102
+    },
+    {
+      "year": 1853,
+      "metroy": 9,
+      "peligro": -0.513
+    },
+    {
+      "year": 1853,
+      "metroy": 10,
+      "peligro": -0.810
+    },
+    {
+      "year": 1853,
+      "metroy": 11,
+      "peligro": -1.380
+    },
+    {
+      "year": 1853,
+      "metroy": 12,
+      "peligro": -0.820
+    },
+    {
+      "year": 1854,
+      "metroy": 1,
+      "peligro": -1.374
+    },
+    {
+      "year": 1854,
+      "metroy": 2,
+      "peligro": -1.353
+    },
+    {
+      "year": 1854,
+      "metroy": 3,
+      "peligro": -0.713
+    },
+    {
+      "year": 1854,
+      "metroy": 4,
+      "peligro": -0.813
+    },
+    {
+      "year": 1854,
+      "metroy": 5,
+      "peligro": -0.404
+    },
+    {
+      "year": 1854,
+      "metroy": 6,
+      "peligro": -0.862
+    },
+    {
+      "year": 1854,
+      "metroy": 7,
+      "peligro": 0.088
+    },
+    {
+      "year": 1854,
+      "metroy": 8,
+      "peligro": -0.171
+    },
+    {
+      "year": 1854,
+      "metroy": 9,
+      "peligro": -0.711
+    },
+    {
+      "year": 1854,
+      "metroy": 10,
+      "peligro": 0.422
+    },
+    {
+      "year": 1854,
+      "metroy": 11,
+      "peligro": -0.420
+    },
+    {
+      "year": 1854,
+      "metroy": 12,
+      "peligro": -0.223
+    },
+    {
+      "year": 1855,
+      "metroy": 1,
+      "peligro": -0.153
+    },
+    {
+      "year": 1855,
+      "metroy": 2,
+      "peligro": -0.279
+    },
+    {
+      "year": 1855,
+      "metroy": 3,
+      "peligro": -0.780
+    },
+    {
+      "year": 1855,
+      "metroy": 4,
+      "peligro": 0.151
+    },
+    {
+      "year": 1855,
+      "metroy": 5,
+      "peligro": -0.272
+    },
+    {
+      "year": 1855,
+      "metroy": 6,
+      "peligro": -0.660
+    },
+    {
+      "year": 1855,
+      "metroy": 7,
+      "peligro": -0.613
+    },
+    {
+      "year": 1855,
+      "metroy": 8,
+      "peligro": -0.483
+    },
+    {
+      "year": 1855,
+      "metroy": 9,
+      "peligro": -1.066
+    },
+    {
+      "year": 1855,
+      "metroy": 10,
+      "peligro": -0.878
+    },
+    {
+      "year": 1855,
+      "metroy": 11,
+      "peligro": -0.968
+    },
+    {
+      "year": 1855,
+      "metroy": 12,
+      "peligro": -1.421
+    },
+    {
+      "year": 1856,
+      "metroy": 1,
+      "peligro": 0.132
+    },
+    {
+      "year": 1856,
+      "metroy": 2,
+      "peligro": -1.019
+    },
+    {
+      "year": 1856,
+      "metroy": 3,
+      "peligro": -1.010
+    },
+    {
+      "year": 1856,
+      "metroy": 4,
+      "peligro": -0.670
+    },
+    {
+      "year": 1856,
+      "metroy": 5,
+      "peligro": -0.911
+    },
+    {
+      "year": 1856,
+      "metroy": 6,
+      "peligro": -0.106
+    },
+    {
+      "year": 1856,
+      "metroy": 7,
+      "peligro": -0.434
+    },
+    {
+      "year": 1856,
+      "metroy": 8,
+      "peligro": -0.973
+    },
+    {
+      "year": 1856,
+      "metroy": 9,
+      "peligro": -1.240
+    },
+    {
+      "year": 1856,
+      "metroy": 10,
+      "peligro": -1.210
+    },
+    {
+      "year": 1856,
+      "metroy": 11,
+      "peligro": -0.751
+    },
+    {
+      "year": 1856,
+      "metroy": 12,
+      "peligro": -0.234
+    },
+    {
+      "year": 1857,
+      "metroy": 1,
+      "peligro": -0.760
+    },
+    {
+      "year": 1857,
+      "metroy": 2,
+      "peligro": -0.735
+    },
+    {
+      "year": 1857,
+      "metroy": 3,
+      "peligro": -1.074
+    },
+    {
+      "year": 1857,
+      "metroy": 4,
+      "peligro": -1.599
+    },
+    {
+      "year": 1857,
+      "metroy": 5,
+      "peligro": -1.548
+    },
+    {
+      "year": 1857,
+      "metroy": 6,
+      "peligro": -0.964
+    },
+    {
+      "year": 1857,
+      "metroy": 7,
+      "peligro": -0.526
+    },
+    {
+      "year": 1857,
+      "metroy": 8,
+      "peligro": -0.769
+    },
+    {
+      "year": 1857,
+      "metroy": 9,
+      "peligro": -1.119
+    },
+    {
+      "year": 1857,
+      "metroy": 10,
+      "peligro": -1.135
+    },
+    {
+      "year": 1857,
+      "metroy": 11,
+      "peligro": -0.865
+    },
+    {
+      "year": 1857,
+      "metroy": 12,
+      "peligro": -0.109
+    },
+    {
+      "year": 1858,
+      "metroy": 1,
+      "peligro": 0.096
+    },
+    {
+      "year": 1858,
+      "metroy": 2,
+      "peligro": -0.959
+    },
+    {
+      "year": 1858,
+      "metroy": 3,
+      "peligro": -0.545
+    },
+    {
+      "year": 1858,
+      "metroy": 4,
+      "peligro": -0.143
+    },
+    {
+      "year": 1858,
+      "metroy": 5,
+      "peligro": -0.561
+    },
+    {
+      "year": 1858,
+      "metroy": 6,
+      "peligro": -0.591
+    },
+    {
+      "year": 1858,
+      "metroy": 7,
+      "peligro": -0.757
+    },
+    {
+      "year": 1858,
+      "metroy": 8,
+      "peligro": -0.740
+    },
+    {
+      "year": 1858,
+      "metroy": 9,
+      "peligro": -1.056
+    },
+    {
+      "year": 1858,
+      "metroy": 10,
+      "peligro": -0.473
+    },
+    {
+      "year": 1858,
+      "metroy": 11,
+      "peligro": -0.109
+    },
+    {
+      "year": 1858,
+      "metroy": 12,
+      "peligro": -1.190
+    },
+    {
+      "year": 1859,
+      "metroy": 1,
+      "peligro": -0.589
+    },
+    {
+      "year": 1859,
+      "metroy": 2,
+      "peligro": -0.610
+    },
+    {
+      "year": 1859,
+      "metroy": 3,
+      "peligro": -0.330
+    },
+    {
+      "year": 1859,
+      "metroy": 4,
+      "peligro": 0.135
+    },
+    {
+      "year": 1859,
+      "metroy": 5,
+      "peligro": 0.041
+    },
+    {
+      "year": 1859,
+      "metroy": 6,
+      "peligro": -0.412
+    },
+    {
+      "year": 1859,
+      "metroy": 7,
+      "peligro": -0.617
+    },
+    {
+      "year": 1859,
+      "metroy": 8,
+      "peligro": -0.743
+    },
+    {
+      "year": 1859,
+      "metroy": 9,
+      "peligro": -1.081
+    },
+    {
+      "year": 1859,
+      "metroy": 10,
+      "peligro": -0.451
+    },
+    {
+      "year": 1859,
+      "metroy": 11,
+      "peligro": -0.181
+    },
+    {
+      "year": 1859,
+      "metroy": 12,
+      "peligro": -0.295
+    },
+    {
+      "year": 1860,
+      "metroy": 1,
+      "peligro": -0.588
+    },
+    {
+      "year": 1860,
+      "metroy": 2,
+      "peligro": -0.634
+    },
+    {
+      "year": 1860,
+      "metroy": 3,
+      "peligro": -1.924
+    },
+    {
+      "year": 1860,
+      "metroy": 4,
+      "peligro": -0.660
+    },
+    {
+      "year": 1860,
+      "metroy": 5,
+      "peligro": -0.334
+    },
+    {
+      "year": 1860,
+      "metroy": 6,
+      "peligro": -0.289
+    },
+    {
+      "year": 1860,
+      "metroy": 7,
+      "peligro": -0.230
+    },
+    {
+      "year": 1860,
+      "metroy": 8,
+      "peligro": -0.156
+    },
+    {
+      "year": 1860,
+      "metroy": 9,
+      "peligro": -0.237
+    },
+    {
+      "year": 1860,
+      "metroy": 10,
+      "peligro": -0.569
+    },
+    {
+      "year": 1860,
+      "metroy": 11,
+      "peligro": -1.100
+    },
+    {
+      "year": 1860,
+      "metroy": 12,
+      "peligro": -2.054
+    },
+    {
+      "year": 1861,
+      "metroy": 1,
+      "peligro": -2.232
+    },
+    {
+      "year": 1861,
+      "metroy": 2,
+      "peligro": -1.127
+    },
+    {
+      "year": 1861,
+      "metroy": 3,
+      "peligro": -0.878
+    },
+    {
+      "year": 1861,
+      "metroy": 4,
+      "peligro": -0.916
+    },
+    {
+      "year": 1861,
+      "metroy": 5,
+      "peligro": -0.904
+    },
+    {
+      "year": 1861,
+      "metroy": 6,
+      "peligro": -0.544
+    },
+    {
+      "year": 1861,
+      "metroy": 7,
+      "peligro": -0.478
+    },
+    {
+      "year": 1861,
+      "metroy": 8,
+      "peligro": -0.294
+    },
+    {
+      "year": 1861,
+      "metroy": 9,
+      "peligro": -0.739
+    },
+    {
+      "year": 1861,
+      "metroy": 10,
+      "peligro": -0.808
+    },
+    {
+      "year": 1861,
+      "metroy": 11,
+      "peligro": -0.411
+    },
+    {
+      "year": 1861,
+      "metroy": 12,
+      "peligro": -0.825
+    },
+    {
+      "year": 1862,
+      "metroy": 1,
+      "peligro": -1.959
+    },
+    {
+      "year": 1862,
+      "metroy": 2,
+      "peligro": -1.457
+    },
+    {
+      "year": 1862,
+      "metroy": 3,
+      "peligro": -0.968
+    },
+    {
+      "year": 1862,
+      "metroy": 4,
+      "peligro": -1.163
+    },
+    {
+      "year": 1862,
+      "metroy": 5,
+      "peligro": -0.670
+    },
+    {
+      "year": 1862,
+      "metroy": 6,
+      "peligro": -0.696
+    },
+    {
+      "year": 1862,
+      "metroy": 7,
+      "peligro": -0.489
+    },
+    {
+      "year": 1862,
+      "metroy": 8,
+      "peligro": -0.738
+    },
+    {
+      "year": 1862,
+      "metroy": 9,
+      "peligro": -1.114
+    },
+    {
+      "year": 1862,
+      "metroy": 10,
+      "peligro": -0.981
+    },
+    {
+      "year": 1862,
+      "metroy": 11,
+      "peligro": -1.343
+    },
+    {
+      "year": 1862,
+      "metroy": 12,
+      "peligro": -2.010
+    },
+    {
+      "year": 1863,
+      "metroy": 1,
+      "peligro": 0.409
+    },
+    {
+      "year": 1863,
+      "metroy": 2,
+      "peligro": 0.038
+    },
+    {
+      "year": 1863,
+      "metroy": 3,
+      "peligro": -0.686
+    },
+    {
+      "year": 1863,
+      "metroy": 4,
+      "peligro": -0.459
+    },
+    {
+      "year": 1863,
+      "metroy": 5,
+      "peligro": -0.407
+    },
+    {
+      "year": 1863,
+      "metroy": 6,
+      "peligro": -0.780
+    },
+    {
+      "year": 1863,
+      "metroy": 7,
+      "peligro": -0.678
+    },
+    {
+      "year": 1863,
+      "metroy": 8,
+      "peligro": -0.672
+    },
+    {
+      "year": 1863,
+      "metroy": 9,
+      "peligro": -0.932
+    },
+    {
+      "year": 1863,
+      "metroy": 10,
+      "peligro": -1.055
+    },
+    {
+      "year": 1863,
+      "metroy": 11,
+      "peligro": -0.741
+    },
+    {
+      "year": 1863,
+      "metroy": 12,
+      "peligro": -0.992
+    },
+    {
+      "year": 1864,
+      "metroy": 1,
+      "peligro": -1.112
+    },
+    {
+      "year": 1864,
+      "metroy": 2,
+      "peligro": -0.776
+    },
+    {
+      "year": 1864,
+      "metroy": 3,
+      "peligro": -0.757
+    },
+    {
+      "year": 1864,
+      "metroy": 4,
+      "peligro": -0.883
+    },
+    {
+      "year": 1864,
+      "metroy": 5,
+      "peligro": -0.439
+    },
+    {
+      "year": 1864,
+      "metroy": 6,
+      "peligro": -0.190
+    },
+    {
+      "year": 1864,
+      "metroy": 7,
+      "peligro": -0.268
+    },
+    {
+      "year": 1864,
+      "metroy": 8,
+      "peligro": -0.502
+    },
+    {
+      "year": 1864,
+      "metroy": 9,
+      "peligro": -0.758
+    },
+    {
+      "year": 1864,
+      "metroy": 10,
+      "peligro": -0.481
+    },
+    {
+      "year": 1864,
+      "metroy": 11,
+      "peligro": -0.888
+    },
+    {
+      "year": 1864,
+      "metroy": 12,
+      "peligro": -1.407
+    },
+    {
+      "year": 1865,
+      "metroy": 1,
+      "peligro": 0.326
+    },
+    {
+      "year": 1865,
+      "metroy": 2,
+      "peligro": -1.117
+    },
+    {
+      "year": 1865,
+      "metroy": 3,
+      "peligro": -1.348
+    },
+    {
+      "year": 1865,
+      "metroy": 4,
+      "peligro": -1.083
+    },
+    {
+      "year": 1865,
+      "metroy": 5,
+      "peligro": -0.478
+    },
+    {
+      "year": 1865,
+      "metroy": 6,
+      "peligro": -0.328
+    },
+    {
+      "year": 1865,
+      "metroy": 7,
+      "peligro": -0.213
+    },
+    {
+      "year": 1865,
+      "metroy": 8,
+      "peligro": -0.353
+    },
+    {
+      "year": 1865,
+      "metroy": 9,
+      "peligro": -0.345
+    },
+    {
+      "year": 1865,
+      "metroy": 10,
+      "peligro": -0.152
+    },
+    {
+      "year": 1865,
+      "metroy": 11,
+      "peligro": 0.007
+    },
+    {
+      "year": 1865,
+      "metroy": 12,
+      "peligro": -1.035
+    },
+    {
+      "year": 1866,
+      "metroy": 1,
+      "peligro": 0.258
+    },
+    {
+      "year": 1866,
+      "metroy": 2,
+      "peligro": -1.022
+    },
+    {
+      "year": 1866,
+      "metroy": 3,
+      "peligro": -0.982
+    },
+    {
+      "year": 1866,
+      "metroy": 4,
+      "peligro": -0.509
+    },
+    {
+      "year": 1866,
+      "metroy": 5,
+      "peligro": -0.525
+    },
+    {
+      "year": 1866,
+      "metroy": 6,
+      "peligro": -0.754
+    },
+    {
+      "year": 1866,
+      "metroy": 7,
+      "peligro": 0.131
+    },
+    {
+      "year": 1866,
+      "metroy": 8,
+      "peligro": -0.437
+    },
+    {
+      "year": 1866,
+      "metroy": 9,
+      "peligro": -0.629
+    },
+    {
+      "year": 1866,
+      "metroy": 10,
+      "peligro": -0.803
+    },
+    {
+      "year": 1866,
+      "metroy": 11,
+      "peligro": -0.248
+    },
+    {
+      "year": 1866,
+      "metroy": 12,
+      "peligro": 0.472
+    },
+    {
+      "year": 1867,
+      "metroy": 1,
+      "peligro": -0.196
+    },
+    {
+      "year": 1867,
+      "metroy": 2,
+      "peligro": -0.635
+    },
+    {
+      "year": 1867,
+      "metroy": 3,
+      "peligro": -0.927
+    },
+    {
+      "year": 1867,
+      "metroy": 4,
+      "peligro": -0.147
+    },
+    {
+      "year": 1867,
+      "metroy": 5,
+      "peligro": -0.922
+    },
+    {
+      "year": 1867,
+      "metroy": 6,
+      "peligro": -0.285
+    },
+    {
+      "year": 1867,
+      "metroy": 7,
+      "peligro": -0.239
+    },
+    {
+      "year": 1867,
+      "metroy": 8,
+      "peligro": -0.449
+    },
+    {
+      "year": 1867,
+      "metroy": 9,
+      "peligro": -0.388
+    },
+    {
+      "year": 1867,
+      "metroy": 10,
+      "peligro": -0.095
+    },
+    {
+      "year": 1867,
+      "metroy": 11,
+      "peligro": 0.812
+    },
+    {
+      "year": 1867,
+      "metroy": 12,
+      "peligro": 0.220
+    },
+    {
+      "year": 1868,
+      "metroy": 1,
+      "peligro": -0.849
+    },
+    {
+      "year": 1868,
+      "metroy": 2,
+      "peligro": -1.507
+    },
+    {
+      "year": 1868,
+      "metroy": 3,
+      "peligro": -0.943
+    },
+    {
+      "year": 1868,
+      "metroy": 4,
+      "peligro": -0.250
+    },
+    {
+      "year": 1868,
+      "metroy": 5,
+      "peligro": -0.135
+    },
+    {
+      "year": 1868,
+      "metroy": 6,
+      "peligro": -0.464
+    },
+    {
+      "year": 1868,
+      "metroy": 7,
+      "peligro": 0.027
+    },
+    {
+      "year": 1868,
+      "metroy": 8,
+      "peligro": -0.251
+    },
+    {
+      "year": 1868,
+      "metroy": 9,
+      "peligro": -0.540
+    },
+    {
+      "year": 1868,
+      "metroy": 10,
+      "peligro": 0.109
+    },
+    {
+      "year": 1868,
+      "metroy": 11,
+      "peligro": -1.012
+    },
+    {
+      "year": 1868,
+      "metroy": 12,
+      "peligro": -0.428
+    },
+    {
+      "year": 1869,
+      "metroy": 1,
+      "peligro": -0.542
+    },
+    {
+      "year": 1869,
+      "metroy": 2,
+      "peligro": 0.453
+    },
+    {
+      "year": 1869,
+      "metroy": 3,
+      "peligro": -1.269
+    },
+    {
+      "year": 1869,
+      "metroy": 4,
+      "peligro": -0.465
+    },
+    {
+      "year": 1869,
+      "metroy": 5,
+      "peligro": -0.179
+    },
+    {
+      "year": 1869,
+      "metroy": 6,
+      "peligro": -0.063
+    },
+    {
+      "year": 1869,
+      "metroy": 7,
+      "peligro": -0.141
+    },
+    {
+      "year": 1869,
+      "metroy": 8,
+      "peligro": 0.027
+    },
+    {
+      "year": 1869,
+      "metroy": 9,
+      "peligro": 0.092
+    },
+    {
+      "year": 1869,
+      "metroy": 10,
+      "peligro": -0.288
+    },
+    {
+      "year": 1869,
+      "metroy": 11,
+      "peligro": -0.392
+    },
+    {
+      "year": 1869,
+      "metroy": 12,
+      "peligro": -1.010
+    },
+    {
+      "year": 1870,
+      "metroy": 1,
+      "peligro": -0.617
+    },
+    {
+      "year": 1870,
+      "metroy": 2,
+      "peligro": -1.169
+    },
+    {
+      "year": 1870,
+      "metroy": 3,
+      "peligro": -0.764
+    },
+    {
+      "year": 1870,
+      "metroy": 4,
+      "peligro": -0.544
+    },
+    {
+      "year": 1870,
+      "metroy": 5,
+      "peligro": -0.146
+    },
+    {
+      "year": 1870,
+      "metroy": 6,
+      "peligro": 0.074
+    },
+    {
+      "year": 1870,
+      "metroy": 7,
+      "peligro": 0.120
+    },
+    {
+      "year": 1870,
+      "metroy": 8,
+      "peligro": -0.484
+    },
+    {
+      "year": 1870,
+      "metroy": 9,
+      "peligro": -0.187
+    },
+    {
+      "year": 1870,
+      "metroy": 10,
+      "peligro": -0.493
+    },
+    {
+      "year": 1870,
+      "metroy": 11,
+      "peligro": -0.542
+    },
+    {
+      "year": 1870,
+      "metroy": 12,
+      "peligro": -1.463
+    },
+    {
+      "year": 1871,
+      "metroy": 1,
+      "peligro": -1.244
+    },
+    {
+      "year": 1871,
+      "metroy": 2,
+      "peligro": -1.573
+    },
+    {
+      "year": 1871,
+      "metroy": 3,
+      "peligro": -0.661
+    },
+    {
+      "year": 1871,
+      "metroy": 4,
+      "peligro": -0.078
+    },
+    {
+      "year": 1871,
+      "metroy": 5,
+      "peligro": -0.624
+    },
+    {
+      "year": 1871,
+      "metroy": 6,
+      "peligro": -0.508
+    },
+    {
+      "year": 1871,
+      "metroy": 7,
+      "peligro": -0.176
+    },
+    {
+      "year": 1871,
+      "metroy": 8,
+      "peligro": -0.031
+    },
+    {
+      "year": 1871,
+      "metroy": 9,
+      "peligro": -0.451
+    },
+    {
+      "year": 1871,
+      "metroy": 10,
+      "peligro": -0.241
+    },
+    {
+      "year": 1871,
+      "metroy": 11,
+      "peligro": -1.095
+    },
+    {
+      "year": 1871,
+      "metroy": 12,
+      "peligro": -0.563
+    },
+    {
+      "year": 1872,
+      "metroy": 1,
+      "peligro": -1.039
+    },
+    {
+      "year": 1872,
+      "metroy": 2,
+      "peligro": -0.951
+    },
+    {
+      "year": 1872,
+      "metroy": 3,
+      "peligro": -0.515
+    },
+    {
+      "year": 1872,
+      "metroy": 4,
+      "peligro": -0.592
+    },
+    {
+      "year": 1872,
+      "metroy": 5,
+      "peligro": -0.234
+    },
+    {
+      "year": 1872,
+      "metroy": 6,
+      "peligro": -0.543
+    },
+    {
+      "year": 1872,
+      "metroy": 7,
+      "peligro": -0.202
+    },
+    {
+      "year": 1872,
+      "metroy": 8,
+      "peligro": -0.161
+    },
+    {
+      "year": 1872,
+      "metroy": 9,
+      "peligro": -0.220
+    },
+    {
+      "year": 1872,
+      "metroy": 10,
+      "peligro": -0.101
+    },
+    {
+      "year": 1872,
+      "metroy": 11,
+      "peligro": -0.831
+    },
+    {
+      "year": 1872,
+      "metroy": 12,
+      "peligro": -1.091
+    },
+    {
+      "year": 1873,
+      "metroy": 1,
+      "peligro": -0.688
+    },
+    {
+      "year": 1873,
+      "metroy": 2,
+      "peligro": -0.147
+    },
+    {
+      "year": 1873,
+      "metroy": 3,
+      "peligro": -0.755
+    },
+    {
+      "year": 1873,
+      "metroy": 4,
+      "peligro": -0.926
+    },
+    {
+      "year": 1873,
+      "metroy": 5,
+      "peligro": -0.402
+    },
+    {
+      "year": 1873,
+      "metroy": 6,
+      "peligro": -0.163
+    },
+    {
+      "year": 1873,
+      "metroy": 7,
+      "peligro": -0.179
+    },
+    {
+      "year": 1873,
+      "metroy": 8,
+      "peligro": -0.207
+    },
+    {
+      "year": 1873,
+      "metroy": 9,
+      "peligro": -0.684
+    },
+    {
+      "year": 1873,
+      "metroy": 10,
+      "peligro": -0.071
+    },
+    {
+      "year": 1873,
+      "metroy": 11,
+      "peligro": -0.381
+    },
+    {
+      "year": 1873,
+      "metroy": 12,
+      "peligro": 0.102
+    },
+    {
+      "year": 1874,
+      "metroy": 1,
+      "peligro": -0.041
+    },
+    {
+      "year": 1874,
+      "metroy": 2,
+      "peligro": -0.254
+    },
+    {
+      "year": 1874,
+      "metroy": 3,
+      "peligro": -1.232
+    },
+    {
+      "year": 1874,
+      "metroy": 4,
+      "peligro": -0.204
+    },
+    {
+      "year": 1874,
+      "metroy": 5,
+      "peligro": -0.116
+    },
+    {
+      "year": 1874,
+      "metroy": 6,
+      "peligro": -0.266
+    },
+    {
+      "year": 1874,
+      "metroy": 7,
+      "peligro": -0.335
+    },
+    {
+      "year": 1874,
+      "metroy": 8,
+      "peligro": -0.117
+    },
+    {
+      "year": 1874,
+      "metroy": 9,
+      "peligro": -0.001
+    },
+    {
+      "year": 1874,
+      "metroy": 10,
+      "peligro": -0.189
+    },
+    {
+      "year": 1874,
+      "metroy": 11,
+      "peligro": -0.396
+    },
+    {
+      "year": 1874,
+      "metroy": 12,
+      "peligro": -0.273
+    },
+    {
+      "year": 1875,
+      "metroy": 1,
+      "peligro": -1.147
+    },
+    {
+      "year": 1875,
+      "metroy": 2,
+      "peligro": -1.035
+    },
+    {
+      "year": 1875,
+      "metroy": 3,
+      "peligro": -1.132
+    },
+    {
+      "year": 1875,
+      "metroy": 4,
+      "peligro": -0.761
+    },
+    {
+      "year": 1875,
+      "metroy": 5,
+      "peligro": -0.630
+    },
+    {
+      "year": 1875,
+      "metroy": 6,
+      "peligro": -0.391
+    },
+    {
+      "year": 1875,
+      "metroy": 7,
+      "peligro": -0.285
+    },
+    {
+      "year": 1875,
+      "metroy": 8,
+      "peligro": -0.523
+    },
+    {
+      "year": 1875,
+      "metroy": 9,
+      "peligro": -0.801
+    },
+    {
+      "year": 1875,
+      "metroy": 10,
+      "peligro": -0.692
+    },
+    {
+      "year": 1875,
+      "metroy": 11,
+      "peligro": -1.548
+    },
+    {
+      "year": 1875,
+      "metroy": 12,
+      "peligro": -0.992
+    },
+    {
+      "year": 1876,
+      "metroy": 1,
+      "peligro": -0.816
+    },
+    {
+      "year": 1876,
+      "metroy": 2,
+      "peligro": -0.648
+    },
+    {
+      "year": 1876,
+      "metroy": 3,
+      "peligro": -0.631
+    },
+    {
+      "year": 1876,
+      "metroy": 4,
+      "peligro": -0.175
+    },
+    {
+      "year": 1876,
+      "metroy": 5,
+      "peligro": -0.687
+    },
+    {
+      "year": 1876,
+      "metroy": 6,
+      "peligro": -0.414
+    },
+    {
+      "year": 1876,
+      "metroy": 7,
+      "peligro": -0.105
+    },
+    {
+      "year": 1876,
+      "metroy": 8,
+      "peligro": -0.425
+    },
+    {
+      "year": 1876,
+      "metroy": 9,
+      "peligro": -0.437
+    },
+    {
+      "year": 1876,
+      "metroy": 10,
+      "peligro": -0.327
+    },
+    {
+      "year": 1876,
+      "metroy": 11,
+      "peligro": -1.009
+    },
+    {
+      "year": 1876,
+      "metroy": 12,
+      "peligro": -1.464
+    },
+    {
+      "year": 1877,
+      "metroy": 1,
+      "peligro": -0.317
+    },
+    {
+      "year": 1877,
+      "metroy": 2,
+      "peligro": -0.318
+    },
+    {
+      "year": 1877,
+      "metroy": 3,
+      "peligro": -0.064
+    },
+    {
+      "year": 1877,
+      "metroy": 4,
+      "peligro": -0.346
+    },
+    {
+      "year": 1877,
+      "metroy": 5,
+      "peligro": -0.346
+    },
+    {
+      "year": 1877,
+      "metroy": 6,
+      "peligro": -0.175
+    },
+    {
+      "year": 1877,
+      "metroy": 7,
+      "peligro": 0.225
+    },
+    {
+      "year": 1877,
+      "metroy": 8,
+      "peligro": 0.234
+    },
+    {
+      "year": 1877,
+      "metroy": 9,
+      "peligro": -0.032
+    },
+    {
+      "year": 1877,
+      "metroy": 10,
+      "peligro": -0.024
+    },
+    {
+      "year": 1877,
+      "metroy": 11,
+      "peligro": 0.193
+    },
+    {
+      "year": 1877,
+      "metroy": 12,
+      "peligro": -0.660
+    },
+    {
+      "year": 1878,
+      "metroy": 1,
+      "peligro": -0.639
+    },
+    {
+      "year": 1878,
+      "metroy": 2,
+      "peligro": 0.454
+    },
+    {
+      "year": 1878,
+      "metroy": 3,
+      "peligro": 1.240
+    },
+    {
+      "year": 1878,
+      "metroy": 4,
+      "peligro": 0.534
+    },
+    {
+      "year": 1878,
+      "metroy": 5,
+      "peligro": -0.358
+    },
+    {
+      "year": 1878,
+      "metroy": 6,
+      "peligro": 0.262
+    },
+    {
+      "year": 1878,
+      "metroy": 7,
+      "peligro": 0.420
+    },
+    {
+      "year": 1878,
+      "metroy": 8,
+      "peligro": 0.209
+    },
+    {
+      "year": 1878,
+      "metroy": 9,
+      "peligro": 0.073
+    },
+    {
+      "year": 1878,
+      "metroy": 10,
+      "peligro": -0.035
+    },
+    {
+      "year": 1878,
+      "metroy": 11,
+      "peligro": 0.268
+    },
+    {
+      "year": 1878,
+      "metroy": 12,
+      "peligro": -0.324
+    },
+    {
+      "year": 1879,
+      "metroy": 1,
+      "peligro": -0.331
+    },
+    {
+      "year": 1879,
+      "metroy": 2,
+      "peligro": -0.521
+    },
+    {
+      "year": 1879,
+      "metroy": 3,
+      "peligro": -0.454
+    },
+    {
+      "year": 1879,
+      "metroy": 4,
+      "peligro": -0.628
+    },
+    {
+      "year": 1879,
+      "metroy": 5,
+      "peligro": -0.606
+    },
+    {
+      "year": 1879,
+      "metroy": 6,
+      "peligro": -0.336
+    },
+    {
+      "year": 1879,
+      "metroy": 7,
+      "peligro": -0.160
+    },
+    {
+      "year": 1879,
+      "metroy": 8,
+      "peligro": -0.675
+    },
+    {
+      "year": 1879,
+      "metroy": 9,
+      "peligro": -0.665
+    },
+    {
+      "year": 1879,
+      "metroy": 10,
+      "peligro": -0.119
+    },
+    {
+      "year": 1879,
+      "metroy": 11,
+      "peligro": -0.613
+    },
+    {
+      "year": 1879,
+      "metroy": 12,
+      "peligro": -1.092
+    },
+    {
+      "year": 1880,
+      "metroy": 1,
+      "peligro": -0.875
+    },
+    {
+      "year": 1880,
+      "metroy": 2,
+      "peligro": -1.195
+    },
+    {
+      "year": 1880,
+      "metroy": 3,
+      "peligro": -0.749
+    },
+    {
+      "year": 1880,
+      "metroy": 4,
+      "peligro": -0.887
+    },
+    {
+      "year": 1880,
+      "metroy": 5,
+      "peligro": -0.293
+    },
+    {
+      "year": 1880,
+      "metroy": 6,
+      "peligro": -0.316
+    },
+    {
+      "year": 1880,
+      "metroy": 7,
+      "peligro": -0.276
+    },
+    {
+      "year": 1880,
+      "metroy": 8,
+      "peligro": -0.134
+    },
+    {
+      "year": 1880,
+      "metroy": 9,
+      "peligro": -0.742
+    },
+    {
+      "year": 1880,
+      "metroy": 10,
+      "peligro": -0.599
+    },
+    {
+      "year": 1880,
+      "metroy": 11,
+      "peligro": -0.259
+    },
+    {
+      "year": 1880,
+      "metroy": 12,
+      "peligro": -0.507
+    },
+    {
+      "year": 1881,
+      "metroy": 1,
+      "peligro": -0.151
+    },
+    {
+      "year": 1881,
+      "metroy": 2,
+      "peligro": -0.612
+    },
+    {
+      "year": 1881,
+      "metroy": 3,
+      "peligro": -0.343
+    },
+    {
+      "year": 1881,
+      "metroy": 4,
+      "peligro": -0.020
+    },
+    {
+      "year": 1881,
+      "metroy": 5,
+      "peligro": -0.190
+    },
+    {
+      "year": 1881,
+      "metroy": 6,
+      "peligro": -0.828
+    },
+    {
+      "year": 1881,
+      "metroy": 7,
+      "peligro": -0.170
+    },
+    {
+      "year": 1881,
+      "metroy": 8,
+      "peligro": -0.203
+    },
+    {
+      "year": 1881,
+      "metroy": 9,
+      "peligro": -0.448
+    },
+    {
+      "year": 1881,
+      "metroy": 10,
+      "peligro": -0.428
+    },
+    {
+      "year": 1881,
+      "metroy": 11,
+      "peligro": -0.855
+    },
+    {
+      "year": 1881,
+      "metroy": 12,
+      "peligro": -0.484
+    },
+    {
+      "year": 1882,
+      "metroy": 1,
+      "peligro": 0.375
+    },
+    {
+      "year": 1882,
+      "metroy": 2,
+      "peligro": -0.011
+    },
+    {
+      "year": 1882,
+      "metroy": 3,
+      "peligro": -0.316
+    },
+    {
+      "year": 1882,
+      "metroy": 4,
+      "peligro": -0.659
+    },
+    {
+      "year": 1882,
+      "metroy": 5,
+      "peligro": -0.482
+    },
+    {
+      "year": 1882,
+      "metroy": 6,
+      "peligro": -0.737
+    },
+    {
+      "year": 1882,
+      "metroy": 7,
+      "peligro": -0.645
+    },
+    {
+      "year": 1882,
+      "metroy": 8,
+      "peligro": -0.215
+    },
+    {
+      "year": 1882,
+      "metroy": 9,
+      "peligro": -0.406
+    },
+    {
+      "year": 1882,
+      "metroy": 10,
+      "peligro": -0.849
+    },
+    {
+      "year": 1882,
+      "metroy": 11,
+      "peligro": -1.055
+    },
+    {
+      "year": 1882,
+      "metroy": 12,
+      "peligro": -1.450
+    },
+    {
+      "year": 1883,
+      "metroy": 1,
+      "peligro": -1.130
+    },
+    {
+      "year": 1883,
+      "metroy": 2,
+      "peligro": -1.314
+    },
+    {
+      "year": 1883,
+      "metroy": 3,
+      "peligro": -0.397
+    },
+    {
+      "year": 1883,
+      "metroy": 4,
+      "peligro": -0.649
+    },
+    {
+      "year": 1883,
+      "metroy": 5,
+      "peligro": -0.517
+    },
+    {
+      "year": 1883,
+      "metroy": 6,
+      "peligro": -0.233
+    },
+    {
+      "year": 1883,
+      "metroy": 7,
+      "peligro": -0.379
+    },
+    {
+      "year": 1883,
+      "metroy": 8,
+      "peligro": -0.652
+    },
+    {
+      "year": 1883,
+      "metroy": 9,
+      "peligro": -0.789
+    },
+    {
+      "year": 1883,
+      "metroy": 10,
+      "peligro": -0.354
+    },
+    {
+      "year": 1883,
+      "metroy": 11,
+      "peligro": -1.201
+    },
+    {
+      "year": 1883,
+      "metroy": 12,
+      "peligro": -0.355
+    },
+    {
+      "year": 1884,
+      "metroy": 1,
+      "peligro": -0.462
+    },
+    {
+      "year": 1884,
+      "metroy": 2,
+      "peligro": -0.745
+    },
+    {
+      "year": 1884,
+      "metroy": 3,
+      "peligro": -1.448
+    },
+    {
+      "year": 1884,
+      "metroy": 4,
+      "peligro": -1.142
+    },
+    {
+      "year": 1884,
+      "metroy": 5,
+      "peligro": -1.168
+    },
+    {
+      "year": 1884,
+      "metroy": 6,
+      "peligro": -0.986
+    },
+    {
+      "year": 1884,
+      "metroy": 7,
+      "peligro": -0.713
+    },
+    {
+      "year": 1884,
+      "metroy": 8,
+      "peligro": -0.624
+    },
+    {
+      "year": 1884,
+      "metroy": 9,
+      "peligro": -0.858
+    },
+    {
+      "year": 1884,
+      "metroy": 10,
+      "peligro": -0.693
+    },
+    {
+      "year": 1884,
+      "metroy": 11,
+      "peligro": -0.970
+    },
+    {
+      "year": 1884,
+      "metroy": 12,
+      "peligro": -0.605
+    },
+    {
+      "year": 1885,
+      "metroy": 1,
+      "peligro": -1.533
+    },
+    {
+      "year": 1885,
+      "metroy": 2,
+      "peligro": -0.912
+    },
+    {
+      "year": 1885,
+      "metroy": 3,
+      "peligro": -0.690
+    },
+    {
+      "year": 1885,
+      "metroy": 4,
+      "peligro": -1.004
+    },
+    {
+      "year": 1885,
+      "metroy": 5,
+      "peligro": -0.782
+    },
+    {
+      "year": 1885,
+      "metroy": 6,
+      "peligro": -0.806
+    },
+    {
+      "year": 1885,
+      "metroy": 7,
+      "peligro": -0.390
+    },
+    {
+      "year": 1885,
+      "metroy": 8,
+      "peligro": -0.555
+    },
+    {
+      "year": 1885,
+      "metroy": 9,
+      "peligro": -0.653
+    },
+    {
+      "year": 1885,
+      "metroy": 10,
+      "peligro": -0.524
+    },
+    {
+      "year": 1885,
+      "metroy": 11,
+      "peligro": -0.855
+    },
+    {
+      "year": 1885,
+      "metroy": 12,
+      "peligro": 0.045
+    },
+    {
+      "year": 1886,
+      "metroy": 1,
+      "peligro": -1.111
+    },
+    {
+      "year": 1886,
+      "metroy": 2,
+      "peligro": -1.371
+    },
+    {
+      "year": 1886,
+      "metroy": 3,
+      "peligro": -1.033
+    },
+    {
+      "year": 1886,
+      "metroy": 4,
+      "peligro": -0.413
+    },
+    {
+      "year": 1886,
+      "metroy": 5,
+      "peligro": -0.605
+    },
+    {
+      "year": 1886,
+      "metroy": 6,
+      "peligro": -0.744
+    },
+    {
+      "year": 1886,
+      "metroy": 7,
+      "peligro": -0.191
+    },
+    {
+      "year": 1886,
+      "metroy": 8,
+      "peligro": -0.583
+    },
+    {
+      "year": 1886,
+      "metroy": 9,
+      "peligro": -0.504
+    },
+    {
+      "year": 1886,
+      "metroy": 10,
+      "peligro": -0.673
+    },
+    {
+      "year": 1886,
+      "metroy": 11,
+      "peligro": -0.852
+    },
+    {
+      "year": 1886,
+      "metroy": 12,
+      "peligro": -0.123
+    },
+    {
+      "year": 1887,
+      "metroy": 1,
+      "peligro": -1.728
+    },
+    {
+      "year": 1887,
+      "metroy": 2,
+      "peligro": -1.099
+    },
+    {
+      "year": 1887,
+      "metroy": 3,
+      "peligro": -0.718
+    },
+    {
+      "year": 1887,
+      "metroy": 4,
+      "peligro": -0.526
+    },
+    {
+      "year": 1887,
+      "metroy": 5,
+      "peligro": -0.519
+    },
+    {
+      "year": 1887,
+      "metroy": 6,
+      "peligro": -0.677
+    },
+    {
+      "year": 1887,
+      "metroy": 7,
+      "peligro": -0.364
+    },
+    {
+      "year": 1887,
+      "metroy": 8,
+      "peligro": -0.775
+    },
+    {
+      "year": 1887,
+      "metroy": 9,
+      "peligro": -0.396
+    },
+    {
+      "year": 1887,
+      "metroy": 10,
+      "peligro": -0.526
+    },
+    {
+      "year": 1887,
+      "metroy": 11,
+      "peligro": -0.545
+    },
+    {
+      "year": 1887,
+      "metroy": 12,
+      "peligro": -0.726
+    },
+    {
+      "year": 1888,
+      "metroy": 1,
+      "peligro": -0.838
+    },
+    {
+      "year": 1888,
+      "metroy": 2,
+      "peligro": -1.111
+    },
+    {
+      "year": 1888,
+      "metroy": 3,
+      "peligro": -0.964
+    },
+    {
+      "year": 1888,
+      "metroy": 4,
+      "peligro": -0.464
+    },
+    {
+      "year": 1888,
+      "metroy": 5,
+      "peligro": -0.726
+    },
+    {
+      "year": 1888,
+      "metroy": 6,
+      "peligro": -0.651
+    },
+    {
+      "year": 1888,
+      "metroy": 7,
+      "peligro": -0.145
+    },
+    {
+      "year": 1888,
+      "metroy": 8,
+      "peligro": -0.365
+    },
+    {
+      "year": 1888,
+      "metroy": 9,
+      "peligro": -0.404
+    },
+    {
+      "year": 1888,
+      "metroy": 10,
+      "peligro": -0.066
+    },
+    {
+      "year": 1888,
+      "metroy": 11,
+      "peligro": -0.283
+    },
+    {
+      "year": 1888,
+      "metroy": 12,
+      "peligro": -0.361
+    },
+    {
+      "year": 1889,
+      "metroy": 1,
+      "peligro": -0.795
+    },
+    {
+      "year": 1889,
+      "metroy": 2,
+      "peligro": 0.275
+    },
+    {
+      "year": 1889,
+      "metroy": 3,
+      "peligro": 0.033
+    },
+    {
+      "year": 1889,
+      "metroy": 4,
+      "peligro": 0.275
+    },
+    {
+      "year": 1889,
+      "metroy": 5,
+      "peligro": -0.117
+    },
+    {
+      "year": 1889,
+      "metroy": 6,
+      "peligro": -0.221
+    },
+    {
+      "year": 1889,
+      "metroy": 7,
+      "peligro": -0.174
+    },
+    {
+      "year": 1889,
+      "metroy": 8,
+      "peligro": -0.391
+    },
+    {
+      "year": 1889,
+      "metroy": 9,
+      "peligro": -0.542
+    },
+    {
+      "year": 1889,
+      "metroy": 10,
+      "peligro": -0.403
+    },
+    {
+      "year": 1889,
+      "metroy": 11,
+      "peligro": -1.106
+    },
+    {
+      "year": 1889,
+      "metroy": 12,
+      "peligro": -0.503
+    },
+    {
+      "year": 1890,
+      "metroy": 1,
+      "peligro": -0.704
+    },
+    {
+      "year": 1890,
+      "metroy": 2,
+      "peligro": -0.697
+    },
+    {
+      "year": 1890,
+      "metroy": 3,
+      "peligro": -1.034
+    },
+    {
+      "year": 1890,
+      "metroy": 4,
+      "peligro": -0.565
+    },
+    {
+      "year": 1890,
+      "metroy": 5,
+      "peligro": -0.898
+    },
+    {
+      "year": 1890,
+      "metroy": 6,
+      "peligro": -0.644
+    },
+    {
+      "year": 1890,
+      "metroy": 7,
+      "peligro": -0.345
+    },
+    {
+      "year": 1890,
+      "metroy": 8,
+      "peligro": -0.612
+    },
+    {
+      "year": 1890,
+      "metroy": 9,
+      "peligro": -0.589
+    },
+    {
+      "year": 1890,
+      "metroy": 10,
+      "peligro": -0.087
+    },
+    {
+      "year": 1890,
+      "metroy": 11,
+      "peligro": -1.019
+    },
+    {
+      "year": 1890,
+      "metroy": 12,
+      "peligro": -0.646
+    },
+    {
+      "year": 1891,
+      "metroy": 1,
+      "peligro": -0.874
+    },
+    {
+      "year": 1891,
+      "metroy": 2,
+      "peligro": -1.283
+    },
+    {
+      "year": 1891,
+      "metroy": 3,
+      "peligro": -0.515
+    },
+    {
+      "year": 1891,
+      "metroy": 4,
+      "peligro": -0.703
+    },
+    {
+      "year": 1891,
+      "metroy": 5,
+      "peligro": -0.554
+    },
+    {
+      "year": 1891,
+      "metroy": 6,
+      "peligro": -0.646
+    },
+    {
+      "year": 1891,
+      "metroy": 7,
+      "peligro": -0.474
+    },
+    {
+      "year": 1891,
+      "metroy": 8,
+      "peligro": -0.424
+    },
+    {
+      "year": 1891,
+      "metroy": 9,
+      "peligro": -0.378
+    },
+    {
+      "year": 1891,
+      "metroy": 10,
+      "peligro": -0.531
+    },
+    {
+      "year": 1891,
+      "metroy": 11,
+      "peligro": -0.994
+    },
+    {
+      "year": 1891,
+      "metroy": 12,
+      "peligro": 0.015
+    },
+    {
+      "year": 1892,
+      "metroy": 1,
+      "peligro": -0.594
+    },
+    {
+      "year": 1892,
+      "metroy": 2,
+      "peligro": -0.352
+    },
+    {
+      "year": 1892,
+      "metroy": 3,
+      "peligro": -0.921
+    },
+    {
+      "year": 1892,
+      "metroy": 4,
+      "peligro": -0.746
+    },
+    {
+      "year": 1892,
+      "metroy": 5,
+      "peligro": -0.725
+    },
+    {
+      "year": 1892,
+      "metroy": 6,
+      "peligro": -0.264
+    },
+    {
+      "year": 1892,
+      "metroy": 7,
+      "peligro": -0.520
+    },
+    {
+      "year": 1892,
+      "metroy": 8,
+      "peligro": -0.477
+    },
+    {
+      "year": 1892,
+      "metroy": 9,
+      "peligro": -0.351
+    },
+    {
+      "year": 1892,
+      "metroy": 10,
+      "peligro": 0.021
+    },
+    {
+      "year": 1892,
+      "metroy": 11,
+      "peligro": -1.241
+    },
+    {
+      "year": 1892,
+      "metroy": 12,
+      "peligro": -0.682
+    },
+    {
+      "year": 1893,
+      "metroy": 1,
+      "peligro": -2.088
+    },
+    {
+      "year": 1893,
+      "metroy": 2,
+      "peligro": -1.553
+    },
+    {
+      "year": 1893,
+      "metroy": 3,
+      "peligro": -0.316
+    },
+    {
+      "year": 1893,
+      "metroy": 4,
+      "peligro": -0.312
+    },
+    {
+      "year": 1893,
+      "metroy": 5,
+      "peligro": -0.604
+    },
+    {
+      "year": 1893,
+      "metroy": 6,
+      "peligro": -0.468
+    },
+    {
+      "year": 1893,
+      "metroy": 7,
+      "peligro": -0.088
+    },
+    {
+      "year": 1893,
+      "metroy": 8,
+      "peligro": -0.443
+    },
+    {
+      "year": 1893,
+      "metroy": 9,
+      "peligro": -0.341
+    },
+    {
+      "year": 1893,
+      "metroy": 10,
+      "peligro": -0.095
+    },
+    {
+      "year": 1893,
+      "metroy": 11,
+      "peligro": -0.194
+    },
+    {
+      "year": 1893,
+      "metroy": 12,
+      "peligro": -0.429
+    },
+    {
+      "year": 1894,
+      "metroy": 1,
+      "peligro": -0.849
+    },
+    {
+      "year": 1894,
+      "metroy": 2,
+      "peligro": -0.235
+    },
+    {
+      "year": 1894,
+      "metroy": 3,
+      "peligro": -0.137
+    },
+    {
+      "year": 1894,
+      "metroy": 4,
+      "peligro": -0.652
+    },
+    {
+      "year": 1894,
+      "metroy": 5,
+      "peligro": -0.397
+    },
+    {
+      "year": 1894,
+      "metroy": 6,
+      "peligro": -0.682
+    },
+    {
+      "year": 1894,
+      "metroy": 7,
+      "peligro": -0.399
+    },
+    {
+      "year": 1894,
+      "metroy": 8,
+      "peligro": -0.413
+    },
+    {
+      "year": 1894,
+      "metroy": 9,
+      "peligro": -0.521
+    },
+    {
+      "year": 1894,
+      "metroy": 10,
+      "peligro": -0.127
+    },
+    {
+      "year": 1894,
+      "metroy": 11,
+      "peligro": -0.656
+    },
+    {
+      "year": 1894,
+      "metroy": 12,
+      "peligro": -0.470
+    },
+    {
+      "year": 1895,
+      "metroy": 1,
+      "peligro": -1.256
+    },
+    {
+      "year": 1895,
+      "metroy": 2,
+      "peligro": -1.167
+    },
+    {
+      "year": 1895,
+      "metroy": 3,
+      "peligro": -0.602
+    },
+    {
+      "year": 1895,
+      "metroy": 4,
+      "peligro": -0.067
+    },
+    {
+      "year": 1895,
+      "metroy": 5,
+      "peligro": -0.473
+    },
+    {
+      "year": 1895,
+      "metroy": 6,
+      "peligro": -0.462
+    },
+    {
+      "year": 1895,
+      "metroy": 7,
+      "peligro": -0.339
+    },
+    {
+      "year": 1895,
+      "metroy": 8,
+      "peligro": -0.376
+    },
+    {
+      "year": 1895,
+      "metroy": 9,
+      "peligro": -0.349
+    },
+    {
+      "year": 1895,
+      "metroy": 10,
+      "peligro": -0.140
+    },
+    {
+      "year": 1895,
+      "metroy": 11,
+      "peligro": -0.351
+    },
+    {
+      "year": 1895,
+      "metroy": 12,
+      "peligro": -0.128
+    },
+    {
+      "year": 1896,
+      "metroy": 1,
+      "peligro": -0.268
+    },
+    {
+      "year": 1896,
+      "metroy": 2,
+      "peligro": -0.472
+    },
+    {
+      "year": 1896,
+      "metroy": 3,
+      "peligro": -0.959
+    },
+    {
+      "year": 1896,
+      "metroy": 4,
+      "peligro": -0.933
+    },
+    {
+      "year": 1896,
+      "metroy": 5,
+      "peligro": -0.419
+    },
+    {
+      "year": 1896,
+      "metroy": 6,
+      "peligro": -0.161
+    },
+    {
+      "year": 1896,
+      "metroy": 7,
+      "peligro": -0.118
+    },
+    {
+      "year": 1896,
+      "metroy": 8,
+      "peligro": -0.238
+    },
+    {
+      "year": 1896,
+      "metroy": 9,
+      "peligro": -0.190
+    },
+    {
+      "year": 1896,
+      "metroy": 10,
+      "peligro": 0.194
+    },
+    {
+      "year": 1896,
+      "metroy": 11,
+      "peligro": -0.732
+    },
+    {
+      "year": 1896,
+      "metroy": 12,
+      "peligro": -0.241
+    },
+    {
+      "year": 1897,
+      "metroy": 1,
+      "peligro": -0.661
+    },
+    {
+      "year": 1897,
+      "metroy": 2,
+      "peligro": -0.733
+    },
+    {
+      "year": 1897,
+      "metroy": 3,
+      "peligro": -0.938
+    },
+    {
+      "year": 1897,
+      "metroy": 4,
+      "peligro": -0.025
+    },
+    {
+      "year": 1897,
+      "metroy": 5,
+      "peligro": 0.030
+    },
+    {
+      "year": 1897,
+      "metroy": 6,
+      "peligro": -0.175
+    },
+    {
+      "year": 1897,
+      "metroy": 7,
+      "peligro": 0.014
+    },
+    {
+      "year": 1897,
+      "metroy": 8,
+      "peligro": -0.161
+    },
+    {
+      "year": 1897,
+      "metroy": 9,
+      "peligro": -0.078
+    },
+    {
+      "year": 1897,
+      "metroy": 10,
+      "peligro": 0.059
+    },
+    {
+      "year": 1897,
+      "metroy": 11,
+      "peligro": -0.489
+    },
+    {
+      "year": 1897,
+      "metroy": 12,
+      "peligro": -0.386
+    },
+    {
+      "year": 1898,
+      "metroy": 1,
+      "peligro": 0.221
+    },
+    {
+      "year": 1898,
+      "metroy": 2,
+      "peligro": -0.834
+    },
+    {
+      "year": 1898,
+      "metroy": 3,
+      "peligro": -1.510
+    },
+    {
+      "year": 1898,
+      "metroy": 4,
+      "peligro": -0.354
+    },
+    {
+      "year": 1898,
+      "metroy": 5,
+      "peligro": -0.519
+    },
+    {
+      "year": 1898,
+      "metroy": 6,
+      "peligro": -0.178
+    },
+    {
+      "year": 1898,
+      "metroy": 7,
+      "peligro": -0.250
+    },
+    {
+      "year": 1898,
+      "metroy": 8,
+      "peligro": -0.318
+    },
+    {
+      "year": 1898,
+      "metroy": 9,
+      "peligro": -0.354
+    },
+    {
+      "year": 1898,
+      "metroy": 10,
+      "peligro": -0.483
+    },
+    {
+      "year": 1898,
+      "metroy": 11,
+      "peligro": -0.655
+    },
+    {
+      "year": 1898,
+      "metroy": 12,
+      "peligro": -0.219
+    },
+    {
+      "year": 1899,
+      "metroy": 1,
+      "peligro": -0.064
+    },
+    {
+      "year": 1899,
+      "metroy": 2,
+      "peligro": -0.813
+    },
+    {
+      "year": 1899,
+      "metroy": 3,
+      "peligro": -0.756
+    },
+    {
+      "year": 1899,
+      "metroy": 4,
+      "peligro": -0.121
+    },
+    {
+      "year": 1899,
+      "metroy": 5,
+      "peligro": -0.292
+    },
+    {
+      "year": 1899,
+      "metroy": 6,
+      "peligro": -0.620
+    },
+    {
+      "year": 1899,
+      "metroy": 7,
+      "peligro": -0.227
+    },
+    {
+      "year": 1899,
+      "metroy": 8,
+      "peligro": -0.173
+    },
+    {
+      "year": 1899,
+      "metroy": 9,
+      "peligro": 0.030
+    },
+    {
+      "year": 1899,
+      "metroy": 10,
+      "peligro": 0.132
+    },
+    {
+      "year": 1899,
+      "metroy": 11,
+      "peligro": 0.454
+    },
+    {
+      "year": 1899,
+      "metroy": 12,
+      "peligro": -0.636
+    },
+    {
+      "year": 1900,
+      "metroy": 1,
+      "peligro": -1.083
+    },
+    {
+      "year": 1900,
+      "metroy": 2,
+      "peligro": -0.177
+    },
+    {
+      "year": 1900,
+      "metroy": 3,
+      "peligro": 0.157
+    },
+    {
+      "year": 1900,
+      "metroy": 4,
+      "peligro": -0.057
+    },
+    {
+      "year": 1900,
+      "metroy": 5,
+      "peligro": 0.010
+    },
+    {
+      "year": 1900,
+      "metroy": 6,
+      "peligro": -0.133
+    },
+    {
+      "year": 1900,
+      "metroy": 7,
+      "peligro": -0.181
+    },
+    {
+      "year": 1900,
+      "metroy": 8,
+      "peligro": -0.056
+    },
+    {
+      "year": 1900,
+      "metroy": 9,
+      "peligro": -0.139
+    },
+    {
+      "year": 1900,
+      "metroy": 10,
+      "peligro": 0.402
+    },
+    {
+      "year": 1900,
+      "metroy": 11,
+      "peligro": -0.259
+    },
+    {
+      "year": 1900,
+      "metroy": 12,
+      "peligro": 0.045
+    },
+    {
+      "year": 1901,
+      "metroy": 1,
+      "peligro": -0.367
+    },
+    {
+      "year": 1901,
+      "metroy": 2,
+      "peligro": -0.092
+    },
+    {
+      "year": 1901,
+      "metroy": 3,
+      "peligro": 0.339
+    },
+    {
+      "year": 1901,
+      "metroy": 4,
+      "peligro": 0.208
+    },
+    {
+      "year": 1901,
+      "metroy": 5,
+      "peligro": -0.162
+    },
+    {
+      "year": 1901,
+      "metroy": 6,
+      "peligro": -0.091
+    },
+    {
+      "year": 1901,
+      "metroy": 7,
+      "peligro": -0.019
+    },
+    {
+      "year": 1901,
+      "metroy": 8,
+      "peligro": -0.063
+    },
+    {
+      "year": 1901,
+      "metroy": 9,
+      "peligro": -0.125
+    },
+    {
+      "year": 1901,
+      "metroy": 10,
+      "peligro": -0.267
+    },
+    {
+      "year": 1901,
+      "metroy": 11,
+      "peligro": -0.155
+    },
+    {
+      "year": 1901,
+      "metroy": 12,
+      "peligro": -0.324
+    },
+    {
+      "year": 1902,
+      "metroy": 1,
+      "peligro": 0.004
+    },
+    {
+      "year": 1902,
+      "metroy": 2,
+      "peligro": 0.393
+    },
+    {
+      "year": 1902,
+      "metroy": 3,
+      "peligro": -0.440
+    },
+    {
+      "year": 1902,
+      "metroy": 4,
+      "peligro": -0.344
+    },
+    {
+      "year": 1902,
+      "metroy": 5,
+      "peligro": -0.418
+    },
+    {
+      "year": 1902,
+      "metroy": 6,
+      "peligro": -0.273
+    },
+    {
+      "year": 1902,
+      "metroy": 7,
+      "peligro": -0.126
+    },
+    {
+      "year": 1902,
+      "metroy": 8,
+      "peligro": -0.273
+    },
+    {
+      "year": 1902,
+      "metroy": 9,
+      "peligro": -0.348
+    },
+    {
+      "year": 1902,
+      "metroy": 10,
+      "peligro": -0.487
+    },
+    {
+      "year": 1902,
+      "metroy": 11,
+      "peligro": -0.910
+    },
+    {
+      "year": 1902,
+      "metroy": 12,
+      "peligro": -0.933
+    },
+    {
+      "year": 1903,
+      "metroy": 1,
+      "peligro": -0.082
+    },
+    {
+      "year": 1903,
+      "metroy": 2,
+      "peligro": 0.317
+    },
+    {
+      "year": 1903,
+      "metroy": 3,
+      "peligro": -0.327
+    },
+    {
+      "year": 1903,
+      "metroy": 4,
+      "peligro": -0.412
+    },
+    {
+      "year": 1903,
+      "metroy": 5,
+      "peligro": -0.503
+    },
+    {
+      "year": 1903,
+      "metroy": 6,
+      "peligro": -0.572
+    },
+    {
+      "year": 1903,
+      "metroy": 7,
+      "peligro": -0.338
+    },
+    {
+      "year": 1903,
+      "metroy": 8,
+      "peligro": -0.422
+    },
+    {
+      "year": 1903,
+      "metroy": 9,
+      "peligro": -0.513
+    },
+    {
+      "year": 1903,
+      "metroy": 10,
+      "peligro": -0.473
+    },
+    {
+      "year": 1903,
+      "metroy": 11,
+      "peligro": -0.625
+    },
+    {
+      "year": 1903,
+      "metroy": 12,
+      "peligro": -0.725
+    },
+    {
+      "year": 1904,
+      "metroy": 1,
+      "peligro": -0.936
+    },
+    {
+      "year": 1904,
+      "metroy": 2,
+      "peligro": -0.842
+    },
+    {
+      "year": 1904,
+      "metroy": 3,
+      "peligro": -0.778
+    },
+    {
+      "year": 1904,
+      "metroy": 4,
+      "peligro": -0.630
+    },
+    {
+      "year": 1904,
+      "metroy": 5,
+      "peligro": -0.514
+    },
+    {
+      "year": 1904,
+      "metroy": 6,
+      "peligro": -0.507
+    },
+    {
+      "year": 1904,
+      "metroy": 7,
+      "peligro": -0.531
+    },
+    {
+      "year": 1904,
+      "metroy": 8,
+      "peligro": -0.413
+    },
+    {
+      "year": 1904,
+      "metroy": 9,
+      "peligro": -0.675
+    },
+    {
+      "year": 1904,
+      "metroy": 10,
+      "peligro": -0.457
+    },
+    {
+      "year": 1904,
+      "metroy": 11,
+      "peligro": 0.058
+    },
+    {
+      "year": 1904,
+      "metroy": 12,
+      "peligro": -0.330
+    },
+    {
+      "year": 1905,
+      "metroy": 1,
+      "peligro": -0.298
+    },
+    {
+      "year": 1905,
+      "metroy": 2,
+      "peligro": -1.285
+    },
+    {
+      "year": 1905,
+      "metroy": 3,
+      "peligro": -0.667
+    },
+    {
+      "year": 1905,
+      "metroy": 4,
+      "peligro": -0.578
+    },
+    {
+      "year": 1905,
+      "metroy": 5,
+      "peligro": -0.351
+    },
+    {
+      "year": 1905,
+      "metroy": 6,
+      "peligro": -0.348
+    },
+    {
+      "year": 1905,
+      "metroy": 7,
+      "peligro": -0.266
+    },
+    {
+      "year": 1905,
+      "metroy": 8,
+      "peligro": -0.284
+    },
+    {
+      "year": 1905,
+      "metroy": 9,
+      "peligro": -0.239
+    },
+    {
+      "year": 1905,
+      "metroy": 10,
+      "peligro": -0.172
+    },
+    {
+      "year": 1905,
+      "metroy": 11,
+      "peligro": 0.097
+    },
+    {
+      "year": 1905,
+      "metroy": 12,
+      "peligro": -0.275
+    },
+    {
+      "year": 1906,
+      "metroy": 1,
+      "peligro": -0.469
+    },
+    {
+      "year": 1906,
+      "metroy": 2,
+      "peligro": -0.861
+    },
+    {
+      "year": 1906,
+      "metroy": 3,
+      "peligro": -0.411
+    },
+    {
+      "year": 1906,
+      "metroy": 4,
+      "peligro": 0.317
+    },
+    {
+      "year": 1906,
+      "metroy": 5,
+      "peligro": -0.079
+    },
+    {
+      "year": 1906,
+      "metroy": 6,
+      "peligro": -0.144
+    },
+    {
+      "year": 1906,
+      "metroy": 7,
+      "peligro": -0.241
+    },
+    {
+      "year": 1906,
+      "metroy": 8,
+      "peligro": -0.185
+    },
+    {
+      "year": 1906,
+      "metroy": 9,
+      "peligro": -0.301
+    },
+    {
+      "year": 1906,
+      "metroy": 10,
+      "peligro": 0.020
+    },
+    {
+      "year": 1906,
+      "metroy": 11,
+      "peligro": -0.600
+    },
+    {
+      "year": 1906,
+      "metroy": 12,
+      "peligro": 0.134
+    },
+    {
+      "year": 1907,
+      "metroy": 1,
+      "peligro": -0.729
+    },
+    {
+      "year": 1907,
+      "metroy": 2,
+      "peligro": -1.032
+    },
+    {
+      "year": 1907,
+      "metroy": 3,
+      "peligro": -0.701
+    },
+    {
+      "year": 1907,
+      "metroy": 4,
+      "peligro": -0.734
+    },
+    {
+      "year": 1907,
+      "metroy": 5,
+      "peligro": -0.968
+    },
+    {
+      "year": 1907,
+      "metroy": 6,
+      "peligro": -0.746
+    },
+    {
+      "year": 1907,
+      "metroy": 7,
+      "peligro": -0.619
+    },
+    {
+      "year": 1907,
+      "metroy": 8,
+      "peligro": -0.535
+    },
+    {
+      "year": 1907,
+      "metroy": 9,
+      "peligro": -0.434
+    },
+    {
+      "year": 1907,
+      "metroy": 10,
+      "peligro": -0.026
+    },
+    {
+      "year": 1907,
+      "metroy": 11,
+      "peligro": -0.929
+    },
+    {
+      "year": 1907,
+      "metroy": 12,
+      "peligro": -0.679
+    },
+    {
+      "year": 1908,
+      "metroy": 1,
+      "peligro": -0.319
+    },
+    {
+      "year": 1908,
+      "metroy": 2,
+      "peligro": -0.391
+    },
+    {
+      "year": 1908,
+      "metroy": 3,
+      "peligro": -1.170
+    },
+    {
+      "year": 1908,
+      "metroy": 4,
+      "peligro": -0.492
+    },
+    {
+      "year": 1908,
+      "metroy": 5,
+      "peligro": -0.228
+    },
+    {
+      "year": 1908,
+      "metroy": 6,
+      "peligro": -0.218
+    },
+    {
+      "year": 1908,
+      "metroy": 7,
+      "peligro": -0.208
+    },
+    {
+      "year": 1908,
+      "metroy": 8,
+      "peligro": -0.519
+    },
+    {
+      "year": 1908,
+      "metroy": 9,
+      "peligro": -0.131
+    },
+    {
+      "year": 1908,
+      "metroy": 10,
+      "peligro": -0.408
+    },
+    {
+      "year": 1908,
+      "metroy": 11,
+      "peligro": -0.874
+    },
+    {
+      "year": 1908,
+      "metroy": 12,
+      "peligro": -0.571
+    },
+    {
+      "year": 1909,
+      "metroy": 1,
+      "peligro": -1.168
+    },
+    {
+      "year": 1909,
+      "metroy": 2,
+      "peligro": -0.492
+    },
+    {
+      "year": 1909,
+      "metroy": 3,
+      "peligro": -0.721
+    },
+    {
+      "year": 1909,
+      "metroy": 4,
+      "peligro": -0.813
+    },
+    {
+      "year": 1909,
+      "metroy": 5,
+      "peligro": -0.752
+    },
+    {
+      "year": 1909,
+      "metroy": 6,
+      "peligro": -0.557
+    },
+    {
+      "year": 1909,
+      "metroy": 7,
+      "peligro": -0.334
+    },
+    {
+      "year": 1909,
+      "metroy": 8,
+      "peligro": -0.135
+    },
+    {
+      "year": 1909,
+      "metroy": 9,
+      "peligro": -0.209
+    },
+    {
+      "year": 1909,
+      "metroy": 10,
+      "peligro": -0.078
+    },
+    {
+      "year": 1909,
+      "metroy": 11,
+      "peligro": 0.118
+    },
+    {
+      "year": 1909,
+      "metroy": 12,
+      "peligro": -0.393
+    },
+    {
+      "year": 1910,
+      "metroy": 1,
+      "peligro": -0.185
+    },
+    {
+      "year": 1910,
+      "metroy": 2,
+      "peligro": -0.394
+    },
+    {
+      "year": 1910,
+      "metroy": 3,
+      "peligro": -0.717
+    },
+    {
+      "year": 1910,
+      "metroy": 4,
+      "peligro": -0.219
+    },
+    {
+      "year": 1910,
+      "metroy": 5,
+      "peligro": -0.370
+    },
+    {
+      "year": 1910,
+      "metroy": 6,
+      "peligro": -0.387
+    },
+    {
+      "year": 1910,
+      "metroy": 7,
+      "peligro": -0.094
+    },
+    {
+      "year": 1910,
+      "metroy": 8,
+      "peligro": -0.214
+    },
+    {
+      "year": 1910,
+      "metroy": 9,
+      "peligro": -0.381
+    },
+    {
+      "year": 1910,
+      "metroy": 10,
+      "peligro": -0.282
+    },
+    {
+      "year": 1910,
+      "metroy": 11,
+      "peligro": -0.804
+    },
+    {
+      "year": 1910,
+      "metroy": 12,
+      "peligro": -0.930
+    },
+    {
+      "year": 1911,
+      "metroy": 1,
+      "peligro": -0.897
+    },
+    {
+      "year": 1911,
+      "metroy": 2,
+      "peligro": -0.729
+    },
+    {
+      "year": 1911,
+      "metroy": 3,
+      "peligro": -0.952
+    },
+    {
+      "year": 1911,
+      "metroy": 4,
+      "peligro": -0.350
+    },
+    {
+      "year": 1911,
+      "metroy": 5,
+      "peligro": -0.562
+    },
+    {
+      "year": 1911,
+      "metroy": 6,
+      "peligro": -0.493
+    },
+    {
+      "year": 1911,
+      "metroy": 7,
+      "peligro": -0.326
+    },
+    {
+      "year": 1911,
+      "metroy": 8,
+      "peligro": -0.407
+    },
+    {
+      "year": 1911,
+      "metroy": 9,
+      "peligro": -0.484
+    },
+    {
+      "year": 1911,
+      "metroy": 10,
+      "peligro": -0.031
+    },
+    {
+      "year": 1911,
+      "metroy": 11,
+      "peligro": -0.183
+    },
+    {
+      "year": 1911,
+      "metroy": 12,
+      "peligro": -0.236
+    },
+    {
+      "year": 1912,
+      "metroy": 1,
+      "peligro": -0.156
+    },
+    {
+      "year": 1912,
+      "metroy": 2,
+      "peligro": 0.139
+    },
+    {
+      "year": 1912,
+      "metroy": 3,
+      "peligro": -0.957
+    },
+    {
+      "year": 1912,
+      "metroy": 4,
+      "peligro": -0.124
+    },
+    {
+      "year": 1912,
+      "metroy": 5,
+      "peligro": -0.116
+    },
+    {
+      "year": 1912,
+      "metroy": 6,
+      "peligro": -0.113
+    },
+    {
+      "year": 1912,
+      "metroy": 7,
+      "peligro": -0.676
+    },
+    {
+      "year": 1912,
+      "metroy": 8,
+      "peligro": -0.829
+    },
+    {
+      "year": 1912,
+      "metroy": 9,
+      "peligro": -0.873
+    },
+    {
+      "year": 1912,
+      "metroy": 10,
+      "peligro": -0.922
+    },
+    {
+      "year": 1912,
+      "metroy": 11,
+      "peligro": -0.621
+    },
+    {
+      "year": 1912,
+      "metroy": 12,
+      "peligro": -0.577
+    },
+    {
+      "year": 1913,
+      "metroy": 1,
+      "peligro": -0.477
+    },
+    {
+      "year": 1913,
+      "metroy": 2,
+      "peligro": -0.810
+    },
+    {
+      "year": 1913,
+      "metroy": 3,
+      "peligro": -0.803
+    },
+    {
+      "year": 1913,
+      "metroy": 4,
+      "peligro": -0.320
+    },
+    {
+      "year": 1913,
+      "metroy": 5,
+      "peligro": -0.609
+    },
+    {
+      "year": 1913,
+      "metroy": 6,
+      "peligro": -0.518
+    },
+    {
+      "year": 1913,
+      "metroy": 7,
+      "peligro": -0.258
+    },
+    {
+      "year": 1913,
+      "metroy": 8,
+      "peligro": -0.169
+    },
+    {
+      "year": 1913,
+      "metroy": 9,
+      "peligro": -0.367
+    },
+    {
+      "year": 1913,
+      "metroy": 10,
+      "peligro": -0.240
+    },
+    {
+      "year": 1913,
+      "metroy": 11,
+      "peligro": -0.116
+    },
+    {
+      "year": 1913,
+      "metroy": 12,
+      "peligro": 0.481
+    },
+    {
+      "year": 1914,
+      "metroy": 1,
+      "peligro": 0.847
+    },
+    {
+      "year": 1914,
+      "metroy": 2,
+      "peligro": 0.058
+    },
+    {
+      "year": 1914,
+      "metroy": 3,
+      "peligro": -0.384
+    },
+    {
+      "year": 1914,
+      "metroy": 4,
+      "peligro": -0.273
+    },
+    {
+      "year": 1914,
+      "metroy": 5,
+      "peligro": -0.085
+    },
+    {
+      "year": 1914,
+      "metroy": 6,
+      "peligro": -0.038
+    },
+    {
+      "year": 1914,
+      "metroy": 7,
+      "peligro": -0.125
+    },
+    {
+      "year": 1914,
+      "metroy": 8,
+      "peligro": -0.188
+    },
+    {
+      "year": 1914,
+      "metroy": 9,
+      "peligro": -0.198
+    },
+    {
+      "year": 1914,
+      "metroy": 10,
+      "peligro": 0.118
+    },
+    {
+      "year": 1914,
+      "metroy": 11,
+      "peligro": -0.368
+    },
+    {
+      "year": 1914,
+      "metroy": 12,
+      "peligro": 0.025
+    },
+    {
+      "year": 1915,
+      "metroy": 1,
+      "peligro": -0.283
+    },
+    {
+      "year": 1915,
+      "metroy": 2,
+      "peligro": 0.061
+    },
+    {
+      "year": 1915,
+      "metroy": 3,
+      "peligro": -0.187
+    },
+    {
+      "year": 1915,
+      "metroy": 4,
+      "peligro": 0.347
+    },
+    {
+      "year": 1915,
+      "metroy": 5,
+      "peligro": 0.125
+    },
+    {
+      "year": 1915,
+      "metroy": 6,
+      "peligro": -0.194
+    },
+    {
+      "year": 1915,
+      "metroy": 7,
+      "peligro": 0.051
+    },
+    {
+      "year": 1915,
+      "metroy": 8,
+      "peligro": -0.108
+    },
+    {
+      "year": 1915,
+      "metroy": 9,
+      "peligro": -0.216
+    },
+    {
+      "year": 1915,
+      "metroy": 10,
+      "peligro": -0.276
+    },
+    {
+      "year": 1915,
+      "metroy": 11,
+      "peligro": 0.051
+    },
+    {
+      "year": 1915,
+      "metroy": 12,
+      "peligro": -0.020
+    },
+    {
+      "year": 1916,
+      "metroy": 1,
+      "peligro": 0.019
+    },
+    {
+      "year": 1916,
+      "metroy": 2,
+      "peligro": -0.253
+    },
+    {
+      "year": 1916,
+      "metroy": 3,
+      "peligro": -0.480
+    },
+    {
+      "year": 1916,
+      "metroy": 4,
+      "peligro": -0.271
+    },
+    {
+      "year": 1916,
+      "metroy": 5,
+      "peligro": -0.345
+    },
+    {
+      "year": 1916,
+      "metroy": 6,
+      "peligro": -0.574
+    },
+    {
+      "year": 1916,
+      "metroy": 7,
+      "peligro": -0.340
+    },
+    {
+      "year": 1916,
+      "metroy": 8,
+      "peligro": -0.333
+    },
+    {
+      "year": 1916,
+      "metroy": 9,
+      "peligro": -0.394
+    },
+    {
+      "year": 1916,
+      "metroy": 10,
+      "peligro": -0.268
+    },
+    {
+      "year": 1916,
+      "metroy": 11,
+      "peligro": -0.547
+    },
+    {
+      "year": 1916,
+      "metroy": 12,
+      "peligro": -1.334
+    },
+    {
+      "year": 1917,
+      "metroy": 1,
+      "peligro": -0.461
+    },
+    {
+      "year": 1917,
+      "metroy": 2,
+      "peligro": -0.856
+    },
+    {
+      "year": 1917,
+      "metroy": 3,
+      "peligro": -0.848
+    },
+    {
+      "year": 1917,
+      "metroy": 4,
+      "peligro": -0.490
+    },
+    {
+      "year": 1917,
+      "metroy": 5,
+      "peligro": -0.924
+    },
+    {
+      "year": 1917,
+      "metroy": 6,
+      "peligro": -0.620
+    },
+    {
+      "year": 1917,
+      "metroy": 7,
+      "peligro": -0.154
+    },
+    {
+      "year": 1917,
+      "metroy": 8,
+      "peligro": -0.404
+    },
+    {
+      "year": 1917,
+      "metroy": 9,
+      "peligro": -0.382
+    },
+    {
+      "year": 1917,
+      "metroy": 10,
+      "peligro": -0.740
+    },
+    {
+      "year": 1917,
+      "metroy": 11,
+      "peligro": -0.333
+    },
+    {
+      "year": 1917,
+      "metroy": 12,
+      "peligro": -1.406
+    },
+    {
+      "year": 1918,
+      "metroy": 1,
+      "peligro": -0.674
+    },
+    {
+      "year": 1918,
+      "metroy": 2,
+      "peligro": -0.744
+    },
+    {
+      "year": 1918,
+      "metroy": 3,
+      "peligro": -0.506
+    },
+    {
+      "year": 1918,
+      "metroy": 4,
+      "peligro": -0.699
+    },
+    {
+      "year": 1918,
+      "metroy": 5,
+      "peligro": -0.810
+    },
+    {
+      "year": 1918,
+      "metroy": 6,
+      "peligro": -0.587
+    },
+    {
+      "year": 1918,
+      "metroy": 7,
+      "peligro": -0.393
+    },
+    {
+      "year": 1918,
+      "metroy": 8,
+      "peligro": -0.479
+    },
+    {
+      "year": 1918,
+      "metroy": 9,
+      "peligro": -0.224
+    },
+    {
+      "year": 1918,
+      "metroy": 10,
+      "peligro": 0.149
+    },
+    {
+      "year": 1918,
+      "metroy": 11,
+      "peligro": -0.470
+    },
+    {
+      "year": 1918,
+      "metroy": 12,
+      "peligro": -0.827
+    },
+    {
+      "year": 1919,
+      "metroy": 1,
+      "peligro": -0.418
+    },
+    {
+      "year": 1919,
+      "metroy": 2,
+      "peligro": -0.353
+    },
+    {
+      "year": 1919,
+      "metroy": 3,
+      "peligro": -0.569
+    },
+    {
+      "year": 1919,
+      "metroy": 4,
+      "peligro": 0.154
+    },
+    {
+      "year": 1919,
+      "metroy": 5,
+      "peligro": -0.380
+    },
+    {
+      "year": 1919,
+      "metroy": 6,
+      "peligro": -0.303
+    },
+    {
+      "year": 1919,
+      "metroy": 7,
+      "peligro": -0.132
+    },
+    {
+      "year": 1919,
+      "metroy": 8,
+      "peligro": -0.118
+    },
+    {
+      "year": 1919,
+      "metroy": 9,
+      "peligro": -0.134
+    },
+    {
+      "year": 1919,
+      "metroy": 10,
+      "peligro": 0.083
+    },
+    {
+      "year": 1919,
+      "metroy": 11,
+      "peligro": -0.635
+    },
+    {
+      "year": 1919,
+      "metroy": 12,
+      "peligro": -0.447
+    },
+    {
+      "year": 1920,
+      "metroy": 1,
+      "peligro": 0.239
+    },
+    {
+      "year": 1920,
+      "metroy": 2,
+      "peligro": -0.461
+    },
+    {
+      "year": 1920,
+      "metroy": 3,
+      "peligro": -0.108
+    },
+    {
+      "year": 1920,
+      "metroy": 4,
+      "peligro": -0.084
+    },
+    {
+      "year": 1920,
+      "metroy": 5,
+      "peligro": -0.234
+    },
+    {
+      "year": 1920,
+      "metroy": 6,
+      "peligro": -0.440
+    },
+    {
+      "year": 1920,
+      "metroy": 7,
+      "peligro": -0.181
+    },
+    {
+      "year": 1920,
+      "metroy": 8,
+      "peligro": -0.255
+    },
+    {
+      "year": 1920,
+      "metroy": 9,
+      "peligro": -0.324
+    },
+    {
+      "year": 1920,
+      "metroy": 10,
+      "peligro": -0.254
+    },
+    {
+      "year": 1920,
+      "metroy": 11,
+      "peligro": -0.580
+    },
+    {
+      "year": 1920,
+      "metroy": 12,
+      "peligro": -1.038
+    },
+    {
+      "year": 1921,
+      "metroy": 1,
+      "peligro": 0.357
+    },
+    {
+      "year": 1921,
+      "metroy": 2,
+      "peligro": -0.088
+    },
+    {
+      "year": 1921,
+      "metroy": 3,
+      "peligro": -0.242
+    },
+    {
+      "year": 1921,
+      "metroy": 4,
+      "peligro": -0.025
+    },
+    {
+      "year": 1921,
+      "metroy": 5,
+      "peligro": -0.112
+    },
+    {
+      "year": 1921,
+      "metroy": 6,
+      "peligro": -0.086
+    },
+    {
+      "year": 1921,
+      "metroy": 7,
+      "peligro": 0.017
+    },
+    {
+      "year": 1921,
+      "metroy": 8,
+      "peligro": -0.344
+    },
+    {
+      "year": 1921,
+      "metroy": 9,
+      "peligro": -0.241
+    },
+    {
+      "year": 1921,
+      "metroy": 10,
+      "peligro": 0.008
+    },
+    {
+      "year": 1921,
+      "metroy": 11,
+      "peligro": -0.266
+    },
+    {
+      "year": 1921,
+      "metroy": 12,
+      "peligro": 0.008
+    },
+    {
+      "year": 1922,
+      "metroy": 1,
+      "peligro": -0.446
+    },
+    {
+      "year": 1922,
+      "metroy": 2,
+      "peligro": -0.838
+    },
+    {
+      "year": 1922,
+      "metroy": 3,
+      "peligro": -0.170
+    },
+    {
+      "year": 1922,
+      "metroy": 4,
+      "peligro": 0.049
+    },
+    {
+      "year": 1922,
+      "metroy": 5,
+      "peligro": -0.251
+    },
+    {
+      "year": 1922,
+      "metroy": 6,
+      "peligro": -0.192
+    },
+    {
+      "year": 1922,
+      "metroy": 7,
+      "peligro": -0.127
+    },
+    {
+      "year": 1922,
+      "metroy": 8,
+      "peligro": -0.343
+    },
+    {
+      "year": 1922,
+      "metroy": 9,
+      "peligro": -0.355
+    },
+    {
+      "year": 1922,
+      "metroy": 10,
+      "peligro": -0.220
+    },
+    {
+      "year": 1922,
+      "metroy": 11,
+      "peligro": -0.087
+    },
+    {
+      "year": 1922,
+      "metroy": 12,
+      "peligro": 0.001
+    },
+    {
+      "year": 1923,
+      "metroy": 1,
+      "peligro": -0.131
+    },
+    {
+      "year": 1923,
+      "metroy": 2,
+      "peligro": -0.644
+    },
+    {
+      "year": 1923,
+      "metroy": 3,
+      "peligro": -0.458
+    },
+    {
+      "year": 1923,
+      "metroy": 4,
+      "peligro": -0.593
+    },
+    {
+      "year": 1923,
+      "metroy": 5,
+      "peligro": -0.493
+    },
+    {
+      "year": 1923,
+      "metroy": 6,
+      "peligro": -0.227
+    },
+    {
+      "year": 1923,
+      "metroy": 7,
+      "peligro": -0.436
+    },
+    {
+      "year": 1923,
+      "metroy": 8,
+      "peligro": -0.311
+    },
+    {
+      "year": 1923,
+      "metroy": 9,
+      "peligro": -0.241
+    },
+    {
+      "year": 1923,
+      "metroy": 10,
+      "peligro": 0.249
+    },
+    {
+      "year": 1923,
+      "metroy": 11,
+      "peligro": 0.223
+    },
+    {
+      "year": 1923,
+      "metroy": 12,
+      "peligro": 0.213
+    },
+    {
+      "year": 1924,
+      "metroy": 1,
+      "peligro": -0.268
+    },
+    {
+      "year": 1924,
+      "metroy": 2,
+      "peligro": -0.304
+    },
+    {
+      "year": 1924,
+      "metroy": 3,
+      "peligro": 0.026
+    },
+    {
+      "year": 1924,
+      "metroy": 4,
+      "peligro": -0.364
+    },
+    {
+      "year": 1924,
+      "metroy": 5,
+      "peligro": -0.147
+    },
+    {
+      "year": 1924,
+      "metroy": 6,
+      "peligro": -0.171
+    },
+    {
+      "year": 1924,
+      "metroy": 7,
+      "peligro": -0.113
+    },
+    {
+      "year": 1924,
+      "metroy": 8,
+      "peligro": -0.258
+    },
+    {
+      "year": 1924,
+      "metroy": 9,
+      "peligro": -0.158
+    },
+    {
+      "year": 1924,
+      "metroy": 10,
+      "peligro": -0.068
+    },
+    {
+      "year": 1924,
+      "metroy": 11,
+      "peligro": 0.245
+    },
+    {
+      "year": 1924,
+      "metroy": 12,
+      "peligro": -0.183
+    },
+    {
+      "year": 1925,
+      "metroy": 1,
+      "peligro": -0.316
+    },
+    {
+      "year": 1925,
+      "metroy": 2,
+      "peligro": -0.514
+    },
+    {
+      "year": 1925,
+      "metroy": 3,
+      "peligro": -0.224
+    },
+    {
+      "year": 1925,
+      "metroy": 4,
+      "peligro": 0.097
+    },
+    {
+      "year": 1925,
+      "metroy": 5,
+      "peligro": -0.306
+    },
+    {
+      "year": 1925,
+      "metroy": 6,
+      "peligro": -0.442
+    },
+    {
+      "year": 1925,
+      "metroy": 7,
+      "peligro": -0.348
+    },
+    {
+      "year": 1925,
+      "metroy": 8,
+      "peligro": -0.148
+    },
+    {
+      "year": 1925,
+      "metroy": 9,
+      "peligro": -0.132
+    },
+    {
+      "year": 1925,
+      "metroy": 10,
+      "peligro": -0.076
+    },
+    {
+      "year": 1925,
+      "metroy": 11,
+      "peligro": 0.200
+    },
+    {
+      "year": 1925,
+      "metroy": 12,
+      "peligro": 0.716
+    },
+    {
+      "year": 1926,
+      "metroy": 1,
+      "peligro": 0.856
+    },
+    {
+      "year": 1926,
+      "metroy": 2,
+      "peligro": 0.513
+    },
+    {
+      "year": 1926,
+      "metroy": 3,
+      "peligro": 0.514
+    },
+    {
+      "year": 1926,
+      "metroy": 4,
+      "peligro": -0.111
+    },
+    {
+      "year": 1926,
+      "metroy": 5,
+      "peligro": -0.389
+    },
+    {
+      "year": 1926,
+      "metroy": 6,
+      "peligro": -0.238
+    },
+    {
+      "year": 1926,
+      "metroy": 7,
+      "peligro": -0.230
+    },
+    {
+      "year": 1926,
+      "metroy": 8,
+      "peligro": -0.029
+    },
+    {
+      "year": 1926,
+      "metroy": 9,
+      "peligro": -0.039
+    },
+    {
+      "year": 1926,
+      "metroy": 10,
+      "peligro": 0.306
+    },
+    {
+      "year": 1926,
+      "metroy": 11,
+      "peligro": 0.161
+    },
+    {
+      "year": 1926,
+      "metroy": 12,
+      "peligro": -0.318
+    },
+    {
+      "year": 1927,
+      "metroy": 1,
+      "peligro": -0.247
+    },
+    {
+      "year": 1927,
+      "metroy": 2,
+      "peligro": -0.150
+    },
+    {
+      "year": 1927,
+      "metroy": 3,
+      "peligro": -0.603
+    },
+    {
+      "year": 1927,
+      "metroy": 4,
+      "peligro": -0.254
+    },
+    {
+      "year": 1927,
+      "metroy": 5,
+      "peligro": -0.201
+    },
+    {
+      "year": 1927,
+      "metroy": 6,
+      "peligro": -0.253
+    },
+    {
+      "year": 1927,
+      "metroy": 7,
+      "peligro": -0.082
+    },
+    {
+      "year": 1927,
+      "metroy": 8,
+      "peligro": -0.205
+    },
+    {
+      "year": 1927,
+      "metroy": 9,
+      "peligro": 0.141
+    },
+    {
+      "year": 1927,
+      "metroy": 10,
+      "peligro": 0.618
+    },
+    {
+      "year": 1927,
+      "metroy": 11,
+      "peligro": 0.200
+    },
+    {
+      "year": 1927,
+      "metroy": 12,
+      "peligro": -0.416
+    },
+    {
+      "year": 1928,
+      "metroy": 1,
+      "peligro": 0.440
+    },
+    {
+      "year": 1928,
+      "metroy": 2,
+      "peligro": 0.140
+    },
+    {
+      "year": 1928,
+      "metroy": 3,
+      "peligro": -0.307
+    },
+    {
+      "year": 1928,
+      "metroy": 4,
+      "peligro": -0.090
+    },
+    {
+      "year": 1928,
+      "metroy": 5,
+      "peligro": -0.178
+    },
+    {
+      "year": 1928,
+      "metroy": 6,
+      "peligro": -0.417
+    },
+    {
+      "year": 1928,
+      "metroy": 7,
+      "peligro": -0.117
+    },
+    {
+      "year": 1928,
+      "metroy": 8,
+      "peligro": -0.237
+    },
+    {
+      "year": 1928,
+      "metroy": 9,
+      "peligro": -0.089
+    },
+    {
+      "year": 1928,
+      "metroy": 10,
+      "peligro": 0.206
+    },
+    {
+      "year": 1928,
+      "metroy": 11,
+      "peligro": 0.178
+    },
+    {
+      "year": 1928,
+      "metroy": 12,
+      "peligro": 0.195
+    },
+    {
+      "year": 1929,
+      "metroy": 1,
+      "peligro": -0.562
+    },
+    {
+      "year": 1929,
+      "metroy": 2,
+      "peligro": -1.059
+    },
+    {
+      "year": 1929,
+      "metroy": 3,
+      "peligro": -0.176
+    },
+    {
+      "year": 1929,
+      "metroy": 4,
+      "peligro": -0.233
+    },
+    {
+      "year": 1929,
+      "metroy": 5,
+      "peligro": -0.451
+    },
+    {
+      "year": 1929,
+      "metroy": 6,
+      "peligro": -0.609
+    },
+    {
+      "year": 1929,
+      "metroy": 7,
+      "peligro": -0.459
+    },
+    {
+      "year": 1929,
+      "metroy": 8,
+      "peligro": -0.244
+    },
+    {
+      "year": 1929,
+      "metroy": 9,
+      "peligro": -0.316
+    },
+    {
+      "year": 1929,
+      "metroy": 10,
+      "peligro": 0.200
+    },
+    {
+      "year": 1929,
+      "metroy": 11,
+      "peligro": 0.053
+    },
+    {
+      "year": 1929,
+      "metroy": 12,
+      "peligro": -1.085
+    },
+    {
+      "year": 1930,
+      "metroy": 1,
+      "peligro": -0.211
+    },
+    {
+      "year": 1930,
+      "metroy": 2,
+      "peligro": -0.062
+    },
+    {
+      "year": 1930,
+      "metroy": 3,
+      "peligro": 0.206
+    },
+    {
+      "year": 1930,
+      "metroy": 4,
+      "peligro": -0.167
+    },
+    {
+      "year": 1930,
+      "metroy": 5,
+      "peligro": -0.248
+    },
+    {
+      "year": 1930,
+      "metroy": 6,
+      "peligro": -0.197
+    },
+    {
+      "year": 1930,
+      "metroy": 7,
+      "peligro": 0.047
+    },
+    {
+      "year": 1930,
+      "metroy": 8,
+      "peligro": -0.013
+    },
+    {
+      "year": 1930,
+      "metroy": 9,
+      "peligro": -0.261
+    },
+    {
+      "year": 1930,
+      "metroy": 10,
+      "peligro": -0.034
+    },
+    {
+      "year": 1930,
+      "metroy": 11,
+      "peligro": 0.419
+    },
+    {
+      "year": 1930,
+      "metroy": 12,
+      "peligro": 0.144
+    },
+    {
+      "year": 1931,
+      "metroy": 1,
+      "peligro": 0.143
+    },
+    {
+      "year": 1931,
+      "metroy": 2,
+      "peligro": -0.520
+    },
+    {
+      "year": 1931,
+      "metroy": 3,
+      "peligro": -0.101
+    },
+    {
+      "year": 1931,
+      "metroy": 4,
+      "peligro": -0.192
+    },
+    {
+      "year": 1931,
+      "metroy": 5,
+      "peligro": -0.351
+    },
+    {
+      "year": 1931,
+      "metroy": 6,
+      "peligro": 0.039
+    },
+    {
+      "year": 1931,
+      "metroy": 7,
+      "peligro": 0.179
+    },
+    {
+      "year": 1931,
+      "metroy": 8,
+      "peligro": 0.204
+    },
+    {
+      "year": 1931,
+      "metroy": 9,
+      "peligro": 0.158
+    },
+    {
+      "year": 1931,
+      "metroy": 10,
+      "peligro": 0.652
+    },
+    {
+      "year": 1931,
+      "metroy": 11,
+      "peligro": 0.091
+    },
+    {
+      "year": 1931,
+      "metroy": 12,
+      "peligro": 0.350
+    },
+    {
+      "year": 1932,
+      "metroy": 1,
+      "peligro": 0.999
+    },
+    {
+      "year": 1932,
+      "metroy": 2,
+      "peligro": -0.237
+    },
+    {
+      "year": 1932,
+      "metroy": 3,
+      "peligro": -0.384
+    },
+    {
+      "year": 1932,
+      "metroy": 4,
+      "peligro": 0.418
+    },
+    {
+      "year": 1932,
+      "metroy": 5,
+      "peligro": -0.131
+    },
+    {
+      "year": 1932,
+      "metroy": 6,
+      "peligro": -0.150
+    },
+    {
+      "year": 1932,
+      "metroy": 7,
+      "peligro": -0.036
+    },
+    {
+      "year": 1932,
+      "metroy": 8,
+      "peligro": -0.189
+    },
+    {
+      "year": 1932,
+      "metroy": 9,
+      "peligro": 0.184
+    },
+    {
+      "year": 1932,
+      "metroy": 10,
+      "peligro": 0.404
+    },
+    {
+      "year": 1932,
+      "metroy": 11,
+      "peligro": -0.228
+    },
+    {
+      "year": 1932,
+      "metroy": 12,
+      "peligro": -0.142
+    },
+    {
+      "year": 1933,
+      "metroy": 1,
+      "peligro": -0.442
+    },
+    {
+      "year": 1933,
+      "metroy": 2,
+      "peligro": -0.566
+    },
+    {
+      "year": 1933,
+      "metroy": 3,
+      "peligro": -0.445
+    },
+    {
+      "year": 1933,
+      "metroy": 4,
+      "peligro": -0.212
+    },
+    {
+      "year": 1933,
+      "metroy": 5,
+      "peligro": -0.295
+    },
+    {
+      "year": 1933,
+      "metroy": 6,
+      "peligro": -0.407
+    },
+    {
+      "year": 1933,
+      "metroy": 7,
+      "peligro": -0.170
+    },
+    {
+      "year": 1933,
+      "metroy": 8,
+      "peligro": -0.159
+    },
+    {
+      "year": 1933,
+      "metroy": 9,
+      "peligro": -0.252
+    },
+    {
+      "year": 1933,
+      "metroy": 10,
+      "peligro": -0.026
+    },
+    {
+      "year": 1933,
+      "metroy": 11,
+      "peligro": -0.226
+    },
+    {
+      "year": 1933,
+      "metroy": 12,
+      "peligro": -0.554
+    },
+    {
+      "year": 1934,
+      "metroy": 1,
+      "peligro": -0.125
+    },
+    {
+      "year": 1934,
+      "metroy": 2,
+      "peligro": 0.495
+    },
+    {
+      "year": 1934,
+      "metroy": 3,
+      "peligro": -0.479
+    },
+    {
+      "year": 1934,
+      "metroy": 4,
+      "peligro": -0.308
+    },
+    {
+      "year": 1934,
+      "metroy": 5,
+      "peligro": 0.146
+    },
+    {
+      "year": 1934,
+      "metroy": 6,
+      "peligro": -0.087
+    },
+    {
+      "year": 1934,
+      "metroy": 7,
+      "peligro": -0.046
+    },
+    {
+      "year": 1934,
+      "metroy": 8,
+      "peligro": -0.128
+    },
+    {
+      "year": 1934,
+      "metroy": 9,
+      "peligro": -0.374
+    },
+    {
+      "year": 1934,
+      "metroy": 10,
+      "peligro": 0.169
+    },
+    {
+      "year": 1934,
+      "metroy": 11,
+      "peligro": 0.288
+    },
+    {
+      "year": 1934,
+      "metroy": 12,
+      "peligro": 0.335
+    },
+    {
+      "year": 1935,
+      "metroy": 1,
+      "peligro": -0.423
+    },
+    {
+      "year": 1935,
+      "metroy": 2,
+      "peligro": 0.908
+    },
+    {
+      "year": 1935,
+      "metroy": 3,
+      "peligro": 0.082
+    },
+    {
+      "year": 1935,
+      "metroy": 4,
+      "peligro": -0.549
+    },
+    {
+      "year": 1935,
+      "metroy": 5,
+      "peligro": -0.435
+    },
+    {
+      "year": 1935,
+      "metroy": 6,
+      "peligro": -0.180
+    },
+    {
+      "year": 1935,
+      "metroy": 7,
+      "peligro": -0.062
+    },
+    {
+      "year": 1935,
+      "metroy": 8,
+      "peligro": -0.130
+    },
+    {
+      "year": 1935,
+      "metroy": 9,
+      "peligro": -0.116
+    },
+    {
+      "year": 1935,
+      "metroy": 10,
+      "peligro": 0.253
+    },
+    {
+      "year": 1935,
+      "metroy": 11,
+      "peligro": -0.685
+    },
+    {
+      "year": 1935,
+      "metroy": 12,
+      "peligro": -0.228
+    },
+    {
+      "year": 1936,
+      "metroy": 1,
+      "peligro": -0.325
+    },
+    {
+      "year": 1936,
+      "metroy": 2,
+      "peligro": -0.706
+    },
+    {
+      "year": 1936,
+      "metroy": 3,
+      "peligro": -0.255
+    },
+    {
+      "year": 1936,
+      "metroy": 4,
+      "peligro": -0.194
+    },
+    {
+      "year": 1936,
+      "metroy": 5,
+      "peligro": -0.073
+    },
+    {
+      "year": 1936,
+      "metroy": 6,
+      "peligro": -0.159
+    },
+    {
+      "year": 1936,
+      "metroy": 7,
+      "peligro": 0.219
+    },
+    {
+      "year": 1936,
+      "metroy": 8,
+      "peligro": -0.064
+    },
+    {
+      "year": 1936,
+      "metroy": 9,
+      "peligro": -0.112
+    },
+    {
+      "year": 1936,
+      "metroy": 10,
+      "peligro": 0.186
+    },
+    {
+      "year": 1936,
+      "metroy": 11,
+      "peligro": 0.115
+    },
+    {
+      "year": 1936,
+      "metroy": 12,
+      "peligro": 0.261
+    },
+    {
+      "year": 1937,
+      "metroy": 1,
+      "peligro": -0.165
+    },
+    {
+      "year": 1937,
+      "metroy": 2,
+      "peligro": 0.326
+    },
+    {
+      "year": 1937,
+      "metroy": 3,
+      "peligro": -0.443
+    },
+    {
+      "year": 1937,
+      "metroy": 4,
+      "peligro": -0.209
+    },
+    {
+      "year": 1937,
+      "metroy": 5,
+      "peligro": 0.063
+    },
+    {
+      "year": 1937,
+      "metroy": 6,
+      "peligro": 0.068
+    },
+    {
+      "year": 1937,
+      "metroy": 7,
+      "peligro": -0.049
+    },
+    {
+      "year": 1937,
+      "metroy": 8,
+      "peligro": 0.084
+    },
+    {
+      "year": 1937,
+      "metroy": 9,
+      "peligro": 0.277
+    },
+    {
+      "year": 1937,
+      "metroy": 10,
+      "peligro": 0.446
+    },
+    {
+      "year": 1937,
+      "metroy": 11,
+      "peligro": 0.207
+    },
+    {
+      "year": 1937,
+      "metroy": 12,
+      "peligro": -0.192
+    },
+    {
+      "year": 1938,
+      "metroy": 1,
+      "peligro": 0.306
+    },
+    {
+      "year": 1938,
+      "metroy": 2,
+      "peligro": 0.186
+    },
+    {
+      "year": 1938,
+      "metroy": 3,
+      "peligro": 0.317
+    },
+    {
+      "year": 1938,
+      "metroy": 4,
+      "peligro": 0.574
+    },
+    {
+      "year": 1938,
+      "metroy": 5,
+      "peligro": 0.089
+    },
+    {
+      "year": 1938,
+      "metroy": 6,
+      "peligro": -0.218
+    },
+    {
+      "year": 1938,
+      "metroy": 7,
+      "peligro": 0.079
+    },
+    {
+      "year": 1938,
+      "metroy": 8,
+      "peligro": 0.025
+    },
+    {
+      "year": 1938,
+      "metroy": 9,
+      "peligro": 0.296
+    },
+    {
+      "year": 1938,
+      "metroy": 10,
+      "peligro": 0.513
+    },
+    {
+      "year": 1938,
+      "metroy": 11,
+      "peligro": 0.416
+    },
+    {
+      "year": 1938,
+      "metroy": 12,
+      "peligro": -0.138
+    },
+    {
+      "year": 1939,
+      "metroy": 1,
+      "peligro": 0.329
+    },
+    {
+      "year": 1939,
+      "metroy": 2,
+      "peligro": 0.036
+    },
+    {
+      "year": 1939,
+      "metroy": 3,
+      "peligro": -0.394
+    },
+    {
+      "year": 1939,
+      "metroy": 4,
+      "peligro": -0.027
+    },
+    {
+      "year": 1939,
+      "metroy": 5,
+      "peligro": 0.152
+    },
+    {
+      "year": 1939,
+      "metroy": 6,
+      "peligro": -0.008
+    },
+    {
+      "year": 1939,
+      "metroy": 7,
+      "peligro": -0.023
+    },
+    {
+      "year": 1939,
+      "metroy": 8,
+      "peligro": -0.005
+    },
+    {
+      "year": 1939,
+      "metroy": 9,
+      "peligro": -0.184
+    },
+    {
+      "year": 1939,
+      "metroy": 10,
+      "peligro": -0.071
+    },
+    {
+      "year": 1939,
+      "metroy": 11,
+      "peligro": 0.057
+    },
+    {
+      "year": 1939,
+      "metroy": 12,
+      "peligro": 1.303
+    },
+    {
+      "year": 1940,
+      "metroy": 1,
+      "peligro": -0.272
+    },
+    {
+      "year": 1940,
+      "metroy": 2,
+      "peligro": 0.202
+    },
+    {
+      "year": 1940,
+      "metroy": 3,
+      "peligro": 0.095
+    },
+    {
+      "year": 1940,
+      "metroy": 4,
+      "peligro": 0.401
+    },
+    {
+      "year": 1940,
+      "metroy": 5,
+      "peligro": -0.038
+    },
+    {
+      "year": 1940,
+      "metroy": 6,
+      "peligro": 0.061
+    },
+    {
+      "year": 1940,
+      "metroy": 7,
+      "peligro": 0.144
+    },
+    {
+      "year": 1940,
+      "metroy": 8,
+      "peligro": -0.104
+    },
+    {
+      "year": 1940,
+      "metroy": 9,
+      "peligro": 0.135
+    },
+    {
+      "year": 1940,
+      "metroy": 10,
+      "peligro": 0.189
+    },
+    {
+      "year": 1940,
+      "metroy": 11,
+      "peligro": -0.042
+    },
+    {
+      "year": 1940,
+      "metroy": 12,
+      "peligro": 0.507
+    },
+    {
+      "year": 1941,
+      "metroy": 1,
+      "peligro": 0.148
+    },
+    {
+      "year": 1941,
+      "metroy": 2,
+      "peligro": 0.464
+    },
+    {
+      "year": 1941,
+      "metroy": 3,
+      "peligro": -0.106
+    },
+    {
+      "year": 1941,
+      "metroy": 4,
+      "peligro": 0.228
+    },
+    {
+      "year": 1941,
+      "metroy": 5,
+      "peligro": 0.117
+    },
+    {
+      "year": 1941,
+      "metroy": 6,
+      "peligro": 0.096
+    },
+    {
+      "year": 1941,
+      "metroy": 7,
+      "peligro": 0.287
+    },
+    {
+      "year": 1941,
+      "metroy": 8,
+      "peligro": 0.090
+    },
+    {
+      "year": 1941,
+      "metroy": 9,
+      "peligro": -0.313
+    },
+    {
+      "year": 1941,
+      "metroy": 10,
+      "peligro": 0.425
+    },
+    {
+      "year": 1941,
+      "metroy": 11,
+      "peligro": -0.179
+    },
+    {
+      "year": 1941,
+      "metroy": 12,
+      "peligro": 0.056
+    },
+    {
+      "year": 1942,
+      "metroy": 1,
+      "peligro": 0.513
+    },
+    {
+      "year": 1942,
+      "metroy": 2,
+      "peligro": -0.339
+    },
+    {
+      "year": 1942,
+      "metroy": 3,
+      "peligro": -0.007
+    },
+    {
+      "year": 1942,
+      "metroy": 4,
+      "peligro": 0.069
+    },
+    {
+      "year": 1942,
+      "metroy": 5,
+      "peligro": -0.032
+    },
+    {
+      "year": 1942,
+      "metroy": 6,
+      "peligro": 0.059
+    },
+    {
+      "year": 1942,
+      "metroy": 7,
+      "peligro": -0.165
+    },
+    {
+      "year": 1942,
+      "metroy": 8,
+      "peligro": -0.148
+    },
+    {
+      "year": 1942,
+      "metroy": 9,
+      "peligro": 0.005
+    },
+    {
+      "year": 1942,
+      "metroy": 10,
+      "peligro": 0.346
+    },
+    {
+      "year": 1942,
+      "metroy": 11,
+      "peligro": 0.267
+    },
+    {
+      "year": 1942,
+      "metroy": 12,
+      "peligro": 0.297
+    },
+    {
+      "year": 1943,
+      "metroy": 1,
+      "peligro": -0.191
+    },
+    {
+      "year": 1943,
+      "metroy": 2,
+      "peligro": 0.316
+    },
+    {
+      "year": 1943,
+      "metroy": 3,
+      "peligro": -0.193
+    },
+    {
+      "year": 1943,
+      "metroy": 4,
+      "peligro": 0.279
+    },
+    {
+      "year": 1943,
+      "metroy": 5,
+      "peligro": 0.105
+    },
+    {
+      "year": 1943,
+      "metroy": 6,
+      "peligro": -0.378
+    },
+    {
+      "year": 1943,
+      "metroy": 7,
+      "peligro": 0.035
+    },
+    {
+      "year": 1943,
+      "metroy": 8,
+      "peligro": -0.178
+    },
+    {
+      "year": 1943,
+      "metroy": 9,
+      "peligro": -0.050
+    },
+    {
+      "year": 1943,
+      "metroy": 10,
+      "peligro": 0.621
+    },
+    {
+      "year": 1943,
+      "metroy": 11,
+      "peligro": 0.137
+    },
+    {
+      "year": 1943,
+      "metroy": 12,
+      "peligro": 0.579
+    },
+    {
+      "year": 1944,
+      "metroy": 1,
+      "peligro": 0.920
+    },
+    {
+      "year": 1944,
+      "metroy": 2,
+      "peligro": 0.375
+    },
+    {
+      "year": 1944,
+      "metroy": 3,
+      "peligro": 0.215
+    },
+    {
+      "year": 1944,
+      "metroy": 4,
+      "peligro": 0.077
+    },
+    {
+      "year": 1944,
+      "metroy": 5,
+      "peligro": -0.053
+    },
+    {
+      "year": 1944,
+      "metroy": 6,
+      "peligro": -0.065
+    },
+    {
+      "year": 1944,
+      "metroy": 7,
+      "peligro": 0.027
+    },
+    {
+      "year": 1944,
+      "metroy": 8,
+      "peligro": 0.064
+    },
+    {
+      "year": 1944,
+      "metroy": 9,
+      "peligro": 0.303
+    },
+    {
+      "year": 1944,
+      "metroy": 10,
+      "peligro": 0.533
+    },
+    {
+      "year": 1944,
+      "metroy": 11,
+      "peligro": -0.032
+    },
+    {
+      "year": 1944,
+      "metroy": 12,
+      "peligro": -0.216
+    },
+    {
+      "year": 1945,
+      "metroy": 1,
+      "peligro": -0.045
+    },
+    {
+      "year": 1945,
+      "metroy": 2,
+      "peligro": -0.550
+    },
+    {
+      "year": 1945,
+      "metroy": 3,
+      "peligro": -0.119
+    },
+    {
+      "year": 1945,
+      "metroy": 4,
+      "peligro": 0.320
+    },
+    {
+      "year": 1945,
+      "metroy": 5,
+      "peligro": -0.288
+    },
+    {
+      "year": 1945,
+      "metroy": 6,
+      "peligro": -0.203
+    },
+    {
+      "year": 1945,
+      "metroy": 7,
+      "peligro": -0.203
+    },
+    {
+      "year": 1945,
+      "metroy": 8,
+      "peligro": 0.375
+    },
+    {
+      "year": 1945,
+      "metroy": 9,
+      "peligro": 0.096
+    },
+    {
+      "year": 1945,
+      "metroy": 10,
+      "peligro": 0.303
+    },
+    {
+      "year": 1945,
+      "metroy": 11,
+      "peligro": -0.045
+    },
+    {
+      "year": 1945,
+      "metroy": 12,
+      "peligro": -0.495
+    },
+    {
+      "year": 1946,
+      "metroy": 1,
+      "peligro": 0.383
+    },
+    {
+      "year": 1946,
+      "metroy": 2,
+      "peligro": 0.259
+    },
+    {
+      "year": 1946,
+      "metroy": 3,
+      "peligro": -0.059
+    },
+    {
+      "year": 1946,
+      "metroy": 4,
+      "peligro": 0.487
+    },
+    {
+      "year": 1946,
+      "metroy": 5,
+      "peligro": -0.014
+    },
+    {
+      "year": 1946,
+      "metroy": 6,
+      "peligro": -0.238
+    },
+    {
+      "year": 1946,
+      "metroy": 7,
+      "peligro": 0.000
+    },
+    {
+      "year": 1946,
+      "metroy": 8,
+      "peligro": -0.116
+    },
+    {
+      "year": 1946,
+      "metroy": 9,
+      "peligro": -0.073
+    },
+    {
+      "year": 1946,
+      "metroy": 10,
+      "peligro": 0.017
+    },
+    {
+      "year": 1946,
+      "metroy": 11,
+      "peligro": 0.123
+    },
+    {
+      "year": 1946,
+      "metroy": 12,
+      "peligro": -0.502
+    },
+    {
+      "year": 1947,
+      "metroy": 1,
+      "peligro": -0.001
+    },
+    {
+      "year": 1947,
+      "metroy": 2,
+      "peligro": 0.076
+    },
+    {
+      "year": 1947,
+      "metroy": 3,
+      "peligro": 0.483
+    },
+    {
+      "year": 1947,
+      "metroy": 4,
+      "peligro": 0.339
+    },
+    {
+      "year": 1947,
+      "metroy": 5,
+      "peligro": -0.038
+    },
+    {
+      "year": 1947,
+      "metroy": 6,
+      "peligro": -0.065
+    },
+    {
+      "year": 1947,
+      "metroy": 7,
+      "peligro": -0.067
+    },
+    {
+      "year": 1947,
+      "metroy": 8,
+      "peligro": -0.100
+    },
+    {
+      "year": 1947,
+      "metroy": 9,
+      "peligro": 0.030
+    },
+    {
+      "year": 1947,
+      "metroy": 10,
+      "peligro": 0.743
+    },
+    {
+      "year": 1947,
+      "metroy": 11,
+      "peligro": 0.305
+    },
+    {
+      "year": 1947,
+      "metroy": 12,
+      "peligro": 0.014
+    },
+    {
+      "year": 1948,
+      "metroy": 1,
+      "peligro": 0.786
+    },
+    {
+      "year": 1948,
+      "metroy": 2,
+      "peligro": 0.006
+    },
+    {
+      "year": 1948,
+      "metroy": 3,
+      "peligro": -0.405
+    },
+    {
+      "year": 1948,
+      "metroy": 4,
+      "peligro": 0.150
+    },
+    {
+      "year": 1948,
+      "metroy": 5,
+      "peligro": 0.169
+    },
+    {
+      "year": 1948,
+      "metroy": 6,
+      "peligro": 0.138
+    },
+    {
+      "year": 1948,
+      "metroy": 7,
+      "peligro": 0.034
+    },
+    {
+      "year": 1948,
+      "metroy": 8,
+      "peligro": -0.044
+    },
+    {
+      "year": 1948,
+      "metroy": 9,
+      "peligro": 0.021
+    },
+    {
+      "year": 1948,
+      "metroy": 10,
+      "peligro": 0.306
+    },
+    {
+      "year": 1948,
+      "metroy": 11,
+      "peligro": 0.076
+    },
+    {
+      "year": 1948,
+      "metroy": 12,
+      "peligro": -0.159
+    },
+    {
+      "year": 1949,
+      "metroy": 1,
+      "peligro": 0.613
+    },
+    {
+      "year": 1949,
+      "metroy": 2,
+      "peligro": -0.455
+    },
+    {
+      "year": 1949,
+      "metroy": 3,
+      "peligro": -0.251
+    },
+    {
+      "year": 1949,
+      "metroy": 4,
+      "peligro": -0.011
+    },
+    {
+      "year": 1949,
+      "metroy": 5,
+      "peligro": -0.056
+    },
+    {
+      "year": 1949,
+      "metroy": 6,
+      "peligro": -0.308
+    },
+    {
+      "year": 1949,
+      "metroy": 7,
+      "peligro": -0.205
+    },
+    {
+      "year": 1949,
+      "metroy": 8,
+      "peligro": -0.102
+    },
+    {
+      "year": 1949,
+      "metroy": 9,
+      "peligro": -0.167
+    },
+    {
+      "year": 1949,
+      "metroy": 10,
+      "peligro": 0.258
+    },
+    {
+      "year": 1949,
+      "metroy": 11,
+      "peligro": 0.040
+    },
+    {
+      "year": 1949,
+      "metroy": 12,
+      "peligro": -0.192
+    },
+    {
+      "year": 1950,
+      "metroy": 1,
+      "peligro": -0.600
+    },
+    {
+      "year": 1950,
+      "metroy": 2,
+      "peligro": -0.503
+    },
+    {
+      "year": 1950,
+      "metroy": 3,
+      "peligro": -0.086
+    },
+    {
+      "year": 1950,
+      "metroy": 4,
+      "peligro": -0.233
+    },
+    {
+      "year": 1950,
+      "metroy": 5,
+      "peligro": -0.074
+    },
+    {
+      "year": 1950,
+      "metroy": 6,
+      "peligro": -0.147
+    },
+    {
+      "year": 1950,
+      "metroy": 7,
+      "peligro": -0.275
+    },
+    {
+      "year": 1950,
+      "metroy": 8,
+      "peligro": -0.504
+    },
+    {
+      "year": 1950,
+      "metroy": 9,
+      "peligro": -0.182
+    },
+    {
+      "year": 1950,
+      "metroy": 10,
+      "peligro": -0.116
+    },
+    {
+      "year": 1950,
+      "metroy": 11,
+      "peligro": -0.736
+    },
+    {
+      "year": 1950,
+      "metroy": 12,
+      "peligro": -0.113
+    },
+    {
+      "year": 1951,
+      "metroy": 1,
+      "peligro": -0.492
+    },
+    {
+      "year": 1951,
+      "metroy": 2,
+      "peligro": -0.903
+    },
+    {
+      "year": 1951,
+      "metroy": 3,
+      "peligro": -0.241
+    },
+    {
+      "year": 1951,
+      "metroy": 4,
+      "peligro": 0.012
+    },
+    {
+      "year": 1951,
+      "metroy": 5,
+      "peligro": 0.143
+    },
+    {
+      "year": 1951,
+      "metroy": 6,
+      "peligro": -0.221
+    },
+    {
+      "year": 1951,
+      "metroy": 7,
+      "peligro": -0.124
+    },
+    {
+      "year": 1951,
+      "metroy": 8,
+      "peligro": 0.073
+    },
+    {
+      "year": 1951,
+      "metroy": 9,
+      "peligro": 0.191
+    },
+    {
+      "year": 1951,
+      "metroy": 10,
+      "peligro": 0.405
+    },
+    {
+      "year": 1951,
+      "metroy": 11,
+      "peligro": 0.099
+    },
+    {
+      "year": 1951,
+      "metroy": 12,
+      "peligro": 0.679
+    },
+    {
+      "year": 1952,
+      "metroy": 1,
+      "peligro": 0.438
+    },
+    {
+      "year": 1952,
+      "metroy": 2,
+      "peligro": 0.182
+    },
+    {
+      "year": 1952,
+      "metroy": 3,
+      "peligro": -0.363
+    },
+    {
+      "year": 1952,
+      "metroy": 4,
+      "peligro": 0.110
+    },
+    {
+      "year": 1952,
+      "metroy": 5,
+      "peligro": -0.000
+    },
+    {
+      "year": 1952,
+      "metroy": 6,
+      "peligro": -0.077
+    },
+    {
+      "year": 1952,
+      "metroy": 7,
+      "peligro": 0.145
+    },
+    {
+      "year": 1952,
+      "metroy": 8,
+      "peligro": 0.032
+    },
+    {
+      "year": 1999,
+      "metroy": 7,
+      "peligro": 0.458
+    },
+    {
+      "year": 1999,
+      "metroy": 8,
+      "peligro": 0.419
+    },
+    {
+      "year": 1999,
+      "metroy": 9,
+      "peligro": 0.589
+    },
+    {
+      "year": 1999,
+      "metroy": 10,
+      "peligro": 0.737
+    },
+    {
+      "year": 1999,
+      "metroy": 11,
+      "peligro": 0.501
+    },
+    {
+      "year": 1999,
+      "metroy": 12,
+      "peligro": 0.934
+    },
+    {
+      "year": 2015,
+      "metroy": 9,
+      "peligro": 0.870
+    }
+  ]
+}
